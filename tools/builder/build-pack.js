@@ -30,7 +30,7 @@ import {storiesOf} from '@storybook/html'
 storiesOf('${path.basename(baseDir)}')
   .add('icons', () => [
 ${icons.map(icon => `    require('!!raw-loader!./${icon.originalName}.svg').default,`).join('\n')}
-  ].map(icon => \`<div>\${icon}</div>\`).join('\\n'))
+  ].map(icon => \`<div class="icon">\${icon}</div>\`).join('\\n'))
 
 `.trim(),
   )

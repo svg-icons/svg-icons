@@ -18,7 +18,7 @@
     "clean": "clean-pack"
   },
   "devDependencies": {
-    "@svg-icons/tsconfig": "^10.0.0",
+    "@svg-icons/pack-builder": "^10.0.0",
     "boxicons": "2.0.5"
   }
 }

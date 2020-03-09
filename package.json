@@ -17,6 +17,7 @@
     "build-storybook": "build-storybook -c .storybook -o .out",
     "bump": "lerna version",
     "bootstrap": "lerna bootstrap",
+    "test-visual": "chromatic",
     "clean": "lerna run clean --stream",
     "format": "prettier --write './**/*.{ts,tsx,js,md,json}'",
     "format:check": "prettier --list-different './**/*.{ts,tsx,js,md,json}'",
