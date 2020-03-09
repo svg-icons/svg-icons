@@ -25,3 +25,6 @@ jobs:
 
       - name: Build
         run: yarn build
+
+      - name: Visual Tests
+        run: yarn chromatic
