@@ -1,0 +1,24 @@
+{
+  "name": "@svg-icons/icomoon",
+  "version": "10.0.0",
+  "description": "Icomoon icons available as Styled Components",
+  "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
+  "homepage": "https://github.com/jacobwgillespie/svg-icons",
+  "repository": "git://github.com/jacobwgillespie/svg-icons.git",
+  "license": "MIT",
+  "main": "./index.js",
+  "module": "./index.esm.js",
+  "types": "./index.d.ts",
+  "sideEffects": false,
+  "keywords": [
+    "svg-icons"
+  ],
+  "scripts": {
+    "build": "build-pack",
+    "clean": "clean-pack"
+  },
+  "devDependencies": {
+    "@svg-icons/icomoon-source": "Keyamoon/IcoMoon-Free#d006795ede82361e1bac1ee76f215cf1dc51e4ca",
+    "@svg-icons/pack-builder": "^10.0.0"
+  }
+}

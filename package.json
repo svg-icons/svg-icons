@@ -1,0 +1,36 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "tools/*"
+  ],
+  "prettier": {
+    "bracketSpacing": false,
+    "printWidth": 120,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "all"
+  },
+  "scripts": {
+    "build": "lerna run build --stream",
+    "build:ci": "lerna run build",
+    "build-storybook": "build-storybook -c .storybook -o .out",
+    "bump": "lerna version",
+    "bootstrap": "lerna bootstrap",
+    "clean": "lerna run clean --stream",
+    "format": "prettier --write './**/*.{ts,tsx,js,md,json}'",
+    "format:check": "prettier --list-different './**/*.{ts,tsx,js,md,json}'",
+    "push": "lerna publish",
+    "storybook": "start-storybook -p 5000"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@storybook/html": "^5.3.14",
+    "@storybook/react": "^5.3.14",
+    "@types/node": "^13.7.7",
+    "babel-loader": "^8.0.6",
+    "lerna": "^3.20.2",
+    "prettier": "^1.19.1",
+    "storybook-chromatic": "^3.5.2"
+  }
+}

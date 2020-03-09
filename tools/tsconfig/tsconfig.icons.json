@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "declaration": true,
+    "importHelpers": true,
+    "module": "es2015",
+    "outDir": "./build",
+    "rootDir": "./build",
+    "target": "es5"
+  },
+  "exclude": ["generate"]
+}

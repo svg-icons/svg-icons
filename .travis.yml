@@ -1,0 +1,7 @@
+sudo: false
+language: node_js
+node_js: '10'
+
+before_install: true
+install: true
+script: true
