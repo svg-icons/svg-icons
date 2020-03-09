@@ -28,3 +28,5 @@ jobs:
 
       - name: Visual Tests
         run: yarn chromatic
+        env:
+          CHROMATIC_APP_CODE: '${{ secrets.CHROMATIC_APP_CODE }}'
