@@ -19,7 +19,7 @@ const generate = async () => {
 
   for (const icon of icons) {
     await fs.writeFile(`${icon.originalName}.svg`, icon.source)
-    // await execa('svgcleaner', [`${icon.originalName}.svg`, `${icon.originalName}.svg`], {stdio: 'inherit'})
+    await execa('svgcleaner', [`${icon.originalName}.svg`, `${icon.originalName}.svg`], {stdio: 'inherit'})
   }
 
   await fs.writeFile(

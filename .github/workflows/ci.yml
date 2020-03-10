@@ -6,8 +6,12 @@ jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
+    env:
+      CI: true
     steps:
       - uses: actions/checkout@master
+        with:
+          fetch-depth: 0
 
       - name: Get yarn cache
         id: yarn-cache
@@ -21,12 +25,17 @@ jobs:
             ${{ runner.os }}-yarn-
 
       - name: Install Dependencies
-        run: yarn install --frozen-lockfile
+        run: |
+          yarn install --frozen-lockfile
+          mkdir -p ~/bin
+          curl -L https://github.com/RazrFalcon/svgcleaner/releases/download/v0.9.5/svgcleaner_linux_x86_64_0.9.5.tar.gz | tar zxv -C ~/bin
+          chmod +x ~/bin/svgcleaner
+          echo "::add-path::$HOME/bin"
 
       - name: Build
         run: yarn build
 
       - name: Visual Tests
-        run: yarn chromatic
+        run: yarn chromatic --exit-zero-on-changes
         env:
           CHROMATIC_APP_CODE: '${{ secrets.CHROMATIC_APP_CODE }}'
