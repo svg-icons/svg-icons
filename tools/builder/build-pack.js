@@ -19,7 +19,6 @@ const generate = async () => {
 
   for (const icon of icons) {
     await fs.writeFile(`${icon.originalName}.svg`, icon.source)
-    await execa('svgcleaner', [`${icon.originalName}.svg`, `${icon.originalName}.svg`], {stdio: 'inherit'})
   }
 
   await fs.writeFile(
@@ -34,6 +33,8 @@ ${icons.map(icon => `    require('!!raw-loader!./${icon.originalName}.svg').defa
 
 `.trim(),
   )
+
+  await execa('../../target/debug/svgbuilder', ['.'], {stdio: 'inherit'})
 
   console.log(`${totalIcons} icons successfully built!`)
 }

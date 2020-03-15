@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "tools/svgbuilder"
+]
+
+[profile.release]
+lto = true
