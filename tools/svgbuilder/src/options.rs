@@ -1,5 +1,3 @@
-// svgcleaner could help you to clean up your SVG files
-// from unnecessary data.
 // Copyright (C) 2012-2018 Evgeniy Reizner
 //
 // This program is free software; you can redistribute it and/or modify
@@ -23,7 +21,6 @@ pub enum StyleJoinMode {
     All,
 }
 
-// Documentation can be found in: docs/svgcleaner.adoc
 pub struct CleaningOptions {
     pub remove_unused_defs: bool,
     pub convert_shapes: bool,
