@@ -21,18 +21,15 @@ const generate = async () => {
     await fs.writeFile(`${icon.originalName}.svg`, icon.source)
   }
 
-  const iconStories = icons.map(
-    icon =>
-      `  .add('${icon.originalName}', () => \`<div class="icon">\${require('!!raw-loader!./${icon.originalName}.svg').default}</div>\`)`,
-  )
-
   await fs.writeFile(
     'icons.stories.js',
     `
 import {storiesOf} from '@storybook/html'
 
 storiesOf('${path.basename(baseDir)}')
-${iconStories.join('\n')}
+  .add('icons', () => [
+${icons.map(icon => `    require('!!raw-loader!./${icon.originalName}.svg').default,`).join('\n')}
+  ].map(icon => \`<div class="icon">\${icon}</div>\`).join('\\n'))
 
 `.trim(),
   )
