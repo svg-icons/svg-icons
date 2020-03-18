@@ -1,6 +1,6 @@
 {
   "name": "@svg-icons/fa-brands",
-  "version": "10.0.0",
+  "version": "0.1.0",
   "description": "Font Awesome Brands icons available as Styled Components",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/jacobwgillespie/svg-icons",
@@ -20,6 +20,6 @@
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.27",
     "@fortawesome/free-brands-svg-icons": "5.12.1",
-    "@svg-icons/pack-builder": "^10.0.0"
+    "@svg-icons/pack-builder": "^0.1.0"
   }
 }

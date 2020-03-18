@@ -1,6 +1,6 @@
 {
   "name": "@svg-icons/boxicons-solid",
-  "version": "10.0.0",
+  "version": "0.1.0",
   "description": "Boxicons Solid icons available as Styled Components",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/jacobwgillespie/svg-icons",
@@ -18,7 +18,7 @@
     "clean": "clean-pack"
   },
   "devDependencies": {
-    "@svg-icons/pack-builder": "^10.0.0",
+    "@svg-icons/pack-builder": "^0.1.0",
     "boxicons": "2.0.5"
   }
 }

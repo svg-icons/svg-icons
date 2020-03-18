@@ -1,6 +1,6 @@
 {
   "name": "@svg-icons/ionicons-solid",
-  "version": "10.3.0",
+  "version": "0.1.0",
   "description": "Ionicons available as Styled Components",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/jacobwgillespie/svg-icons",
@@ -18,7 +18,7 @@
     "clean": "clean-pack"
   },
   "devDependencies": {
-    "@svg-icons/pack-builder": "^10.0.0",
+    "@svg-icons/pack-builder": "^0.1.0",
     "ionicons": "5.0.1"
   }
 }
