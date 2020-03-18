@@ -26,9 +26,9 @@
   },
   "devDependencies": {
     "@babel/core": "^7.8.7",
-    "@storybook/html": "^5.3.14",
-    "@storybook/react": "^5.3.14",
-    "@types/node": "^13.7.7",
+    "@storybook/html": "^5.3.17",
+    "@storybook/react": "^5.3.17",
+    "@types/node": "^13.9.1",
     "babel-loader": "^8.0.6",
     "lerna": "^3.20.2",
     "prettier": "^1.19.1",
