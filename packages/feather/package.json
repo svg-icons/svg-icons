@@ -1,7 +1,7 @@
 {
   "name": "@svg-icons/feather",
   "version": "0.1.0",
-  "description": "Feather icons available as Styled Components",
+  "description": "Feather icons available as optimized SVGs",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/jacobwgillespie/svg-icons",
   "repository": "git://github.com/jacobwgillespie/svg-icons.git",

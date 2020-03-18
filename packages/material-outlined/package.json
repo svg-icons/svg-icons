@@ -1,7 +1,7 @@
 {
   "name": "@svg-icons/material-outlined",
   "version": "0.1.0",
-  "description": "Material outlined icons available as Styled Components",
+  "description": "Material outlined icons available as optimized SVGs",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/jacobwgillespie/svg-icons",
   "repository": "git://github.com/jacobwgillespie/svg-icons.git",

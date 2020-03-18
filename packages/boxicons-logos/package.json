@@ -1,7 +1,7 @@
 {
   "name": "@svg-icons/boxicons-logos",
   "version": "0.1.0",
-  "description": "Boxicons Logos icons available as Styled Components",
+  "description": "Boxicons Logos icons available as optimized SVGs",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/jacobwgillespie/svg-icons",
   "repository": "git://github.com/jacobwgillespie/svg-icons.git",
