@@ -6,10 +6,6 @@
   "homepage": "https://github.com/jacobwgillespie/svg-icons",
   "repository": "git://github.com/jacobwgillespie/svg-icons.git",
   "license": "MIT",
-  "main": "./index.js",
-  "module": "./index.esm.js",
-  "types": "./index.d.ts",
-  "sideEffects": false,
   "keywords": [
     "svg-icons"
   ],
