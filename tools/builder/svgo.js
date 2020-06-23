@@ -41,6 +41,7 @@ const svgoOptions = {
     {removeStyleElement: true},
     {removeDimensions: true},
     {removeViewBox: false},
+    {addAttributesToSVGElement: {attributes: [{fill: 'currentColor'}]}},
     // {addKeyPropToChildren},
     {removeAttrs: {attrs: ['id', '*:(stroke|fill):((?!^none$)(?!^currentColor$).)*']}},
     {sortAttrs: true},
