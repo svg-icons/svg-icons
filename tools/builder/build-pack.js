@@ -3,9 +3,19 @@
 
 const fs = require('fs-extra')
 const path = require('path')
+const svgParser = require('svg-parser')
 const svgo = require('./svgo')
 
 const baseDir = process.cwd()
+
+function svgMetadata(source) {
+  const ast = svgParser.parse(source)
+  const svgNode = ast.children.find((node) => node.type === 'element' && node.tagName === 'svg')
+  const attrs = svgNode.type === 'element' ? svgNode.properties : {}
+  const viewBox = attrs['viewBox'].toString().split(' ')
+  const [, , width, height] = viewBox
+  return {attrs, width: parseInt(width, 10), height: parseInt(height, 10)}
+}
 
 const generate = async () => {
   const icons = await require(path.join(baseDir, 'source.js'))()
@@ -16,10 +26,14 @@ const generate = async () => {
   }
 
   const totalIcons = icons.length
+  const manifest = []
 
   const iconFiles = icons.map(async (icon) => {
-    const optimizedSource = await svgo.optimize(icon.source)
-    await fs.writeFile(`${icon.originalName}.svg`, optimizedSource.data)
+    const {data} = await svgo.optimize(icon.source)
+    await fs.writeFile(`${icon.originalName}.svg`, data)
+    const metadata = {name: icon.originalName, ...svgMetadata(data)}
+    manifest.push(metadata)
+    await fs.writeJSON(`${icon.originalName}.json`, metadata)
   })
 
   await Promise.all(iconFiles)
@@ -36,6 +50,8 @@ ${icons.map((icon) => `    require('!!raw-loader!./${icon.originalName}.svg').de
 
 `.trim(),
   )
+
+  await fs.writeJSON('__manifest.json', manifest)
 
   console.log(`${totalIcons} icons successfully built!`)
 }
