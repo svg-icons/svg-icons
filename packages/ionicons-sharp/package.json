@@ -1,6 +1,6 @@
 {
   "name": "@svg-icons/ionicons-sharp",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Ionicons available as optimized SVGs",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/jacobwgillespie/svg-icons",
@@ -18,7 +18,7 @@
     "clean": "clean-pack"
   },
   "devDependencies": {
-    "@svg-icons/pack-builder": "^0.1.2",
+    "@svg-icons/pack-builder": "^0.1.3",
     "ionicons": "5.0.1"
   }
 }
