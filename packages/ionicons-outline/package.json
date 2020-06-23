@@ -14,7 +14,7 @@
     "*.svg"
   ],
   "scripts": {
-    "build": "build-pack",
+    "build": "CURRENT_COLOR=#000 build-pack",
     "clean": "clean-pack"
   },
   "devDependencies": {

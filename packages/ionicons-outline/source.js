@@ -6,7 +6,7 @@ module.exports = async () => {
   const baseDir = path.dirname(require.resolve('ionicons/package.json'))
   const sourceFiles = await glob('dist/svg/*-outline.svg', {cwd: baseDir, absolute: true})
 
-  return sourceFiles.map(filename => {
+  return sourceFiles.map((filename) => {
     const match = filename.match(/([^\/]+)-outline\.svg$/)
     return {
       originalName: match[1],
