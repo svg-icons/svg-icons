@@ -1,6 +1,6 @@
 {
   "name": "@svg-icons/fa-regular",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Font Awesome Regular icons available as optimized SVGs",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/svg-icons/svg-icons",
@@ -20,6 +20,6 @@
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.29",
     "@fortawesome/free-regular-svg-icons": "5.13.1",
-    "@svg-icons/pack-builder": "^0.2.0"
+    "@svg-icons/pack-builder": "^0.3.0"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "@svg-icons/foundation",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Foundation icons available as optimized SVGs",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/svg-icons/svg-icons",
@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "@icon/foundation-icons": "^3.0.0-alpha.3",
-    "@svg-icons/pack-builder": "^0.2.0"
+    "@svg-icons/pack-builder": "^0.3.0"
   }
 }
