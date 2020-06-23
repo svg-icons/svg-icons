@@ -6,7 +6,7 @@ module.exports = async () => {
   const baseDir = path.dirname(require.resolve('boxicons'))
   const sourceFiles = await glob('../svg/solid/*.svg', {cwd: baseDir, absolute: true})
 
-  return sourceFiles.map(filename => {
+  return sourceFiles.map((filename) => {
     const match = filename.match(/bxs-([^}]+)\.svg$/)
     return {
       originalName: match[1] === 'package' ? 'package-icon' : match[1],

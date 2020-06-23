@@ -6,7 +6,7 @@ module.exports = async () => {
   const baseDir = path.dirname(require.resolve('open-iconic/package.json'))
   const sourceFiles = await glob('svg/*.svg', {cwd: baseDir, absolute: true})
 
-  return sourceFiles.map(filename => {
+  return sourceFiles.map((filename) => {
     const match = filename.match(/([^\/]+)\.svg$/)
     return {
       originalName: match[1],

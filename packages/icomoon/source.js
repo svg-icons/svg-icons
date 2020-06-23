@@ -6,7 +6,7 @@ module.exports = async () => {
   const baseDir = path.dirname(require.resolve('@svg-icons/icomoon-source/IcoMoon-Free.json'))
   const sourceFiles = await glob('SVG/*.svg', {cwd: baseDir, absolute: true})
 
-  return sourceFiles.map(filename => {
+  return sourceFiles.map((filename) => {
     const match = filename.match(/\d+-([^}]+)\.svg$/)
     return {
       originalName: match[1] === 'pagebreak' ? 'pagebreak2' : match[1].toLowerCase(),

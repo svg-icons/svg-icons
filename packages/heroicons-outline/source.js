@@ -6,7 +6,7 @@ module.exports = async () => {
   const baseDir = path.dirname(require.resolve('heroicons/package.json'))
   const sourceFiles = await glob('dist/outline-md/*.svg', {cwd: baseDir, absolute: true})
 
-  return sourceFiles.map(filename => {
+  return sourceFiles.map((filename) => {
     const match = filename.match(/md-([^}]+)\.svg$/)
     return {
       originalName: match[1],

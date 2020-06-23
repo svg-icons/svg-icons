@@ -1,3 +1,5 @@
+// @ts-check
+
 const SVGO = require('svgo')
 
 const addKeyPropToChildren = {
@@ -10,7 +12,7 @@ const addKeyPropToChildren = {
     }
 
     let keyCount = 0
-    firstChild.content = firstChild.content.map(child => {
+    firstChild.content = firstChild.content.map((child) => {
       if (child.hasAttr('key')) {
         return
       }
@@ -26,20 +28,24 @@ const addKeyPropToChildren = {
   },
 }
 
+const currentColor = process.env.CURRENT_COLOR
+
 const svgoOptions = {
   plugins: [
     {removeXMLNS: true},
     {removeScriptElement: true},
     {removeTitle: true},
-    {convertStyleToAttrs: false},
+    {convertStyleToAttrs: true},
+    ...(currentColor ? [{convertColors: {currentColor}}] : []),
     {convertShapeToPath: false},
     {removeStyleElement: true},
     {removeDimensions: true},
     {removeViewBox: false},
-    {addKeyPropToChildren},
+    {addAttributesToSVGElement: {attributes: [{fill: 'currentColor'}]}},
+    // {addKeyPropToChildren},
     {removeAttrs: {attrs: ['id', '*:(stroke|fill):((?!^none$)(?!^currentColor$).)*']}},
     {sortAttrs: true},
   ],
 }
 
-module.exports = source => new SVGO(svgoOptions).optimize(source).then(res => res.data)
+module.exports = new SVGO(svgoOptions)

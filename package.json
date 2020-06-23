@@ -25,13 +25,13 @@
     "storybook": "start-storybook -p 5000"
   },
   "devDependencies": {
-    "@babel/core": "^7.8.7",
-    "@storybook/html": "^5.3.17",
-    "@storybook/react": "^5.3.17",
-    "@types/node": "^13.9.1",
-    "babel-loader": "^8.0.6",
-    "lerna": "^3.20.2",
-    "prettier": "^1.19.1",
-    "storybook-chromatic": "^3.5.2"
+    "@babel/core": "^7.10.3",
+    "@storybook/html": "^5.3.19",
+    "@storybook/react": "^5.3.19",
+    "@types/node": "^14.0.13",
+    "babel-loader": "^8.1.0",
+    "chromatic": "^5.0.0",
+    "lerna": "^3.22.1",
+    "prettier": "^2.0.5"
   }
 }

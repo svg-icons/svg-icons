@@ -6,7 +6,7 @@ module.exports = async () => {
   const baseDir = path.dirname(require.resolve('entypo/package.json'))
   const sourceFiles = await glob('src/Entypo/*.svg', {cwd: baseDir, absolute: true})
 
-  return sourceFiles.map(filename => {
+  return sourceFiles.map((filename) => {
     const match = filename.match(/([^\/]+)\.svg$/)
     const originalName = match[1].replace('%', '-percent')
     return {

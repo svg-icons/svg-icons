@@ -6,7 +6,7 @@ module.exports = async () => {
   const baseDir = path.dirname(require.resolve('material-design-icons-updated'))
   const sourceFiles = await glob('icons/outline/*/*.svg', {cwd: baseDir, absolute: true})
 
-  return sourceFiles.map(filename => {
+  return sourceFiles.map((filename) => {
     const match = filename.match(/ic_(.*)_(((\d+)x)?[\d]+px)\.svg$/)
     return {
       originalName: match[1].replace(/_/g, '-'),
