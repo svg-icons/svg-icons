@@ -1,8 +1,5 @@
 .cache/
-node_modules/
-
 *.log
 *.tgz
-
 /public
-/target
+node_modules/
