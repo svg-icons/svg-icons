@@ -1,6 +1,6 @@
 {
   "name": "@svg-icons/icomoon",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Icomoon icons available as optimized SVGs",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/svg-icons/svg-icons",
@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "@svg-icons/icomoon-source": "Keyamoon/IcoMoon-Free#d006795ede82361e1bac1ee76f215cf1dc51e4ca",
-    "@svg-icons/pack-builder": "^0.3.0"
+    "@svg-icons/pack-builder": "^0.4.0"
   }
 }
