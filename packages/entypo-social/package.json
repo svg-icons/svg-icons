@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "@svg-icons/pack-builder": "^0.3.0",
-    "entypo": "hypermodules/entypo#v2.1.0"
+    "entypo": "2.2.0"
   }
 }
