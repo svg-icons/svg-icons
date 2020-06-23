@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.4.0 - 2020-06-23
+
+- Add [Simple Icons](https://github.com/simple-icons/simple-icons)
+
 ## v0.3.0 - 2020-06-23
 
 - Upgrade Feather Icons to v4.28.0
