@@ -1,6 +1,6 @@
 {
   "name": "@svg-icons/remix-line",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Remix Line icons available as optimized SVGs",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/jacobwgillespie/svg-icons",
@@ -18,7 +18,7 @@
     "clean": "clean-pack"
   },
   "devDependencies": {
-    "@svg-icons/pack-builder": "^0.1.0",
+    "@svg-icons/pack-builder": "^0.1.2",
     "remixicon": "2.3.0"
   }
 }
