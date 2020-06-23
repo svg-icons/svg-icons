@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "@svg-icons/pack-builder": "^0.2.0",
-    "heroicons": "refactoringui/heroicons#2abb8143c5cf89633d38565b2df44a392bd3d2fd"
+    "heroicons": "0.3.6"
   }
 }

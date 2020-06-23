@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "@svg-icons/pack-builder": "^0.2.0",
-    "remixicon": "2.3.0"
+    "remixicon": "2.5.0"
   }
 }

@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "@svg-icons/pack-builder": "^0.2.0",
-    "feather-icons": "4.26.0"
+    "feather-icons": "4.28.0"
   }
 }
