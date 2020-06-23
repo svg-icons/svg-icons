@@ -28,7 +28,7 @@ import {storiesOf} from '@storybook/html'
 
 storiesOf('${path.basename(baseDir)}')
   .add('icons', () => [
-${icons.map(icon => `    require('!!raw-loader!./${icon.originalName}.svg').default,`).join('\n')}
+${icons.map((icon) => `    require('!!raw-loader!./${icon.originalName}.svg').default,`).join('\n')}
   ].map(icon => \`<div class="icon">\${icon}</div>\`).join('\\n'))
 
 `.trim(),
@@ -39,7 +39,7 @@ ${icons.map(icon => `    require('!!raw-loader!./${icon.originalName}.svg').defa
   console.log(`${totalIcons} icons successfully built!`)
 }
 
-generate().catch(err => {
+generate().catch((err) => {
   console.log(err.stack)
   process.exit(1)
 })

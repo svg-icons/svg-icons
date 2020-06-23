@@ -2,11 +2,11 @@ const fontawesome = require('@fortawesome/fontawesome-svg-core')
 const solid = require('@fortawesome/free-solid-svg-icons').fas
 
 module.exports = async () =>
-  Object.keys(solid).map(iconKey => {
+  Object.keys(solid).map((iconKey) => {
     const icon = fontawesome.icon(solid[iconKey])
     return {
       originalName: icon.iconName,
-      source: icon.html,
+      source: icon.html[0],
       pack: 'fa-solid',
       verticalAlign: '-.125em',
     }
