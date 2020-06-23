@@ -7,49 +7,18 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     env:
-      CI: true
+      CHROMATIC_APP_CODE: '${{ secrets.CHROMATIC_APP_CODE }}'
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-
-      # Cache Yarn
-      - name: Get yarn cache
-        id: yarn-cache
-        run: echo "::set-output name=dir::$(yarn cache dir)"
-      - uses: actions/cache@v1
+      - uses: actions/cache@v2
         with:
-          path: ${{ steps.yarn-cache.outputs.dir }}
+          path: |
+            **/node_modules
           key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
             ${{ runner.os }}-yarn-
-
-      # Cache Cargo
-      - name: Cache cargo registry
-        uses: actions/cache@v1
-        with:
-          path: ~/.cargo/registry
-          key: ${{ runner.os }}-cargo-registry-${{ hashFiles('**/Cargo.lock') }}
-      - name: Cache cargo index
-        uses: actions/cache@v1
-        with:
-          path: ~/.cargo/git
-          key: ${{ runner.os }}-cargo-index-${{ hashFiles('**/Cargo.lock') }}
-      - name: Cache cargo build
-        uses: actions/cache@v1
-        with:
-          path: target
-          key: ${{ runner.os }}-cargo-build-target-${{ hashFiles('**/Cargo.lock') }}
-
-      - name: Install Dependencies
-        run: yarn install --frozen-lockfile
-
-      - name: Build
-        run: |
-          cargo build
-          yarn build
-
-      - name: Visual Tests
-        run: yarn chromatic --exit-zero-on-changes
-        env:
-          CHROMATIC_APP_CODE: '${{ secrets.CHROMATIC_APP_CODE }}'
+      - run: yarn install --frozen-lockfile
+      - run: yarn build
+      - run: yarn chromatic --exit-zero-on-changes
