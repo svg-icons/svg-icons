@@ -6,7 +6,7 @@ module.exports = async () => {
   const baseDir = path.dirname(require.resolve('zondicons/package.json'))
   const sourceFiles = await glob('*.svg', {cwd: baseDir, absolute: true})
 
-  return sourceFiles.map(filename => {
+  return sourceFiles.map((filename) => {
     const match = filename.match(/([^\/]+)\.svg$/)
     return {
       originalName: match[1],

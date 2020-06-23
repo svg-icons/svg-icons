@@ -1,7 +1,7 @@
 const octicons = require('@primer/octicons')
 
 module.exports = async () =>
-  Object.keys(octicons).map(originalName => {
+  Object.keys(octicons).map((originalName) => {
     const icon = octicons[originalName]
     return {
       originalName: originalName === 'package' ? 'package-icon' : originalName,

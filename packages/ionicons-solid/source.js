@@ -7,7 +7,7 @@ module.exports = async () => {
   const sourceFiles = await glob('dist/svg/*.svg', {cwd: baseDir, absolute: true})
 
   return sourceFiles
-    .map(filename => {
+    .map((filename) => {
       const match = filename.match(/([^\/]+)(?<!outline|sharp)\.svg$/)
       if (match === null) {
         return
@@ -20,5 +20,5 @@ module.exports = async () => {
         height: '20',
       }
     })
-    .filter(icon => typeof icon !== 'undefined')
+    .filter((icon) => typeof icon !== 'undefined')
 }
