@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.0 - 2020-06-23
+
+- Output SVG icon metadata to JSON files and `__manifest.json` for each icon pack
+
 ## v0.1.3 - 2020-06-23
 
 - Fix issue where package files were not included in the published NPM packages
