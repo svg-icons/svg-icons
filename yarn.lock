@@ -7514,10 +7514,10 @@ invariant@^2.2.2, invariant@^2.2.3, invariant@^2.2.4:
   dependencies:
     loose-envify "^1.0.0"
 
-ionicons@5.0.1:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-5.0.1.tgz#fb48475b042b04b3ed2ba9876800687917d4603d"
-  integrity sha512-P9GHr7pgCJcG211W0wute49NZ9AvJZvFJf4OwYybakjX6j7tu0q5t5HNWn9bcb9YjI7SxBblJg8iqQ1Yb59DXw==
+ionicons@5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-5.1.0.tgz#abb162eeeb3fc808d0873fd0b4345c62cbc9c5d0"
+  integrity sha512-GCUxQXXfeQzGA+cS5x6XNHpf9QNdieiQBXCMFN8foV9tDFNDgmiVZRuLIoR8dfrslshRvRbkBICQDJ37ChuwTw==
 
 ip-regex@^2.1.0:
   version "2.1.0"
