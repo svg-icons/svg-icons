@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.0 - 2020-06-26
+
+**Version 1.0!** There are no breaking changes, but we are bumping the version to 1.0 to reflect the fact that it is now in production use.
+
+- Upgrade Ionicons to v5.1.2
+
 ## v0.4.0 - 2020-06-23
 
 - Add [Simple Icons](https://github.com/simple-icons/simple-icons)
