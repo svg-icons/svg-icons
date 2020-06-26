@@ -1,6 +1,6 @@
 {
   "name": "@svg-icons/boxicons-regular",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "description": "Boxicons Regular icons available as optimized SVGs",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/svg-icons/svg-icons",
@@ -18,7 +18,7 @@
     "clean": "clean-pack"
   },
   "devDependencies": {
-    "@svg-icons/pack-builder": "^0.4.0",
+    "@svg-icons/pack-builder": "^1.0.0",
     "boxicons": "2.0.5"
   }
 }

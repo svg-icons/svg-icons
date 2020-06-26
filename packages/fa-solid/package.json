@@ -1,6 +1,6 @@
 {
   "name": "@svg-icons/fa-solid",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "description": "Font Awesome Solid icons available as optimized SVGs",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/svg-icons/svg-icons",
@@ -20,6 +20,6 @@
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.29",
     "@fortawesome/free-solid-svg-icons": "5.13.1",
-    "@svg-icons/pack-builder": "^0.4.0"
+    "@svg-icons/pack-builder": "^1.0.0"
   }
 }
