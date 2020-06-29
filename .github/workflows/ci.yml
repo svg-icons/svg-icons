@@ -22,3 +22,10 @@ jobs:
       - run: yarn install --frozen-lockfile
       - run: yarn build
       - run: yarn chromatic --exit-zero-on-changes
+      - uses: changesets/action@master
+        if: github.ref == 'refs/heads/main'
+        with:
+          publish: yarn changeset publish
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
