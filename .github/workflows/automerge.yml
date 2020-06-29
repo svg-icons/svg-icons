@@ -1,4 +1,4 @@
-name: Merge on Green
+name: Automerge
 on:
   pull_request:
     types:
@@ -26,4 +26,3 @@ jobs:
         uses: pascalgn/automerge-action@v0.8.4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MERGE_LABELS: merge-on-green
