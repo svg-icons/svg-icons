@@ -21,7 +21,7 @@ jobs:
             ${{ runner.os }}-yarn-
       - run: yarn install --frozen-lockfile
       - run: yarn build
-      - run: yarn chromatic --exit-zero-on-changes
+      - run: yarn chromatic --exit-once-uploaded --exit-zero-on-changes
       - uses: changesets/action@master
         if: github.ref == 'refs/heads/main'
         with:
