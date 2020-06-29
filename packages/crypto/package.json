@@ -20,5 +20,8 @@
   "devDependencies": {
     "@svg-icons/pack-builder": "^1.0.0",
     "cryptocurrency-icons": "0.16.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

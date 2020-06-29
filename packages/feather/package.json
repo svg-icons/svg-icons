@@ -20,5 +20,8 @@
   "devDependencies": {
     "@svg-icons/pack-builder": "^1.0.0",
     "feather-icons": "4.28.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

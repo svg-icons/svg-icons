@@ -20,5 +20,8 @@
   "devDependencies": {
     "@svg-icons/pack-builder": "^1.0.0",
     "material-design-icons-updated": "4.8.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

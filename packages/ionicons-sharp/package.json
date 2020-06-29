@@ -20,5 +20,8 @@
   "devDependencies": {
     "@svg-icons/pack-builder": "^1.0.0",
     "ionicons": "5.1.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

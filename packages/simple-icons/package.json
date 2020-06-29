@@ -20,5 +20,8 @@
   "devDependencies": {
     "@svg-icons/pack-builder": "^1.0.0",
     "simple-icons": "2.19.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

@@ -20,5 +20,8 @@
   "devDependencies": {
     "@svg-icons/pack-builder": "^1.0.0",
     "typicons.font": "2.0.9"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

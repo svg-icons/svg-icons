@@ -20,5 +20,8 @@
   "devDependencies": {
     "@icon/foundation-icons": "^3.0.0-alpha.3",
     "@svg-icons/pack-builder": "^1.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

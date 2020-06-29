@@ -20,5 +20,8 @@
   "devDependencies": {
     "@primer/octicons": "10.0.0",
     "@svg-icons/pack-builder": "^1.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
