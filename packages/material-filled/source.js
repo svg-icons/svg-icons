@@ -12,8 +12,8 @@ module.exports = async () => {
       originalName: match[1].replace(/_/g, '-'),
       source: fs.readFileSync(filename).toString(),
       pack: 'material-filled',
-      width: match[4] || '24',
-      height: match[4] || '24',
+      width: match[3] || '24',
+      height: match[3] || '24',
     }
   })
 
