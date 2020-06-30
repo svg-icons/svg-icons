@@ -45,8 +45,10 @@ import {storiesOf} from '@storybook/html'
 
 storiesOf('${path.basename(baseDir)}')
   .add('icons', () => [
-${icons.map((icon) => `    require('!!raw-loader!./${icon.originalName}.svg').default,`).join('\n')}
-  ].map(icon => \`<div class="icon">\${icon}</div>\`).join('\\n'))
+${icons
+  .map((icon) => `    ['${icon.originalName}', require('!!raw-loader!./${icon.originalName}.svg').default],`)
+  .join('\n')}
+  ].map(icon => \`<div>\${icon[0]}</div><div class="icon">\${icon[1]}</div>\`).join('\\n'))
 
 `.trim(),
   )
