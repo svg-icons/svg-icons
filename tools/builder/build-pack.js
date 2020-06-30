@@ -25,10 +25,20 @@ const generate = async () => {
     process.exit(1)
   }
 
-  const totalIcons = icons.length
+  const seenIcons = new Set()
+  const uniqueIcons = icons.filter((icon) => {
+    if (seenIcons.has(icon.originalName)) {
+      console.log(`Warning: ignoring duplicate icon ${icon.originalName}`)
+      return false
+    }
+    seenIcons.add(icon.originalName)
+    return true
+  })
+
+  const totalIcons = uniqueIcons.length
   const manifest = []
 
-  const iconFiles = icons.map(async (icon) => {
+  const iconFiles = uniqueIcons.map(async (icon) => {
     const {data} = await svgo.optimize(icon.source)
     await fs.writeFile(`${icon.originalName}.svg`, data)
     const metadata = {name: icon.originalName, ...svgMetadata(data)}
@@ -45,8 +55,10 @@ import {storiesOf} from '@storybook/html'
 
 storiesOf('${path.basename(baseDir)}')
   .add('icons', () => [
-${icons.map((icon) => `    require('!!raw-loader!./${icon.originalName}.svg').default,`).join('\n')}
-  ].map(icon => \`<div class="icon">\${icon}</div>\`).join('\\n'))
+${icons
+  .map((icon) => `    ['${icon.originalName}', require('!!raw-loader!./${icon.originalName}.svg').default],`)
+  .join('\n')}
+  ].map(icon => \`<div>\${icon[0]}</div><div class="icon">\${icon[1]}</div>\`).join('\\n'))
 
 `.trim(),
   )

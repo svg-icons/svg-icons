@@ -9510,10 +9510,10 @@ markdown-to-jsx@^6.11.4:
     prop-types "^15.6.2"
     unquote "^1.1.0"
 
-material-design-icons-updated@4.8.2:
-  version "4.8.2"
-  resolved "https://registry.yarnpkg.com/material-design-icons-updated/-/material-design-icons-updated-4.8.2.tgz#1c3cb1e1edfd52654b86810c683a740e95eeeb58"
-  integrity sha512-WKSL+C/+6VfQFgumgLc0IDpkVOPZn9bTfO9Hr3lKTO7z1tVhPGkej1Dpj3pvbK57tHaxUwgyvvOz1WHgANGaXw==
+material-design-icons-updated@5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/material-design-icons-updated/-/material-design-icons-updated-5.0.1.tgz#caf6550c04d75ec0129cb12e2784af60525bef46"
+  integrity sha512-r6B/eWg32lw0ms/iBmiNN18WS6VpMd592cJTArF3d0pX23KPUX5TgLxip9gM13LubiCfz90xxc0BuDtJ0cOFtw==
 
 md5.js@^1.3.4:
   version "1.3.5"
