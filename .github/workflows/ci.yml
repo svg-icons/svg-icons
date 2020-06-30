@@ -22,7 +22,7 @@ jobs:
       - run: yarn install --frozen-lockfile
       - run: yarn build
       - run: yarn chromatic --exit-once-uploaded --exit-zero-on-changes
-      - uses: changesets/action@master
+      - uses: changesets/action@5ad76cdc8b90dff850d6ce1ae1aa73faa04a378a
         if: github.ref == 'refs/heads/main'
         with:
           publish: yarn changeset publish
