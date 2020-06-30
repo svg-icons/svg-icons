@@ -6123,10 +6123,10 @@ entities@^2.0.0:
   resolved "https://registry.yarnpkg.com/entities/-/entities-2.0.3.tgz#5c487e5742ab93c15abb5da22759b8590ec03b7f"
   integrity sha512-MyoZ0jgnLvB2X3Lg5HqpFmn1kybDiIfEQmKzTb5apr51Rb+T3KdmMiqa70T+bhGnyv7bQ6WMj2QMHpGMmlrUYQ==
 
-entypo@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/entypo/-/entypo-2.2.0.tgz#1e9b2e07feef6697e0b832d416277114f66ea4ad"
-  integrity sha512-joFdZNxO5LDdcCvH4o9RFMgSeP3wFXlYN2QF+PgsmbhuxPJFnRXS1aiE82O+q190bUPCu7IUpy5qooz4/fPZtw==
+entypo@2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/entypo/-/entypo-2.2.1.tgz#0c6d64ab0ceef9f4901f7c13a4be24190a92ec7d"
+  integrity sha512-6f1hlN6jgnBj5T4IsIJHYptJAIB3m1xIt/am1vutlnBjnJKOrtH3GY2po48evd2g3s5U5oWu27K+pe5mXB085w==
   dependencies:
     brfs "^2.0.0"
 
