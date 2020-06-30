@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@svg-icons/pack-builder": "^1.0.0",
-    "entypo": "2.2.0"
+    "entypo": "2.2.1"
   },
   "publishConfig": {
     "access": "public"
