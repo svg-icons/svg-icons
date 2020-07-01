@@ -4,7 +4,7 @@
 const glob = require('tiny-glob')
 const fs = require('fs-extra')
 
-const ALLOWED_FILES = ['node_modules', 'source.js', 'package.json', 'README.md']
+const ALLOWED_FILES = ['node_modules', 'source.js', 'package.json', 'CHANGELOG.md', 'README.md']
 
 async function run() {
   const files = await glob('*', {filesOnly: true})
