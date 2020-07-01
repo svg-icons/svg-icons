@@ -1,5 +1,9 @@
 # @svg-icons/material-rounded
 
+## v1.0.1
+
+- Upgrade Material icons to v5.0.1
+
 ## v1.0.0
 
 **Version 1.0!** There are no breaking changes, but we are bumping the version to 1.0 to reflect the fact that it is now in production use.

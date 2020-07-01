@@ -1,5 +1,9 @@
 # @svg-icons/simple-icons
 
+## v1.1.0
+
+- Upgrade simple-icons to v2.19.0
+
 ## v1.0.0
 
 **Version 1.0!** There are no breaking changes, but we are bumping the version to 1.0 to reflect the fact that it is now in production use.
