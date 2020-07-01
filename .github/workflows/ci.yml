@@ -24,7 +24,7 @@ jobs:
       - run: yarn chromatic --exit-once-uploaded --exit-zero-on-changes
         env:
           CHROMATIC_PROJECT_TOKEN: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
-      - uses: jacobwgillespie/action@patch-1
+      - uses: changesets/action@master
         if: github.ref == 'refs/heads/main' && github.repository == 'svg-icons/svg-icons'
         with:
           publish: yarn changeset publish
