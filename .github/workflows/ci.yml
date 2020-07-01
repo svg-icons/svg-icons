@@ -6,24 +6,26 @@ jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
-    env:
-      CHROMATIC_APP_CODE: '${{ secrets.CHROMATIC_APP_CODE }}'
     steps:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
+          persist-credentials: false
+      - run: echo "::set-output name=dir::$(yarn cache dir)"
+        id: yarn-cache-dir-path
       - uses: actions/cache@v2
         with:
-          path: |
-            **/node_modules
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-yarn-v1-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
-            ${{ runner.os }}-yarn-
+            ${{ runner.os }}-yarn-v1-
       - run: yarn install --frozen-lockfile
       - run: yarn build
       - run: yarn chromatic --exit-once-uploaded --exit-zero-on-changes
+        env:
+          CHROMATIC_PROJECT_TOKEN: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
       - uses: jacobwgillespie/action@patch-1
-        if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/main' && github.repository == 'svg-icons/svg-icons'
         with:
           publish: yarn changeset publish
         env:
