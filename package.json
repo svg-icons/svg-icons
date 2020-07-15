@@ -12,16 +12,13 @@
     "trailingComma": "all"
   },
   "scripts": {
-    "build": "lerna run build --stream",
-    "build:ci": "lerna run build",
+    "build": "wsrun -t -m -c build",
     "build-storybook": "build-storybook -c .storybook -o .out",
-    "bump": "lerna version",
-    "bootstrap": "lerna bootstrap",
     "test-visual": "chromatic",
-    "clean": "lerna run clean --stream",
-    "format": "prettier --write './**/*.{ts,tsx,js,md,json}'",
-    "format:check": "prettier --list-different './**/*.{ts,tsx,js,md,json}'",
-    "push": "lerna publish",
+    "clean": "wsrun -m -c clean",
+    "fmt": "prettier --write './**/*.{ts,tsx,js,md,json}'",
+    "fmt:check": "prettier --list-different './**/*.{ts,tsx,js,md,json}'",
+    "release": "yarn build && yarn changeset publish",
     "storybook": "start-storybook -p 5000"
   },
   "devDependencies": {
@@ -33,7 +30,10 @@
     "@types/node": "^14.0.13",
     "babel-loader": "^8.1.0",
     "chromatic": "^5.0.0",
-    "lerna": "^3.22.1",
-    "prettier": "^2.0.5"
+    "monorepolint": "^0.5.0-alpha.48",
+    "prettier": "^2.0.5",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.6",
+    "wsrun": "^5.2.1"
   }
 }

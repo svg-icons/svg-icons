@@ -1,18 +1,25 @@
 {
   "name": "@svg-icons/crypto",
   "version": "1.1.0",
+  "license": "MIT",
   "description": "Crypto icons available as optimized SVGs",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/svg-icons/svg-icons",
   "repository": "git://github.com/svg-icons/svg-icons.git",
-  "license": "MIT",
   "keywords": [
     "svg-icons"
   ],
+  "funding": {
+    "type": "GitHub",
+    "url": "https://github.com/sponsors/jacobwgillespie"
+  },
   "files": [
     "*.json",
     "*.svg"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "build-pack",
     "clean": "clean-pack"
@@ -20,8 +27,5 @@
   "devDependencies": {
     "@svg-icons/pack-builder": "^1.1.0",
     "cryptocurrency-icons": "0.16.1"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
