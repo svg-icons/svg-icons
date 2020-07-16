@@ -1,5 +1,11 @@
 # @svg-icons/fa-regular
 
+## 1.5.0
+
+### Minor Changes
+
+- [#44](https://github.com/svg-icons/svg-icons/pull/44): Upgrade Font Awesome to v5.14.0 ([`668ad95`](https://github.com/svg-icons/svg-icons/commit/668ad95c5eaa91288e96fc2773c7125279abe27b), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.1.0
 
 ### Minor Changes
