@@ -27,7 +27,7 @@
     "@changesets/cli": "^2.9.1",
     "@storybook/html": "^5.3.19",
     "@storybook/react": "^5.3.19",
-    "@types/node": "^14.0.24",
+    "@types/node": "^14.0.25",
     "babel-loader": "^8.1.0",
     "chromatic": "^5.0.0",
     "monorepolint": "^0.5.0-alpha.48",
