@@ -26,6 +26,6 @@
   },
   "devDependencies": {
     "@svg-icons/pack-builder": "^1.1.0",
-    "heroicons": "0.3.6"
+    "heroicons": "0.3.7"
   }
 }
