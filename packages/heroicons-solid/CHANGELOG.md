@@ -1,5 +1,11 @@
 # @svg-icons/heroicons-solid
 
+## 1.7.0
+
+### Minor Changes
+
+- [#51](https://github.com/svg-icons/svg-icons/pull/51): Upgrade Heroicons to v0.3.7 ([`983b858`](https://github.com/svg-icons/svg-icons/commit/983b85871d6ec4550a3616124f2c724a655c729e), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.1.0
 
 ### Minor Changes
