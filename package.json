@@ -22,7 +22,7 @@
     "storybook": "start-storybook -p 5000"
   },
   "devDependencies": {
-    "@babel/core": "^7.10.3",
+    "@babel/core": "^7.11.0",
     "@changesets/changelog-github": "^0.2.6",
     "@changesets/cli": "^2.9.1",
     "@storybook/html": "^5.3.19",
