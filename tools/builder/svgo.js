@@ -2,32 +2,6 @@
 
 const SVGO = require('svgo')
 
-const addKeyPropToChildren = {
-  type: 'full',
-  fn(node) {
-    const firstChild = node.content[0]
-
-    if (!firstChild || !firstChild.content.length) {
-      return node
-    }
-
-    let keyCount = 0
-    firstChild.content = firstChild.content.map((child) => {
-      if (child.hasAttr('key')) {
-        return
-      }
-
-      const value = child.attr('id') || `k${keyCount++}`
-
-      child.addAttr({local: 'key', name: 'key', prefix: '', value})
-
-      return child
-    })
-
-    return node
-  },
-}
-
 const currentColor = process.env.CURRENT_COLOR
 
 const svgoOptions = {
@@ -42,8 +16,7 @@ const svgoOptions = {
     {removeDimensions: true},
     {removeViewBox: false},
     {addAttributesToSVGElement: {attributes: [{fill: 'currentColor'}]}},
-    // {addKeyPropToChildren},
-    {removeAttrs: {attrs: ['id', '*:(stroke|fill):((?!^none$)(?!^currentColor$).)*']}},
+    {removeAttrs: {attrs: ['id', 'class', '*:(stroke|fill):((?!^none$)(?!^currentColor$).)*']}},
     {sortAttrs: true},
   ],
 }

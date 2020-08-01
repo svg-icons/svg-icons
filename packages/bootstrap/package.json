@@ -1,0 +1,31 @@
+{
+  "name": "@svg-icons/bootstrap",
+  "version": "1.7.0",
+  "license": "MIT",
+  "description": "Bootstrap icons available as optimized SVGs",
+  "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
+  "homepage": "https://github.com/svg-icons/svg-icons",
+  "repository": "git://github.com/svg-icons/svg-icons.git",
+  "keywords": [
+    "svg-icons"
+  ],
+  "funding": {
+    "type": "GitHub",
+    "url": "https://github.com/sponsors/jacobwgillespie"
+  },
+  "files": [
+    "*.json",
+    "*.svg"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "build-pack",
+    "clean": "clean-pack"
+  },
+  "devDependencies": {
+    "@svg-icons/pack-builder": "^1.1.0",
+    "bootstrap-icons": "1.0.0-alpha5"
+  }
+}
