@@ -4,6 +4,7 @@
   "commit": false,
   "linked": [
     [
+      "@svg-icons/bootstrap",
       "@svg-icons/boxicons-logos",
       "@svg-icons/boxicons-regular",
       "@svg-icons/boxicons-solid",
