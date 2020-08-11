@@ -10533,10 +10533,10 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.3.tgz#a1410c2edd8f077b08b4e253c8eacfcaf057461c"
   integrity sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA==
 
-simple-icons@3.4.0:
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-3.4.0.tgz#ecebbab6a2d319c85f035e6a00673d7401b47c4c"
-  integrity sha512-OmFxO282wTYD5uxNfWdQdRf4Z0V86zgidxuBvrC6XroE24DwyDjjBGS3rNqvIt8ZlVvYCFnK9VMK6VtDuZiMSg==
+simple-icons@3.4.1:
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-3.4.1.tgz#aebb6cbf9bdab4c89822218820743ab469bc63e2"
+  integrity sha512-Z3Nfk9XV3wuJqDIT2GLU20BEosUGoYlFZekzeBXiHLD/kixlgbj+99+ftoKce/LzhKUn2tpGpSnFfyKLk/3VcQ==
 
 simplebar-react@^1.0.0-alpha.6:
   version "1.2.3"
