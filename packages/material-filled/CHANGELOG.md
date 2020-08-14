@@ -1,5 +1,11 @@
 # @svg-icons/material-filled
 
+## 1.12.0
+
+### Minor Changes
+
+- [#74](https://github.com/svg-icons/svg-icons/pull/74): Upgrade Material Icons to v6.0.0 ([`defee03`](https://github.com/svg-icons/svg-icons/commit/defee033373c0ba68d7b8cd55bfd8720b1edaf64), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.1.0
 
 ### Minor Changes
