@@ -1,5 +1,11 @@
 # @svg-icons/simple-icons
 
+## 1.13.0
+
+### Minor Changes
+
+- [#84](https://github.com/svg-icons/svg-icons/pull/84): Upgrade Simple Icons to v3.5.0 ([`2d1147e`](https://github.com/svg-icons/svg-icons/commit/2d1147ed7484836fe34ef4a5eb3a955c7399aceb), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
 ## 1.11.0
 
 ### Minor Changes
