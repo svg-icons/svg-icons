@@ -25,7 +25,7 @@
     "@babel/core": "^7.11.1",
     "@changesets/changelog-github": "^0.2.7",
     "@changesets/cli": "^2.10.1",
-    "@storybook/html": "^6.0.12",
+    "@storybook/html": "^6.0.13",
     "@storybook/react": "^6.0.12",
     "@types/node": "^14.6.0",
     "babel-loader": "^8.1.0",
