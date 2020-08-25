@@ -6516,10 +6516,10 @@ he@^1.2.0:
   resolved "https://registry.yarnpkg.com/he/-/he-1.2.0.tgz#84ae65fa7eafb165fddb61566ae14baf05664f0f"
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
 
-heroicons@0.3.7:
-  version "0.3.7"
-  resolved "https://registry.yarnpkg.com/heroicons/-/heroicons-0.3.7.tgz#0ec4c093fa9db4d8f4fa17e38af8b6a19be59833"
-  integrity sha512-2fhfSKuPpFIYaLshYL/BV+b/S4hES9Ykh0nNt0adU6l4W5gAwhmkXfYRyxWsayrdHZBr6oc4pLqyedRJk3wWRA==
+heroicons@0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/heroicons/-/heroicons-0.4.0.tgz#6472b022bd689820ad49cbc84694d6f3a255fa30"
+  integrity sha512-CCPEBzBOJrliia0QL5tbR2E5MNlcrYcJhEB4m758RKh7h0vf9BjCqeOzKkIvASYPdOVld546Tixkg2i5ZAnkgA==
 
 highlight.js@~9.15.0, highlight.js@~9.15.1:
   version "9.15.10"
@@ -9481,10 +9481,10 @@ prettier@^1.18.2:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
   integrity sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==
 
-prettier@^2.0.5:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.0.5.tgz#d6d56282455243f2f92cc1716692c08aa31522d4"
-  integrity sha512-7PtVymN48hGcO4fGjybyBSIWDsLU4H4XlvOHfq91pz9kkGlonzwTfYkaIEwiRg/dAJF9YlbsduBAgtYLi+8cFg==
+prettier@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.1.0.tgz#5a9789f767a243118c60f3e56d95cb6544914fbb"
+  integrity sha512-lz28cCbA1cDFHVuY8vvj6QuqOwIpyIfPUYkSl8AZ/vxH8qBXMMjE2knfLHCrZCmUsK/H1bg1P0tOo0dJkTJHvw==
 
 pretty-error@^2.1.1:
   version "2.1.1"
@@ -10711,10 +10711,10 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.3.tgz#a1410c2edd8f077b08b4e253c8eacfcaf057461c"
   integrity sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA==
 
-simple-icons@3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-3.5.0.tgz#0804c6a5bde2bb5b69008126d5df065b26008584"
-  integrity sha512-2QWj+y4iQnAQa9KIKJy2tVmstASHpq7+xbA6P+VgARkfK24WauuC5z2uIzX++FXQl+HAXZL3rFkBd23FFbTV9w==
+simple-icons@3.6.0:
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-3.6.0.tgz#31c0a8beb998e244214a8aaa26defc0a55c70797"
+  integrity sha512-A7L3sN56nBaAC8HDJgSspFi8lS7JT5YQ+lcsSeU82FIf3mGg0SsMbrgfNl1SgK8bezDOnksWLC3pJNhXBtqgZg==
 
 sisteransi@^1.0.4:
   version "1.0.5"
