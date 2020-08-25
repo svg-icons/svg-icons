@@ -1709,10 +1709,10 @@
   dependencies:
     mkdirp "^1.0.4"
 
-"@primer/octicons@10.0.0":
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-10.0.0.tgz#81e94ed32545dfd3472c8625a5b345f3ea4c153d"
-  integrity sha512-iuQubq62zXZjPmaqrsfsCZUqIJgZhmA6W0tKzIKGRbkoLnff4TFFCL87hfIRATZ5qZPM4m8ioT8/bXI7WVa9WQ==
+"@primer/octicons@10.1.0":
+  version "10.1.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-10.1.0.tgz#09ce657fe9f9ed352e87b99660a4f7856bc8ffdf"
+  integrity sha512-oXfV0uIe7I4cb3vUzBPlPZGL5SQ3+joyyRcmk28aJiGFySl8brzL0MJC63RahiNEnIFrL3D5BRVgz5ZGGuHCOg==
   dependencies:
     object-assign "^4.1.1"
 
