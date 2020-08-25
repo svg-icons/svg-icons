@@ -1709,10 +1709,10 @@
   dependencies:
     mkdirp "^1.0.4"
 
-"@primer/octicons@10.0.0":
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-10.0.0.tgz#81e94ed32545dfd3472c8625a5b345f3ea4c153d"
-  integrity sha512-iuQubq62zXZjPmaqrsfsCZUqIJgZhmA6W0tKzIKGRbkoLnff4TFFCL87hfIRATZ5qZPM4m8ioT8/bXI7WVa9WQ==
+"@primer/octicons@10.1.0":
+  version "10.1.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-10.1.0.tgz#09ce657fe9f9ed352e87b99660a4f7856bc8ffdf"
+  integrity sha512-oXfV0uIe7I4cb3vUzBPlPZGL5SQ3+joyyRcmk28aJiGFySl8brzL0MJC63RahiNEnIFrL3D5BRVgz5ZGGuHCOg==
   dependencies:
     object-assign "^4.1.1"
 
@@ -6826,10 +6826,10 @@ he@^1.2.0:
   resolved "https://registry.yarnpkg.com/he/-/he-1.2.0.tgz#84ae65fa7eafb165fddb61566ae14baf05664f0f"
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
 
-heroicons@0.3.7:
-  version "0.3.7"
-  resolved "https://registry.yarnpkg.com/heroicons/-/heroicons-0.3.7.tgz#0ec4c093fa9db4d8f4fa17e38af8b6a19be59833"
-  integrity sha512-2fhfSKuPpFIYaLshYL/BV+b/S4hES9Ykh0nNt0adU6l4W5gAwhmkXfYRyxWsayrdHZBr6oc4pLqyedRJk3wWRA==
+heroicons@0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/heroicons/-/heroicons-0.4.0.tgz#6472b022bd689820ad49cbc84694d6f3a255fa30"
+  integrity sha512-CCPEBzBOJrliia0QL5tbR2E5MNlcrYcJhEB4m758RKh7h0vf9BjCqeOzKkIvASYPdOVld546Tixkg2i5ZAnkgA==
 
 highlight.js@~9.15.0, highlight.js@~9.15.1:
   version "9.15.10"
@@ -11021,10 +11021,10 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.3.tgz#a1410c2edd8f077b08b4e253c8eacfcaf057461c"
   integrity sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA==
 
-simple-icons@3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-3.5.0.tgz#0804c6a5bde2bb5b69008126d5df065b26008584"
-  integrity sha512-2QWj+y4iQnAQa9KIKJy2tVmstASHpq7+xbA6P+VgARkfK24WauuC5z2uIzX++FXQl+HAXZL3rFkBd23FFbTV9w==
+simple-icons@3.6.0:
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-3.6.0.tgz#31c0a8beb998e244214a8aaa26defc0a55c70797"
+  integrity sha512-A7L3sN56nBaAC8HDJgSspFi8lS7JT5YQ+lcsSeU82FIf3mGg0SsMbrgfNl1SgK8bezDOnksWLC3pJNhXBtqgZg==
 
 sisteransi@^1.0.4:
   version "1.0.5"
