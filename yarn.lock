@@ -8577,10 +8577,10 @@ material-colors@^1.2.1:
   resolved "https://registry.yarnpkg.com/material-colors/-/material-colors-1.2.6.tgz#6d1958871126992ceecc72f4bcc4d8f010865f46"
   integrity sha512-6qE4B9deFBIa9YSpOc9O0Sgc43zTeVYbgDT5veRKSlB2+ZuHNoVVxA1L/ckMUayV9Ay9y7Z/SZCLcGteW9i7bg==
 
-material-design-icons-updated@6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/material-design-icons-updated/-/material-design-icons-updated-6.0.0.tgz#26926dbebe91dd92e4a900b76fa2af4aaf41769c"
-  integrity sha512-Bm2Kt+PRu6RVubBGuMeeVH7IQQyC//W4lvJb3gZVzuNMU0KyKfNN16a3hauh6n5rlJDw9xd2iOQ/GdtLG1HDEw==
+material-design-icons-updated@6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/material-design-icons-updated/-/material-design-icons-updated-6.1.0.tgz#39823c4f1a3a37dc5479211ca4792aa4cfc00352"
+  integrity sha512-l1crUs1+ALE4i6Ekr6+DSMeGiICGVCKPiQxO4Vv4lC1cgkfjTeRk1DpVUKp4NBBwxBastn1EpoU2pokfAoVtmg==
 
 md5.js@^1.3.4:
   version "1.3.5"
