@@ -1,5 +1,11 @@
 # @svg-icons/material-outlined
 
+## 1.15.0
+
+### Minor Changes
+
+- [#104](https://github.com/svg-icons/svg-icons/pull/104): Bump material-design-icons-updated from 6.0.0 to 6.1.0 ([`9e196c6`](https://github.com/svg-icons/svg-icons/commit/9e196c6e48cf7fafc1bf6055456fd13b569d343a), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.12.0
 
 ### Minor Changes
