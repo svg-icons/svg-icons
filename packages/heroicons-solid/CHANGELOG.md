@@ -1,5 +1,11 @@
 # @svg-icons/heroicons-solid
 
+## 1.16.0
+
+### Minor Changes
+
+- [#109](https://github.com/svg-icons/svg-icons/pull/109): Bump heroicons from 0.4.0 to 0.4.1 ([`1035e6c`](https://github.com/svg-icons/svg-icons/commit/1035e6c96772446479beb9abad553b0fc367954c), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.14.0
 
 ### Minor Changes
