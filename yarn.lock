@@ -6826,10 +6826,10 @@ he@^1.2.0:
   resolved "https://registry.yarnpkg.com/he/-/he-1.2.0.tgz#84ae65fa7eafb165fddb61566ae14baf05664f0f"
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
 
-heroicons@0.4.1:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/heroicons/-/heroicons-0.4.1.tgz#10ae5da3ec971c263aee3b2a31c304f4b2878a7e"
-  integrity sha512-gcKUknRhgDdX1eBy099wT0ZzwWxlu6ta/V0VDOtOGt0MeC5BWNu0AfUdzjnTT85DRlydu/3mBkboa5BLTTqxrQ==
+heroicons@0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/heroicons/-/heroicons-0.4.2.tgz#edaffde42d14bffdd456f0566fd9b8e295ad69e2"
+  integrity sha512-24Bc6LKmamKHzGiNC80/r9v/7pQrma2V5KlaLUHGoarqm+hggmxnngU+RjHQT8sANWPa5FWKLftn4fpmvry/7w==
 
 highlight.js@~9.15.0, highlight.js@~9.15.1:
   version "9.15.10"
