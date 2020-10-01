@@ -1,5 +1,11 @@
 # @svg-icons/fa-regular
 
+## 1.21.0
+
+### Minor Changes
+
+- [#152](https://github.com/svg-icons/svg-icons/pull/152): Upgrade Font Awesome icons to v5.15.0 ([`a4f6d63`](https://github.com/svg-icons/svg-icons/commit/a4f6d63b2b0fb2769f78620e6fd712b08edb4c46), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
 ## 1.5.0
 
 ### Minor Changes
