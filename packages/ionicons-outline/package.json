@@ -26,6 +26,6 @@
   },
   "devDependencies": {
     "@svg-icons/pack-builder": "^1.1.0",
-    "ionicons": "5.1.2"
+    "ionicons": "5.2.1"
   }
 }
