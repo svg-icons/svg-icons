@@ -3611,10 +3611,10 @@ boxen@^4.1.0:
     type-fest "^0.8.1"
     widest-line "^3.1.0"
 
-boxicons@2.0.5:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/boxicons/-/boxicons-2.0.5.tgz#c967dd5fd82276a3463929286be2e830394eaf56"
-  integrity sha512-qMRNvjaxjR1aQWssbwjWqV2cBKmqq4slWIeo1ovXPsuksQrGb7CWVi9PeC7tngUjnrQE4Vk79DE4+W702vdKWg==
+boxicons@2.0.7:
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/boxicons/-/boxicons-2.0.7.tgz#6249281faa05f7292d695220a34d5fffd6b6768c"
+  integrity sha512-1K6IkeEkjWcdXT+XO3/ZUwNp5w3rYYRwvRqAMKh/6nzEP8JP/fHx/U7Ggce3fyDKfgBDgeG+Hj3iZrV8zpVhtw==
   dependencies:
     "@webcomponents/webcomponentsjs" "^2.0.2"
     prop-types "^15.6.0"
