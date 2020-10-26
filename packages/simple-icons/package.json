@@ -26,6 +26,6 @@
   },
   "devDependencies": {
     "@svg-icons/pack-builder": "^1.1.0",
-    "simple-icons": "3.12.0"
+    "simple-icons": "3.12.1"
   }
 }

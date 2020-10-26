@@ -10603,10 +10603,10 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.3.tgz#a1410c2edd8f077b08b4e253c8eacfcaf057461c"
   integrity sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA==
 
-simple-icons@3.12.0:
-  version "3.12.0"
-  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-3.12.0.tgz#c2c4c3b7186a678b4901467739e2256b8a61899d"
-  integrity sha512-BByy4oB0X7ZQNhH1P9rry2mC4JwXpNjp/5nsBLmL8x3OiXQBtR5iz9t/4PVsJwBrVV0B90ReNC+J4e1TlAvC5g==
+simple-icons@3.12.1:
+  version "3.12.1"
+  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-3.12.1.tgz#45ace22200708234d85b017b0ad8d732e0b23cd4"
+  integrity sha512-W5+PcQm83g0W0/PgKo0Q+6jA8w+tUP7At+OTZpI9VJwzp8nQ07wO/ZX2j7w1ZKM5Y0AMRL+qwdvz4tik6Sr3Ag==
 
 sisteransi@^1.0.4:
   version "1.0.5"
