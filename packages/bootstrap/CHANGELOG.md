@@ -1,5 +1,15 @@
 # @svg-icons/bootstrap
 
+## 1.23.0
+
+### Minor Changes
+
+- [#236](https://github.com/svg-icons/svg-icons/pull/236): - Upgrade Bootstrap icons to v1.1.0 ([`50347a8`](https://github.com/svg-icons/svg-icons/commit/50347a840679e1c94b80cbc86d0097a4470dba0e), [@jacobwgillespie](https://github.com/jacobwgillespie))
+  - Upgrade Boxicons to v2.0.7
+  - Upgrade Cryptocurrency icons to v0.17.0
+  - Upgrade Octicons to v11.1.0
+  - Upgrade Simple Icons to v4.1.0
+
 ## 1.17.0
 
 ### Minor Changes
