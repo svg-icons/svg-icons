@@ -1,5 +1,11 @@
 # @svg-icons/octicons
 
+## 1.24.0
+
+### Minor Changes
+
+- [#238](https://github.com/svg-icons/svg-icons/pull/238): Bump Octicons to v11.2.0 ([`32ebfeb`](https://github.com/svg-icons/svg-icons/commit/32ebfebc9e22512a580dd04418f8eebbc199dd4c), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.23.0
 
 ### Minor Changes
