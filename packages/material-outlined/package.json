@@ -26,6 +26,6 @@
   },
   "devDependencies": {
     "@svg-icons/pack-builder": "^1.1.0",
-    "material-design-icons-updated": "6.1.0"
+    "material-design-icons-updated": "6.2.0"
   }
 }
