@@ -9,7 +9,7 @@ module.exports = async () => {
   return sourceFiles.map((filename) => {
     const match = filename.match(/bxl-([^}]+)\.svg$/)
     return {
-      originalName: match[1],
+      originalName: match[1].trim(),
       source: fs.readFileSync(filename).toString(),
       pack: 'boxicons-logos',
       width: '24',
