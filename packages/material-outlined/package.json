@@ -1,6 +1,6 @@
 {
   "name": "@svg-icons/material-outlined",
-  "version": "1.15.0",
+  "version": "1.25.0",
   "license": "MIT",
   "description": "Material outlined icons available as optimized SVGs",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
@@ -26,6 +26,6 @@
   },
   "devDependencies": {
     "@svg-icons/pack-builder": "^1.1.0",
-    "material-design-icons-updated": "6.1.0"
+    "material-design-icons-updated": "6.2.0"
   }
 }
