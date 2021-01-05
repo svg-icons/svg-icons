@@ -1,5 +1,11 @@
 # @svg-icons/material-solid
 
+## 1.30.0
+
+### Minor Changes
+
+- [#267](https://github.com/svg-icons/svg-icons/pull/267): Upgrade Ionicons to v5.3.0 ([`ba9a11d`](https://github.com/svg-icons/svg-icons/commit/ba9a11dc664ca4eb56ea3d498f82de639e67b019), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.22.0
 
 ### Minor Changes
