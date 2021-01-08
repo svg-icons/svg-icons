@@ -4201,10 +4201,10 @@ crypto-browserify@^3.11.0:
     randombytes "^2.0.0"
     randomfill "^1.0.3"
 
-cryptocurrency-icons@0.17.0:
-  version "0.17.0"
-  resolved "https://registry.yarnpkg.com/cryptocurrency-icons/-/cryptocurrency-icons-0.17.0.tgz#4341c81d53e2cc7fdf0c6d4c60f24ee54fe707c5"
-  integrity sha512-A+cPw0mTtZC4U+NZzaM3r20m2vkpOHOEmN5ujaajTumzU70SHiA1FMrqTJNqxQrNiZTyUoFSndlyxjmIQCRBbA==
+cryptocurrency-icons@0.17.1:
+  version "0.17.1"
+  resolved "https://registry.yarnpkg.com/cryptocurrency-icons/-/cryptocurrency-icons-0.17.1.tgz#914084e2d443f8ee031b3ff162e0dd9f8446a8b2"
+  integrity sha512-2IMNdqCkYRg4BJVS5fFPPmPnYjWR/dGG+0TOKYoHGVfWfIck7Iy1LTHWMT9Rcd4gxbkSz1FbJLM6ptCQdJEDVA==
 
 css-loader@^3.5.3:
   version "3.6.0"
