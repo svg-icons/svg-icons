@@ -1,5 +1,11 @@
 # @svg-icons/crypto
 
+## 1.31.0
+
+### Minor Changes
+
+- [#270](https://github.com/svg-icons/svg-icons/pull/270): Upgrade Cryptocurrency icons to v0.17.1 ([`58e5eac`](https://github.com/svg-icons/svg-icons/commit/58e5eac7a0e1ac0594f735631780dbc7dbcbcee7), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.23.0
 
 ### Minor Changes
