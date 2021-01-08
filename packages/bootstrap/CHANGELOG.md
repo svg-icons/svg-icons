@@ -1,5 +1,11 @@
 # @svg-icons/bootstrap
 
+## 1.31.0
+
+### Minor Changes
+
+- [#272](https://github.com/svg-icons/svg-icons/pull/272): Upgrade Bootstrap icons to v1.3.0 ([`00997f1`](https://github.com/svg-icons/svg-icons/commit/00997f1af5572c68e81e8ef0b2aa633d63aa7789), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.27.0
 
 ### Minor Changes
