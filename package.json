@@ -26,7 +26,7 @@
     "@changesets/changelog-github": "^0.2.7",
     "@changesets/cli": "^2.12.0",
     "@storybook/html": "^6.1.11",
-    "@storybook/react": "^6.1.11",
+    "@storybook/react": "^6.1.12",
     "@types/node": "^14.14.20",
     "babel-loader": "^8.2.2",
     "chromatic": "^5.5.0",
