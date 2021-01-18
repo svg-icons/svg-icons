@@ -1,5 +1,11 @@
 # @svg-icons/fa-solid
 
+## 1.33.0
+
+### Minor Changes
+
+- [#289](https://github.com/svg-icons/svg-icons/pull/289): Upgrade Font Awesome to v5.15.2 ([`2bf45ab`](https://github.com/svg-icons/svg-icons/commit/2bf45ab81c3526004025a4454cb1983b07135b1e), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
 ## 1.22.0
 
 ### Minor Changes
