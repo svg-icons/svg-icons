@@ -25,6 +25,7 @@ jobs:
         if: github.actor != 'dependabot[bot]'
         env:
           CHROMATIC_PROJECT_TOKEN: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
+          STORYBOOK_BUILD_TIMEOUT: 1200000 # 20 minutes
 
   lint:
     name: Lint
