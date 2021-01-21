@@ -25,7 +25,7 @@
     "clean": "clean-pack"
   },
   "devDependencies": {
-    "@svg-icons/icomoon-source": "Keyamoon/IcoMoon-Free#d006795ede82361e1bac1ee76f215cf1dc51e4ca",
-    "@svg-icons/pack-builder": "^1.1.0"
+    "@svg-icons/pack-builder": "^1.1.0",
+    "icomoon-free-npm": "0.0.0"
   }
 }
