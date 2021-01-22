@@ -1386,18 +1386,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/types@npm:^7.10.4, @babel/types@npm:^7.10.5, @babel/types@npm:^7.12.1, @babel/types@npm:^7.12.10, @babel/types@npm:^7.12.11, @babel/types@npm:^7.12.5, @babel/types@npm:^7.12.7, @babel/types@npm:^7.4.4":
-  version: 7.12.11
-  resolution: "@babel/types@npm:7.12.11"
-  dependencies:
-    "@babel/helper-validator-identifier": ^7.12.11
-    lodash: ^4.17.19
-    to-fast-properties: ^2.0.0
-  checksum: e592c52b097da2c56f7388f35bf84a267c88e0e1bd7d3b7730892a8c70b2a80bd7f67a2ee57b2acf6aee58a074a234214d3e43ff6968dfb834733aa1417a5a43
-  languageName: node
-  linkType: hard
-
-"@babel/types@npm:^7.8.3":
+"@babel/types@npm:^7.10.4, @babel/types@npm:^7.10.5, @babel/types@npm:^7.12.1, @babel/types@npm:^7.12.10, @babel/types@npm:^7.12.11, @babel/types@npm:^7.12.5, @babel/types@npm:^7.12.7, @babel/types@npm:^7.4.4, @babel/types@npm:^7.8.3":
   version: 7.12.12
   resolution: "@babel/types@npm:7.12.12"
   dependencies:
@@ -1454,9 +1443,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@changesets/cli@npm:^2.13.0":
-  version: 2.13.0
-  resolution: "@changesets/cli@npm:2.13.0"
+"@changesets/cli@npm:^2.13.1":
+  version: 2.13.1
+  resolution: "@changesets/cli@npm:2.13.1"
   dependencies:
     "@babel/runtime": ^7.10.4
     "@changesets/apply-release-plan": ^4.0.0
@@ -1490,7 +1479,7 @@ __metadata:
     tty-table: ^2.8.10
   bin:
     changeset: bin.js
-  checksum: 290caed14d2685e38cf66405a6e4ea64edf2ce099633696643de655286fa0eb7557abb14745983afeefc4677e3e49474252cbcee5b37580662a3c7ad1a0cdcb1
+  checksum: c7a72082dadadbf074426c13d22668ba8c3cba3265f765f71009b579acab3ffed53a7430f46a7e800f24885f80e487ae370e3e4e20808bbc951fcb21c683a52b
   languageName: node
   linkType: hard
 
@@ -1563,21 +1552,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@changesets/git@npm:^1.0.5":
-  version: 1.0.6
-  resolution: "@changesets/git@npm:1.0.6"
-  dependencies:
-    "@babel/runtime": ^7.10.4
-    "@changesets/errors": ^0.1.4
-    "@changesets/types": ^3.1.1
-    "@manypkg/get-packages": ^1.0.1
-    is-subdir: ^1.1.1
-    spawndamnit: ^2.0.0
-  checksum: e5bef900206adab54d47b31bd2790d2a63f7222d741ab86d070d612639c1115e4c6450d56d322d6aa68e2d6f306674b037e2792a8c5eb140eaf5c53e106199b6
-  languageName: node
-  linkType: hard
-
-"@changesets/git@npm:^1.1.0":
+"@changesets/git@npm:^1.0.5, @changesets/git@npm:^1.1.0":
   version: 1.1.0
   resolution: "@changesets/git@npm:1.1.0"
   dependencies:
@@ -12663,7 +12638,7 @@ fsevents@~2.1.2:
   dependencies:
     "@babel/core": ^7.12.10
     "@changesets/changelog-github": ^0.2.8
-    "@changesets/cli": ^2.13.0
+    "@changesets/cli": ^2.13.1
     "@monorepolint/cli": ^0.5.0-alpha.51
     "@storybook/html": ^6.1.14
     "@storybook/react": ^6.1.14
