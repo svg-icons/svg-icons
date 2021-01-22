@@ -3,7 +3,7 @@ const fs = require('fs-extra')
 const path = require('path')
 
 module.exports = async () => {
-  const baseDir = path.dirname(require.resolve('@svg-icons/icomoon-source/IcoMoon-Free.json'))
+  const baseDir = path.dirname(require.resolve('icomoon-free-npm/package.json'))
   const sourceFiles = await glob('SVG/*.svg', {cwd: baseDir, absolute: true})
 
   return sourceFiles.map((filename) => {
