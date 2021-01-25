@@ -3291,7 +3291,7 @@ __metadata:
   resolution: "@svg-icons/simple-icons@workspace:packages/simple-icons"
   dependencies:
     "@svg-icons/pack-builder": ^1.1.0
-    simple-icons: 4.7.0
+    simple-icons: 4.8.0
   languageName: unknown
   linkType: soft
 
@@ -13359,10 +13359,10 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"simple-icons@npm:4.7.0":
-  version: 4.7.0
-  resolution: "simple-icons@npm:4.7.0"
-  checksum: 491509dc316a4cff937659b46353713238b846106c9ca91d3addf30e2288150ad963ac8e598d653fbc80512062bcdd3dfd3c7782956730eefd2bf21e3115a690
+"simple-icons@npm:4.8.0":
+  version: 4.8.0
+  resolution: "simple-icons@npm:4.8.0"
+  checksum: 80561ad13bfc67947364016beb37f84eabd8bbbc0537dbf9927f36fb47c307d12a8fe4f13bef1e874882c5220e8903930279fccd868245d86301f671cec58341
   languageName: node
   linkType: hard
 
