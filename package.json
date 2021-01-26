@@ -26,7 +26,7 @@
     "@changesets/changelog-github": "^0.2.8",
     "@changesets/cli": "^2.13.1",
     "@monorepolint/cli": "^0.5.0-alpha.51",
-    "@storybook/html": "^6.1.14",
+    "@storybook/html": "^6.1.15",
     "@storybook/react": "^6.1.15",
     "@types/node": "^14.14.22",
     "babel-loader": "^8.2.2",
