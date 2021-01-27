@@ -1,5 +1,11 @@
 # @svg-icons/ionicons-sharp
 
+## 1.35.0
+
+### Minor Changes
+
+- [#300](https://github.com/svg-icons/svg-icons/pull/300): Upgrade Ionicons to v5.4.0 ([`8e6b82c`](https://github.com/svg-icons/svg-icons/commit/8e6b82c4c6bb0cafe52dfa8a5001d95ef7390c32), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.30.0
 
 ### Minor Changes
