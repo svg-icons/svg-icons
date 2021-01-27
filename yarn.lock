@@ -2807,7 +2807,7 @@ __metadata:
   resolution: "@svg-icons/ionicons-outline@workspace:packages/ionicons-outline"
   dependencies:
     "@svg-icons/pack-builder": ^1.1.0
-    ionicons: 5.3.0
+    ionicons: 5.4.0
   languageName: unknown
   linkType: soft
 
@@ -2816,7 +2816,7 @@ __metadata:
   resolution: "@svg-icons/ionicons-sharp@workspace:packages/ionicons-sharp"
   dependencies:
     "@svg-icons/pack-builder": ^1.1.0
-    ionicons: 5.3.0
+    ionicons: 5.4.0
   languageName: unknown
   linkType: soft
 
@@ -2825,7 +2825,7 @@ __metadata:
   resolution: "@svg-icons/ionicons-solid@workspace:packages/ionicons-solid"
   dependencies:
     "@svg-icons/pack-builder": ^1.1.0
-    ionicons: 5.3.0
+    ionicons: 5.4.0
   languageName: unknown
   linkType: soft
 
@@ -8790,10 +8790,10 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"ionicons@npm:5.3.0":
-  version: 5.3.0
-  resolution: "ionicons@npm:5.3.0"
-  checksum: 0e9b9accd2c82385612aac44afdeb768b9331c52ee7266d5956fa81482f97bd7b2e738b5df55afbdb8751666d7b6685e87da19351646c7989b2e6e3ebcbd2afe
+"ionicons@npm:5.4.0":
+  version: 5.4.0
+  resolution: "ionicons@npm:5.4.0"
+  checksum: d2aadaf323b6647b193fab84a1d3e12d6543d0b91a2dd69bffbc3d9431a8fcac9a9ed6d3b22e3746b3eb0ca1ccfcf1e29625219adfb919ea96ab8a3364965a02
   languageName: node
   linkType: hard
 
