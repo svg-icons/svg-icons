@@ -4,6 +4,9 @@
 /public
 node_modules/
 
+# Vendored modules
+!vendor/*.tgz
+
 # Yarn
 .yarn/*
 !.yarn/releases
