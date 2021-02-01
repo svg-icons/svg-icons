@@ -1,5 +1,11 @@
 # @svg-icons/foundation
 
+## 1.36.0
+
+### Minor Changes
+
+- [#303](https://github.com/svg-icons/svg-icons/pull/303): Upgrade Foundation icons to v3.0.0 ([`f9b8de0`](https://github.com/svg-icons/svg-icons/commit/f9b8de0850cd66ec83a6540262ce60fc6f65aa53), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
 ## 1.1.0
 
 ### Minor Changes
