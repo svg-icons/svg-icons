@@ -1,5 +1,11 @@
 # @svg-icons/material-outlined
 
+## 1.36.0
+
+### Minor Changes
+
+- [#303](https://github.com/svg-icons/svg-icons/pull/303): Upgrade Material icons to v7.0.0 ([`f9b8de0`](https://github.com/svg-icons/svg-icons/commit/f9b8de0850cd66ec83a6540262ce60fc6f65aa53), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
 ## 1.33.0
 
 ### Minor Changes
