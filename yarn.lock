@@ -1418,21 +1418,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@changesets/assemble-release-plan@npm:^4.0.0":
-  version: 4.0.1
-  resolution: "@changesets/assemble-release-plan@npm:4.0.1"
-  dependencies:
-    "@babel/runtime": ^7.10.4
-    "@changesets/errors": ^0.1.4
-    "@changesets/get-dependents-graph": ^1.1.3
-    "@changesets/types": ^3.1.0
-    "@manypkg/get-packages": ^1.0.1
-    semver: ^5.4.1
-  checksum: 56b8bf156764faec162c2904cd12f30c48142970dc024311d45277bca9a9d388770c4ee84849a19682f8994914eb44289069ef01e314f64689a4a6c146a257b1
-  languageName: node
-  linkType: hard
-
-"@changesets/assemble-release-plan@npm:^4.1.0":
+"@changesets/assemble-release-plan@npm:^4.0.0, @changesets/assemble-release-plan@npm:^4.1.0":
   version: 4.1.0
   resolution: "@changesets/assemble-release-plan@npm:4.1.0"
   dependencies:
@@ -1497,22 +1483,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@changesets/config@npm:^1.2.0":
-  version: 1.4.0
-  resolution: "@changesets/config@npm:1.4.0"
-  dependencies:
-    "@changesets/errors": ^0.1.4
-    "@changesets/get-dependents-graph": ^1.1.3
-    "@changesets/logger": ^0.0.5
-    "@changesets/types": ^3.2.0
-    "@manypkg/get-packages": ^1.0.1
-    fs-extra: ^7.0.1
-    micromatch: ^4.0.2
-  checksum: 67f07f907d1964f596e99e295a523a997dcfe3e3e024f7b2dc0364ec149960e2d22ea87cc299109b8db29782d5ee6e6932d8b099390aa39e4a647a56c18aff83
-  languageName: node
-  linkType: hard
-
-"@changesets/config@npm:^1.5.0":
+"@changesets/config@npm:^1.2.0, @changesets/config@npm:^1.5.0":
   version: 1.5.0
   resolution: "@changesets/config@npm:1.5.0"
   dependencies:
@@ -1533,19 +1504,6 @@ __metadata:
   dependencies:
     extendable-error: ^0.1.5
   checksum: 28315502a54809a61ff50e9134127f2989dd83f08833e4967e0254517ee3e1420d0e96afbffc27cc3d1ad22371e77efd558b6f520b52b2b25b073ca4c7735d8b
-  languageName: node
-  linkType: hard
-
-"@changesets/get-dependents-graph@npm:^1.1.3":
-  version: 1.1.3
-  resolution: "@changesets/get-dependents-graph@npm:1.1.3"
-  dependencies:
-    "@changesets/types": ^3.0.0
-    "@manypkg/get-packages": ^1.0.1
-    chalk: ^2.1.0
-    fs-extra: ^7.0.1
-    semver: ^5.4.1
-  checksum: 18987bd1628cb2b372d1529220c65f233a36f810621d0f2f0e4f998e32d4f751b0ab00606c5af034f45739ffd6ce1a76ae096ed692ac1a0482cf5f45145b1e26
   languageName: node
   linkType: hard
 
@@ -1656,14 +1614,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@changesets/types@npm:^3.0.0, @changesets/types@npm:^3.1.0, @changesets/types@npm:^3.1.1, @changesets/types@npm:^3.2.0":
-  version: 3.2.0
-  resolution: "@changesets/types@npm:3.2.0"
-  checksum: 24fd9099520e217ca0a1905822a6e872b752b3b623b0a60c808a5612953f34aafd4c8100e49626ab38abca30b95b59f889f46141a646f45bca2e6a836e86a46e
-  languageName: node
-  linkType: hard
-
-"@changesets/types@npm:^3.3.0":
+"@changesets/types@npm:^3.0.0, @changesets/types@npm:^3.1.0, @changesets/types@npm:^3.1.1, @changesets/types@npm:^3.3.0":
   version: 3.3.0
   resolution: "@changesets/types@npm:3.3.0"
   checksum: 54dd2e12d6bfa0d73fe979acac5f7391348d2beae6c6ef4967082fdbfae284768ff371acea1911a1627f580f22e9f288dc77c394159b1c1a3920dd6f4b6d1333
@@ -1878,10 +1829,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@icon/foundation-icons@npm:^3.0.0-alpha.3":
-  version: 3.0.0-alpha.3
-  resolution: "@icon/foundation-icons@npm:3.0.0-alpha.3"
-  checksum: 8ded68eb5ff436af81496c260dd2149bac7c57326758f83b12027a8e14d0d637b6b9dc19cd547967787ac060e6434279a8736492c46df31f0a71461a14bba683
+"@icon/foundation-icons@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "@icon/foundation-icons@npm:3.0.0"
+  checksum: 0bcf7f32718a55497a4981fc2d431b7d158f46c965e1110a2d1c47a40079059bdfc3c49b59d2dd9a4f402acdb151a029fad09f073f47e30ca9659d306580da77
   languageName: node
   linkType: hard
 
@@ -2857,7 +2808,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/foundation@workspace:packages/foundation"
   dependencies:
-    "@icon/foundation-icons": ^3.0.0-alpha.3
+    "@icon/foundation-icons": ^3.0.0
     "@svg-icons/pack-builder": ^1.1.0
   languageName: unknown
   linkType: soft
@@ -2921,7 +2872,7 @@ __metadata:
   resolution: "@svg-icons/material-filled@workspace:packages/material-filled"
   dependencies:
     "@svg-icons/pack-builder": ^1.1.0
-    material-design-icons-updated: 6.3.0
+    material-design-icons-updated: 7.0.0
   languageName: unknown
   linkType: soft
 
@@ -2930,7 +2881,7 @@ __metadata:
   resolution: "@svg-icons/material-outlined@workspace:packages/material-outlined"
   dependencies:
     "@svg-icons/pack-builder": ^1.1.0
-    material-design-icons-updated: 6.3.0
+    material-design-icons-updated: 7.0.0
   languageName: unknown
   linkType: soft
 
@@ -2939,7 +2890,7 @@ __metadata:
   resolution: "@svg-icons/material-rounded@workspace:packages/material-rounded"
   dependencies:
     "@svg-icons/pack-builder": ^1.1.0
-    material-design-icons-updated: 6.3.0
+    material-design-icons-updated: 7.0.0
   languageName: unknown
   linkType: soft
 
@@ -2948,7 +2899,7 @@ __metadata:
   resolution: "@svg-icons/material-sharp@workspace:packages/material-sharp"
   dependencies:
     "@svg-icons/pack-builder": ^1.1.0
-    material-design-icons-updated: 6.3.0
+    material-design-icons-updated: 7.0.0
   languageName: unknown
   linkType: soft
 
@@ -2957,7 +2908,7 @@ __metadata:
   resolution: "@svg-icons/material-twotone@workspace:packages/material-twotone"
   dependencies:
     "@svg-icons/pack-builder": ^1.1.0
-    material-design-icons-updated: 6.3.0
+    material-design-icons-updated: 7.0.0
   languageName: unknown
   linkType: soft
 
@@ -3017,7 +2968,7 @@ __metadata:
   resolution: "@svg-icons/simple-icons@workspace:packages/simple-icons"
   dependencies:
     "@svg-icons/pack-builder": ^1.1.0
-    simple-icons: 4.8.0
+    simple-icons: 4.9.0
   languageName: unknown
   linkType: soft
 
@@ -10046,10 +9997,10 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"material-design-icons-updated@npm:6.3.0":
-  version: 6.3.0
-  resolution: "material-design-icons-updated@npm:6.3.0"
-  checksum: ab3043ec7724ecfdb59f2df0d89129402a56fe9389de8d9734e2b03fd551ef0199ad796c1ae22b31d57fabaffeedaf2b8f9ab79d3e83062d37fdf258f27befaa
+"material-design-icons-updated@npm:7.0.0":
+  version: 7.0.0
+  resolution: "material-design-icons-updated@npm:7.0.0"
+  checksum: 9b85fcf065590a9640cd81c9e60a8afaf9eb9e3e82e6d667fddc39cef2afb975b224c7ea834a5c99858e73328de4feef2ef60b1379b3d6a1a0c78c379c712862
   languageName: node
   linkType: hard
 
@@ -13085,10 +13036,10 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"simple-icons@npm:4.8.0":
-  version: 4.8.0
-  resolution: "simple-icons@npm:4.8.0"
-  checksum: 80561ad13bfc67947364016beb37f84eabd8bbbc0537dbf9927f36fb47c307d12a8fe4f13bef1e874882c5220e8903930279fccd868245d86301f671cec58341
+"simple-icons@npm:4.9.0":
+  version: 4.9.0
+  resolution: "simple-icons@npm:4.9.0"
+  checksum: 1e1a5bc8c81b34157ad598c7da669095972f8fb15190b4fb1947be6acd54597e35d1a88b0e324ca2d752a4a95d90effb6dbdb7c7f0cff1733d582d7bb3dcd601
   languageName: node
   linkType: hard
 
