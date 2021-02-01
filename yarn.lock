@@ -1786,6 +1786,20 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@fluentui/svg-icons@file:../../vendor/fluentui-svg-icons-1.1.94.tgz::locator=%40svg-icons%2Ffluentui-system-filled%40workspace%3Apackages%2Ffluentui-system-filled":
+  version: 1.1.94
+  resolution: "@fluentui/svg-icons@file:../../vendor/fluentui-svg-icons-1.1.94.tgz::locator=%40svg-icons%2Ffluentui-system-filled%40workspace%3Apackages%2Ffluentui-system-filled"
+  checksum: 7a77fd8063fc37a5107a00ed0bb25a8d4f073b2118d62f4663457105b89c476ec33f05732c4744f6a561831e463ca77b804f77e52a35d75c7256e733831842a4
+  languageName: node
+  linkType: hard
+
+"@fluentui/svg-icons@file:../../vendor/fluentui-svg-icons-1.1.94.tgz::locator=%40svg-icons%2Ffluentui-system-regular%40workspace%3Apackages%2Ffluentui-system-regular":
+  version: 1.1.94
+  resolution: "@fluentui/svg-icons@file:../../vendor/fluentui-svg-icons-1.1.94.tgz::locator=%40svg-icons%2Ffluentui-system-regular%40workspace%3Apackages%2Ffluentui-system-regular"
+  checksum: 7a77fd8063fc37a5107a00ed0bb25a8d4f073b2118d62f4663457105b89c476ec33f05732c4744f6a561831e463ca77b804f77e52a35d75c7256e733831842a4
+  languageName: node
+  linkType: hard
+
 "@fortawesome/fontawesome-common-types@npm:^0.2.34":
   version: 0.2.34
   resolution: "@fortawesome/fontawesome-common-types@npm:0.2.34"
@@ -2801,6 +2815,24 @@ __metadata:
   dependencies:
     "@svg-icons/pack-builder": ^1.1.0
     feather-icons: 4.28.0
+  languageName: unknown
+  linkType: soft
+
+"@svg-icons/fluentui-system-filled@workspace:packages/fluentui-system-filled":
+  version: 0.0.0-use.local
+  resolution: "@svg-icons/fluentui-system-filled@workspace:packages/fluentui-system-filled"
+  dependencies:
+    "@fluentui/svg-icons": "file:../../vendor/fluentui-svg-icons-1.1.94.tgz"
+    "@svg-icons/pack-builder": ^1.1.0
+  languageName: unknown
+  linkType: soft
+
+"@svg-icons/fluentui-system-regular@workspace:packages/fluentui-system-regular":
+  version: 0.0.0-use.local
+  resolution: "@svg-icons/fluentui-system-regular@workspace:packages/fluentui-system-regular"
+  dependencies:
+    "@fluentui/svg-icons": "file:../../vendor/fluentui-svg-icons-1.1.94.tgz"
+    "@svg-icons/pack-builder": ^1.1.0
   languageName: unknown
   linkType: soft
 
