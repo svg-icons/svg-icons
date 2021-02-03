@@ -25,7 +25,7 @@
     "clean": "clean-pack"
   },
   "devDependencies": {
-    "@primer/octicons": "11.2.0",
+    "@primer/octicons": "11.3.0",
     "@svg-icons/pack-builder": "^1.1.0"
   }
 }
