@@ -1,5 +1,11 @@
 # @svg-icons/octicons
 
+## 1.37.0
+
+### Minor Changes
+
+- [#308](https://github.com/svg-icons/svg-icons/pull/308): Upgrade Octicons to v12.0.0 ([`e3934d8`](https://github.com/svg-icons/svg-icons/commit/e3934d8db253af1812e6e567258b79f8c7c1e1d1), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.36.1
 
 ### Patch Changes
