@@ -2245,6 +2245,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@stencil/core@npm:^2.4.0":
+  version: 2.4.0
+  resolution: "@stencil/core@npm:2.4.0"
+  bin:
+    stencil: bin/stencil
+  checksum: e8f30fcadbff5c71ef5c254f08311ed9d49baf23c8fb1b0908489f0ec9586fc3416ca9060cb26a6ee50777e27c75b2dce185fe8d2c31e7fb4728319c57394df1
+  languageName: node
+  linkType: hard
+
 "@storybook/addons@npm:6.1.15":
   version: 6.1.15
   resolution: "@storybook/addons@npm:6.1.15"
@@ -2877,7 +2886,7 @@ __metadata:
   resolution: "@svg-icons/ionicons-outline@workspace:packages/ionicons-outline"
   dependencies:
     "@svg-icons/pack-builder": ^1.1.0
-    ionicons: 5.4.0
+    ionicons: 5.5.0
   languageName: unknown
   linkType: soft
 
@@ -2886,7 +2895,7 @@ __metadata:
   resolution: "@svg-icons/ionicons-sharp@workspace:packages/ionicons-sharp"
   dependencies:
     "@svg-icons/pack-builder": ^1.1.0
-    ionicons: 5.4.0
+    ionicons: 5.5.0
   languageName: unknown
   linkType: soft
 
@@ -2895,7 +2904,7 @@ __metadata:
   resolution: "@svg-icons/ionicons-solid@workspace:packages/ionicons-solid"
   dependencies:
     "@svg-icons/pack-builder": ^1.1.0
-    ionicons: 5.4.0
+    ionicons: 5.5.0
   languageName: unknown
   linkType: soft
 
@@ -8860,10 +8869,12 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"ionicons@npm:5.4.0":
-  version: 5.4.0
-  resolution: "ionicons@npm:5.4.0"
-  checksum: d2aadaf323b6647b193fab84a1d3e12d6543d0b91a2dd69bffbc3d9431a8fcac9a9ed6d3b22e3746b3eb0ca1ccfcf1e29625219adfb919ea96ab8a3364965a02
+"ionicons@npm:5.5.0":
+  version: 5.5.0
+  resolution: "ionicons@npm:5.5.0"
+  dependencies:
+    "@stencil/core": ^2.4.0
+  checksum: bd9a3b41eac91b1c08f8288971a9ff732719ba7e9845c38ee69ba7f79b84d865826b77241f3acbb410dcb7eb6722c55ce37badfc1b2daf0be3b20f02a50564ad
   languageName: node
   linkType: hard
 
