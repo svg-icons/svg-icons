@@ -18,7 +18,7 @@ module.exports = async () => {
   })
 
   const cleanedIcons = allIcons.filter((icon) => {
-    if (icon.originalName === 'addchart' && allIcons.some((i) => i.name === 'add-chart')) {
+    if (icon.originalName === 'addchart' && allIcons.some((i) => i.originalName === 'add-chart')) {
       return false
     }
     return true
