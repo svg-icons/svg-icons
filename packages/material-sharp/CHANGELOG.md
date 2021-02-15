@@ -1,5 +1,11 @@
 # @svg-icons/material-sharp
 
+## 1.39.0
+
+### Patch Changes
+
+- [#315](https://github.com/svg-icons/svg-icons/pull/315): Fix duplicate icon in Material packs ([`1568a3c`](https://github.com/svg-icons/svg-icons/commit/1568a3c7e467fbf16e89aa15408a2a31fa718d68), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
 ## 1.36.0
 
 ### Minor Changes
