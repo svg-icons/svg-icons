@@ -1,5 +1,7 @@
 .changeset
 .next
+.vscode
+.yarn
 build
 dist
 public
