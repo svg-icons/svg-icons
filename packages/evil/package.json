@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "@svg-icons/pack-builder": "^1.1.0",
-    "evil-icons": "1.10.1"
+    "evil-icons": "1.10.1",
+    "tiny-glob": "^0.2.8"
   }
 }

@@ -28,7 +28,7 @@ jobs:
       - name: Commit changes
         run: |
           if [[ -n $(git status -s) ]]; then
-            git add yarn.lock
+            git add yarn.lock .pnp.js .yarn
             git commit -m "Update yarn.lock"
             git push
           else

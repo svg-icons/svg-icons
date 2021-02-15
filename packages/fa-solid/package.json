@@ -27,6 +27,7 @@
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.34",
     "@fortawesome/free-solid-svg-icons": "5.15.2",
-    "@svg-icons/pack-builder": "^1.1.0"
+    "@svg-icons/pack-builder": "^1.1.0",
+    "tiny-glob": "^0.2.8"
   }
 }
