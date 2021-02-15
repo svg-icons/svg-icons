@@ -17,9 +17,16 @@ module.exports = async () => {
     }
   })
 
+  const cleanedIcons = allIcons.filter((icon) => {
+    if (icon.originalName === 'addchart' && allIcons.some((i) => i.name === 'add-chart')) {
+      return false
+    }
+    return true
+  })
+
   // Pick highest resolution of icon available
   const icons = new Map()
-  for (const icon of allIcons) {
+  for (const icon of cleanedIcons) {
     const existingIcon = icons.get(icon.originalName)
     if (!existingIcon || parseInt(existingIcon.width, 10) < parseInt(icon.width, 10)) {
       icons.set(icon.originalName, icon)
