@@ -15,20 +15,23 @@
     "storybook": "start-storybook -p 5000"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.10",
+    "@babel/core": "^7.12.16",
     "@changesets/changelog-github": "^0.2.8",
-    "@changesets/cli": "^2.14.0",
+    "@changesets/cli": "^2.14.1",
     "@monorepolint/cli": "^0.4.0",
-    "@storybook/html": "^6.1.15",
-    "@storybook/react": "^6.1.15",
-    "@types/node": "^14.14.22",
+    "@storybook/html": "^6.1.18",
+    "@storybook/react": "^6.1.18",
+    "@types/node": "^14.14.28",
     "@yarnpkg/pnpify": "^2.4.0",
     "babel-loader": "^8.2.2",
-    "chromatic": "^5.6.1",
+    "chromatic": "^5.6.2",
+    "core-js": "^3.8.3",
     "monorepolint": "^0.5.0-alpha.51",
     "prettier": "^2.2.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "tiny-glob": "^0.2.8",
     "ts-node": "^9.1.1",
-    "typescript": "^4.1.3"
+    "typescript": "^4.1.5"
   }
 }
