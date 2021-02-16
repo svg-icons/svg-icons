@@ -1,5 +1,11 @@
 # @svg-icons/fa-regular
 
+## 1.39.1
+
+### Patch Changes
+
+- [#317](https://github.com/svg-icons/svg-icons/pull/317): Sort icon names in JSON manifest ([`98d5a95`](https://github.com/svg-icons/svg-icons/commit/98d5a952a2249024e378e0c7707428406d14bcd8), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
 ## 1.33.0
 
 ### Minor Changes
