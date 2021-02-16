@@ -4713,8 +4713,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/bootstrap/",
           "packageDependencies": [
             ["@svg-icons/bootstrap", "workspace:packages/bootstrap"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["bootstrap-icons", "npm:1.3.0"],
+            ["core-js", "npm:3.8.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -4725,8 +4728,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/boxicons-logos/",
           "packageDependencies": [
             ["@svg-icons/boxicons-logos", "workspace:packages/boxicons-logos"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["boxicons", "npm:2.0.7"],
+            ["core-js", "npm:3.8.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -4737,8 +4743,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/boxicons-regular/",
           "packageDependencies": [
             ["@svg-icons/boxicons-regular", "workspace:packages/boxicons-regular"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["boxicons", "npm:2.0.7"],
+            ["core-js", "npm:3.8.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -4749,8 +4758,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/boxicons-solid/",
           "packageDependencies": [
             ["@svg-icons/boxicons-solid", "workspace:packages/boxicons-solid"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["boxicons", "npm:2.0.7"],
+            ["core-js", "npm:3.8.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -4761,7 +4773,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/crypto/",
           "packageDependencies": [
             ["@svg-icons/crypto", "workspace:packages/crypto"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["cryptocurrency-icons", "npm:0.17.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -4773,7 +4788,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/entypo/",
           "packageDependencies": [
             ["@svg-icons/entypo", "workspace:packages/entypo"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["entypo", "npm:2.2.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -4785,7 +4803,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/entypo-social/",
           "packageDependencies": [
             ["@svg-icons/entypo-social", "workspace:packages/entypo-social"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["entypo", "npm:2.2.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -4797,7 +4818,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/evaicons-outline/",
           "packageDependencies": [
             ["@svg-icons/evaicons-outline", "workspace:packages/evaicons-outline"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["eva-icons", "npm:1.1.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -4809,7 +4833,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/evaicons-solid/",
           "packageDependencies": [
             ["@svg-icons/evaicons-solid", "workspace:packages/evaicons-solid"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["eva-icons", "npm:1.1.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -4821,7 +4848,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/evil/",
           "packageDependencies": [
             ["@svg-icons/evil", "workspace:packages/evil"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["evil-icons", "npm:1.10.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -4833,9 +4863,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/fa-brands/",
           "packageDependencies": [
             ["@svg-icons/fa-brands", "workspace:packages/fa-brands"],
+            ["@babel/core", "npm:7.12.16"],
             ["@fortawesome/fontawesome-svg-core", "npm:1.2.34"],
             ["@fortawesome/free-brands-svg-icons", "npm:5.15.2"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -4846,9 +4879,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/fa-regular/",
           "packageDependencies": [
             ["@svg-icons/fa-regular", "workspace:packages/fa-regular"],
+            ["@babel/core", "npm:7.12.16"],
             ["@fortawesome/fontawesome-svg-core", "npm:1.2.34"],
             ["@fortawesome/free-regular-svg-icons", "npm:5.15.2"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -4859,9 +4895,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/fa-solid/",
           "packageDependencies": [
             ["@svg-icons/fa-solid", "workspace:packages/fa-solid"],
+            ["@babel/core", "npm:7.12.16"],
             ["@fortawesome/fontawesome-svg-core", "npm:1.2.34"],
             ["@fortawesome/free-solid-svg-icons", "npm:5.15.2"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -4872,7 +4911,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/feather/",
           "packageDependencies": [
             ["@svg-icons/feather", "workspace:packages/feather"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["feather-icons", "npm:4.28.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -4884,8 +4926,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/fluentui-system-filled/",
           "packageDependencies": [
             ["@svg-icons/fluentui-system-filled", "workspace:packages/fluentui-system-filled"],
+            ["@babel/core", "npm:7.12.16"],
             ["@fluentui/svg-icons", "file:../../vendor/fluentui-svg-icons-1.1.94.tgz::locator=%40svg-icons%2Ffluentui-system-filled%40workspace%3Apackages%2Ffluentui-system-filled"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -4896,8 +4941,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/fluentui-system-regular/",
           "packageDependencies": [
             ["@svg-icons/fluentui-system-regular", "workspace:packages/fluentui-system-regular"],
+            ["@babel/core", "npm:7.12.16"],
             ["@fluentui/svg-icons", "file:../../vendor/fluentui-svg-icons-1.1.94.tgz::locator=%40svg-icons%2Ffluentui-system-regular%40workspace%3Apackages%2Ffluentui-system-regular"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -4908,8 +4956,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/foundation/",
           "packageDependencies": [
             ["@svg-icons/foundation", "workspace:packages/foundation"],
+            ["@babel/core", "npm:7.12.16"],
             ["@icon/foundation-icons", "npm:3.0.0"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -4920,7 +4971,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/heroicons-outline/",
           "packageDependencies": [
             ["@svg-icons/heroicons-outline", "workspace:packages/heroicons-outline"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["heroicons", "npm:0.4.2"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -4932,7 +4986,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/heroicons-solid/",
           "packageDependencies": [
             ["@svg-icons/heroicons-solid", "workspace:packages/heroicons-solid"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["heroicons", "npm:0.4.2"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -4944,7 +5001,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/icomoon/",
           "packageDependencies": [
             ["@svg-icons/icomoon", "workspace:packages/icomoon"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["icomoon-free-npm", "npm:0.0.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -4956,7 +5016,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/ionicons-outline/",
           "packageDependencies": [
             ["@svg-icons/ionicons-outline", "workspace:packages/ionicons-outline"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["ionicons", "npm:5.5.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -4968,7 +5031,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/ionicons-sharp/",
           "packageDependencies": [
             ["@svg-icons/ionicons-sharp", "workspace:packages/ionicons-sharp"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["ionicons", "npm:5.5.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -4980,7 +5046,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/ionicons-solid/",
           "packageDependencies": [
             ["@svg-icons/ionicons-solid", "workspace:packages/ionicons-solid"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["ionicons", "npm:5.5.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -4992,7 +5061,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/material-filled/",
           "packageDependencies": [
             ["@svg-icons/material-filled", "workspace:packages/material-filled"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["material-design-icons-updated", "npm:7.0.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5004,7 +5076,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/material-outlined/",
           "packageDependencies": [
             ["@svg-icons/material-outlined", "workspace:packages/material-outlined"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["material-design-icons-updated", "npm:7.0.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5016,7 +5091,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/material-rounded/",
           "packageDependencies": [
             ["@svg-icons/material-rounded", "workspace:packages/material-rounded"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["material-design-icons-updated", "npm:7.0.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5028,7 +5106,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/material-sharp/",
           "packageDependencies": [
             ["@svg-icons/material-sharp", "workspace:packages/material-sharp"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["material-design-icons-updated", "npm:7.0.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5040,7 +5121,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/material-twotone/",
           "packageDependencies": [
             ["@svg-icons/material-twotone", "workspace:packages/material-twotone"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["material-design-icons-updated", "npm:7.0.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5052,8 +5136,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/octicons/",
           "packageDependencies": [
             ["@svg-icons/octicons", "workspace:packages/octicons"],
+            ["@babel/core", "npm:7.12.16"],
             ["@primer/octicons", "npm:12.0.0"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5064,7 +5151,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/open-iconic/",
           "packageDependencies": [
             ["@svg-icons/open-iconic", "workspace:packages/open-iconic"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["open-iconic", "npm:1.1.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5090,7 +5180,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/remix-fill/",
           "packageDependencies": [
             ["@svg-icons/remix-fill", "workspace:packages/remix-fill"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["remixicon", "npm:2.5.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5102,7 +5195,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/remix-line/",
           "packageDependencies": [
             ["@svg-icons/remix-line", "workspace:packages/remix-line"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["remixicon", "npm:2.5.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5114,7 +5210,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/simple-icons/",
           "packageDependencies": [
             ["@svg-icons/simple-icons", "workspace:packages/simple-icons"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["simple-icons", "npm:4.11.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5126,7 +5225,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/typicons/",
           "packageDependencies": [
             ["@svg-icons/typicons", "workspace:packages/typicons"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["tiny-glob", "npm:0.2.8"],
             ["typicons.font", "npm:2.0.9"]
           ],
@@ -5138,7 +5240,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/zondicons/",
           "packageDependencies": [
             ["@svg-icons/zondicons", "workspace:packages/zondicons"],
+            ["@babel/core", "npm:7.12.16"],
+            ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
+            ["core-js", "npm:3.8.3"],
             ["tiny-glob", "npm:0.2.8"],
             ["zondicons", "npm:1.2.0"]
           ],

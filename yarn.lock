@@ -2707,8 +2707,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/bootstrap@workspace:packages/bootstrap"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     bootstrap-icons: 1.3.0
+    core-js: ^3.8.3
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -2717,8 +2720,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/boxicons-logos@workspace:packages/boxicons-logos"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     boxicons: 2.0.7
+    core-js: ^3.8.3
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -2727,8 +2733,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/boxicons-regular@workspace:packages/boxicons-regular"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     boxicons: 2.0.7
+    core-js: ^3.8.3
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -2737,8 +2746,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/boxicons-solid@workspace:packages/boxicons-solid"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     boxicons: 2.0.7
+    core-js: ^3.8.3
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -2747,7 +2759,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/crypto@workspace:packages/crypto"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     cryptocurrency-icons: 0.17.1
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2757,7 +2772,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/entypo-social@workspace:packages/entypo-social"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     entypo: 2.2.1
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2767,7 +2785,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/entypo@workspace:packages/entypo"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     entypo: 2.2.1
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2777,7 +2798,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/evaicons-outline@workspace:packages/evaicons-outline"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     eva-icons: 1.1.3
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2787,7 +2811,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/evaicons-solid@workspace:packages/evaicons-solid"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     eva-icons: 1.1.3
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2797,7 +2824,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/evil@workspace:packages/evil"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     evil-icons: 1.10.1
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2807,9 +2837,12 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fa-brands@workspace:packages/fa-brands"
   dependencies:
+    "@babel/core": ^7.12.16
     "@fortawesome/fontawesome-svg-core": 1.2.34
     "@fortawesome/free-brands-svg-icons": 5.15.2
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -2818,9 +2851,12 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fa-regular@workspace:packages/fa-regular"
   dependencies:
+    "@babel/core": ^7.12.16
     "@fortawesome/fontawesome-svg-core": 1.2.34
     "@fortawesome/free-regular-svg-icons": 5.15.2
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -2829,9 +2865,12 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fa-solid@workspace:packages/fa-solid"
   dependencies:
+    "@babel/core": ^7.12.16
     "@fortawesome/fontawesome-svg-core": 1.2.34
     "@fortawesome/free-solid-svg-icons": 5.15.2
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -2840,7 +2879,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/feather@workspace:packages/feather"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     feather-icons: 4.28.0
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2850,8 +2892,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fluentui-system-filled@workspace:packages/fluentui-system-filled"
   dependencies:
+    "@babel/core": ^7.12.16
     "@fluentui/svg-icons": "file:../../vendor/fluentui-svg-icons-1.1.94.tgz"
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -2860,8 +2905,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fluentui-system-regular@workspace:packages/fluentui-system-regular"
   dependencies:
+    "@babel/core": ^7.12.16
     "@fluentui/svg-icons": "file:../../vendor/fluentui-svg-icons-1.1.94.tgz"
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -2870,8 +2918,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/foundation@workspace:packages/foundation"
   dependencies:
+    "@babel/core": ^7.12.16
     "@icon/foundation-icons": ^3.0.0
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -2880,7 +2931,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/heroicons-outline@workspace:packages/heroicons-outline"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     heroicons: 0.4.2
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2890,7 +2944,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/heroicons-solid@workspace:packages/heroicons-solid"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     heroicons: 0.4.2
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2900,7 +2957,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/icomoon@workspace:packages/icomoon"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     icomoon-free-npm: 0.0.0
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2910,7 +2970,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/ionicons-outline@workspace:packages/ionicons-outline"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     ionicons: 5.5.0
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2920,7 +2983,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/ionicons-sharp@workspace:packages/ionicons-sharp"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     ionicons: 5.5.0
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2930,7 +2996,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/ionicons-solid@workspace:packages/ionicons-solid"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     ionicons: 5.5.0
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2940,7 +3009,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-filled@workspace:packages/material-filled"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     material-design-icons-updated: 7.0.0
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2950,7 +3022,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-outlined@workspace:packages/material-outlined"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     material-design-icons-updated: 7.0.0
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2960,7 +3035,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-rounded@workspace:packages/material-rounded"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     material-design-icons-updated: 7.0.0
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2970,7 +3048,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-sharp@workspace:packages/material-sharp"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     material-design-icons-updated: 7.0.0
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2980,7 +3061,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-twotone@workspace:packages/material-twotone"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     material-design-icons-updated: 7.0.0
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -2990,8 +3074,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/octicons@workspace:packages/octicons"
   dependencies:
+    "@babel/core": ^7.12.16
     "@primer/octicons": 12.0.0
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -3000,7 +3087,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/open-iconic@workspace:packages/open-iconic"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     open-iconic: ^1.1.1
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -3025,7 +3115,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/remix-fill@workspace:packages/remix-fill"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     remixicon: 2.5.0
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -3035,7 +3128,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/remix-line@workspace:packages/remix-line"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     remixicon: 2.5.0
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -3045,7 +3141,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/simple-icons@workspace:packages/simple-icons"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     simple-icons: 4.11.0
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -3055,7 +3154,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/typicons@workspace:packages/typicons"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     tiny-glob: ^0.2.8
     typicons.font: 2.0.9
   languageName: unknown
@@ -3065,7 +3167,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/zondicons@workspace:packages/zondicons"
   dependencies:
+    "@babel/core": ^7.12.16
+    "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
+    core-js: ^3.8.3
     tiny-glob: ^0.2.8
     zondicons: ^1.2.0
   languageName: unknown
