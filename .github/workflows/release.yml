@@ -12,7 +12,7 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
       - run: yarn install --immutable
-      - uses: jacobwgillespie/changesets-action@fix-resolve
+      - uses: changesets/action@master
         if: github.ref == 'refs/heads/main' && github.repository == 'svg-icons/svg-icons'
         with:
           publish: yarn release
