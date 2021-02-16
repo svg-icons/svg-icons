@@ -25,8 +25,12 @@
     "clean": "clean-pack"
   },
   "devDependencies": {
+    "@babel/core": "^7.12.16",
     "@fortawesome/fontawesome-svg-core": "1.2.34",
     "@fortawesome/free-regular-svg-icons": "5.15.2",
-    "@svg-icons/pack-builder": "^1.1.0"
+    "@storybook/html": "^6.1.18",
+    "@svg-icons/pack-builder": "^1.1.0",
+    "core-js": "^3.8.3",
+    "tiny-glob": "^0.2.8"
   }
 }

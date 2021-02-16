@@ -52,6 +52,6 @@ jobs:
       - name: Commit changes
         run: |
           cd .`git log -1 --pretty=%s | awk '{ print $8 }'` # ditto
-          git add yarn.lock
+          git add yarn.lock .pnp.js .yarn
           git commit -m "Dependabot Yarn 2 autofix"
           git push

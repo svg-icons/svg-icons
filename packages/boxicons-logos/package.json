@@ -25,7 +25,11 @@
     "clean": "clean-pack"
   },
   "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@storybook/html": "^6.1.18",
     "@svg-icons/pack-builder": "^1.1.0",
-    "boxicons": "2.0.7"
+    "boxicons": "2.0.7",
+    "core-js": "^3.8.3",
+    "tiny-glob": "^0.2.8"
   }
 }

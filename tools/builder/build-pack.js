@@ -25,6 +25,8 @@ const generate = async () => {
     process.exit(1)
   }
 
+  icons.sort((a, b) => a.originalName.localeCompare(b.originalName))
+
   const seenIcons = new Set()
   const uniqueIcons = icons.filter((icon) => {
     if (seenIcons.has(icon.originalName)) {
