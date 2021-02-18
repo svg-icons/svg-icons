@@ -67,18 +67,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/core@npm:^7.12.16, @babel/core@npm:^7.12.3, @babel/core@npm:^7.7.5":
-  version: 7.12.16
-  resolution: "@babel/core@npm:7.12.16"
+"@babel/core@npm:^7.12.17, @babel/core@npm:^7.12.3, @babel/core@npm:^7.7.5":
+  version: 7.12.17
+  resolution: "@babel/core@npm:7.12.17"
   dependencies:
     "@babel/code-frame": ^7.12.13
-    "@babel/generator": ^7.12.15
-    "@babel/helper-module-transforms": ^7.12.13
-    "@babel/helpers": ^7.12.13
-    "@babel/parser": ^7.12.16
+    "@babel/generator": ^7.12.17
+    "@babel/helper-module-transforms": ^7.12.17
+    "@babel/helpers": ^7.12.17
+    "@babel/parser": ^7.12.17
     "@babel/template": ^7.12.13
-    "@babel/traverse": ^7.12.13
-    "@babel/types": ^7.12.13
+    "@babel/traverse": ^7.12.17
+    "@babel/types": ^7.12.17
     convert-source-map: ^1.7.0
     debug: ^4.1.0
     gensync: ^1.0.0-beta.1
@@ -86,18 +86,18 @@ __metadata:
     lodash: ^4.17.19
     semver: ^5.4.1
     source-map: ^0.5.0
-  checksum: 87b621eb25d1c96adb95a4f019659d856aa6c4a45ee3ad234fb8066b1ff40ef9ae0052dcdba549ae92d1505207f1c53203b3e410bdadddedaecd1e45fb1172f7
+  checksum: 4828334febd04e90d5211244f29ee7bb1e1139be6535171572e4607e27cfcf45a093e6e920f833d6dca8633e4d7e74648534c3ef5dbfbc9ac5901762b0a4a849
   languageName: node
   linkType: hard
 
-"@babel/generator@npm:^7.12.13, @babel/generator@npm:^7.12.15":
-  version: 7.12.15
-  resolution: "@babel/generator@npm:7.12.15"
+"@babel/generator@npm:^7.12.17":
+  version: 7.12.17
+  resolution: "@babel/generator@npm:7.12.17"
   dependencies:
-    "@babel/types": ^7.12.13
+    "@babel/types": ^7.12.17
     jsesc: ^2.5.1
     source-map: ^0.5.0
-  checksum: 243c7c8987b9720d7cc8ecec165f69fda4159bb3ab19d3f09a4d5c6d35644d3b62293903aab0ae1f34dda61e39094bfea604d88a035e9f9ec485ffde636a734f
+  checksum: c49e56cad0ae307561ec3989f6dcd183f8b9d6576550eb7f2f7c80f21c779c7f8407d81dca2e7830b84259cf898379ec5fea8183b921e41e369d1a32768a6c80
   languageName: node
   linkType: hard
 
@@ -249,9 +249,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/helper-module-transforms@npm:^7.12.1, @babel/helper-module-transforms@npm:^7.12.13":
-  version: 7.12.13
-  resolution: "@babel/helper-module-transforms@npm:7.12.13"
+"@babel/helper-module-transforms@npm:^7.12.1, @babel/helper-module-transforms@npm:^7.12.17":
+  version: 7.12.17
+  resolution: "@babel/helper-module-transforms@npm:7.12.17"
   dependencies:
     "@babel/helper-module-imports": ^7.12.13
     "@babel/helper-replace-supers": ^7.12.13
@@ -259,10 +259,10 @@ __metadata:
     "@babel/helper-split-export-declaration": ^7.12.13
     "@babel/helper-validator-identifier": ^7.12.11
     "@babel/template": ^7.12.13
-    "@babel/traverse": ^7.12.13
-    "@babel/types": ^7.12.13
+    "@babel/traverse": ^7.12.17
+    "@babel/types": ^7.12.17
     lodash: ^4.17.19
-  checksum: 4cbb439f3488af62f429c69fc6e597d7f5c9d8587847e19c14ce45d976cbbaa684e54e23e91358615256e76bf2f63598265cdc95b3590443a61a16eb0b27c673
+  checksum: 72a31ce7abbbea77af393271aa8b70cba1090d61b9cf7f41cf797553acc35277d46c2ec8170c3df587587cb5ac93d35f4b0cdbc788b5e70f856b8dff87840aab
   languageName: node
   linkType: hard
 
@@ -358,14 +358,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/helpers@npm:^7.12.13":
-  version: 7.12.13
-  resolution: "@babel/helpers@npm:7.12.13"
+"@babel/helpers@npm:^7.12.17":
+  version: 7.12.17
+  resolution: "@babel/helpers@npm:7.12.17"
   dependencies:
     "@babel/template": ^7.12.13
-    "@babel/traverse": ^7.12.13
-    "@babel/types": ^7.12.13
-  checksum: ebfde3ef2a0bfc4df4a16d51af655bedcb4aa1101f2e2c6f3942a072ee5bd2e53abe2193434c8993379ac480cc4fb2af91d42bf2b8bf0fb5c60ffa40d8162999
+    "@babel/traverse": ^7.12.17
+    "@babel/types": ^7.12.17
+  checksum: cce588e89abfbb171909c4359c8cbe06c7a414b4a122ff5c974be62ef5f2ada7ef93b7ea4edb594239ceb161fcfb9070e939142ba8e00026bcaad628693291ea
   languageName: node
   linkType: hard
 
@@ -380,12 +380,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/parser@npm:^7.12.13, @babel/parser@npm:^7.12.16":
-  version: 7.12.16
-  resolution: "@babel/parser@npm:7.12.16"
+"@babel/parser@npm:^7.12.13, @babel/parser@npm:^7.12.17":
+  version: 7.12.17
+  resolution: "@babel/parser@npm:7.12.17"
   bin:
     parser: ./bin/babel-parser.js
-  checksum: 437970f6cfbe5ffbd1bcb316c3550e5ecd0003a525bf16f3c15ceb4105a6a3db22389c84c37a6d2b266e222dc92a05c25cf268bbeb937b496d9a48b8232c273f
+  checksum: 33410998363b408bfe2f620249ff089da7bca3d56aae3a3a638b001ab3a44ffce44075b672f5e01fa4483fe013d6f7e672c77c29febd5f0efe8f6c3f80533ad5
   languageName: node
   linkType: hard
 
@@ -1378,31 +1378,31 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/traverse@npm:^7.10.4, @babel/traverse@npm:^7.12.13":
-  version: 7.12.13
-  resolution: "@babel/traverse@npm:7.12.13"
+"@babel/traverse@npm:^7.10.4, @babel/traverse@npm:^7.12.13, @babel/traverse@npm:^7.12.17":
+  version: 7.12.17
+  resolution: "@babel/traverse@npm:7.12.17"
   dependencies:
     "@babel/code-frame": ^7.12.13
-    "@babel/generator": ^7.12.13
+    "@babel/generator": ^7.12.17
     "@babel/helper-function-name": ^7.12.13
     "@babel/helper-split-export-declaration": ^7.12.13
-    "@babel/parser": ^7.12.13
-    "@babel/types": ^7.12.13
+    "@babel/parser": ^7.12.17
+    "@babel/types": ^7.12.17
     debug: ^4.1.0
     globals: ^11.1.0
     lodash: ^4.17.19
-  checksum: c45a49e64772d1a16a2f71a16f5f3a0fbbb6d573b3528b9ab3e34564f49c4c452ca3606b119c55ef6b828c279fa024f7bf196dd3f8d8d8f5073a92b4c9701dcd
+  checksum: 7527079172e4db7b9c189fc5c69ce9e1b29f0c9d22c5a081452b9920d3b6149c51c072cfb2a80f1774a0b3a003cc442b701569972de8e533d489313164156070
   languageName: node
   linkType: hard
 
-"@babel/types@npm:^7.10.4, @babel/types@npm:^7.10.5, @babel/types@npm:^7.12.1, @babel/types@npm:^7.12.10, @babel/types@npm:^7.12.11, @babel/types@npm:^7.12.13, @babel/types@npm:^7.4.4, @babel/types@npm:^7.8.3":
-  version: 7.12.13
-  resolution: "@babel/types@npm:7.12.13"
+"@babel/types@npm:^7.10.4, @babel/types@npm:^7.10.5, @babel/types@npm:^7.12.1, @babel/types@npm:^7.12.10, @babel/types@npm:^7.12.11, @babel/types@npm:^7.12.13, @babel/types@npm:^7.12.17, @babel/types@npm:^7.4.4, @babel/types@npm:^7.8.3":
+  version: 7.12.17
+  resolution: "@babel/types@npm:7.12.17"
   dependencies:
     "@babel/helper-validator-identifier": ^7.12.11
     lodash: ^4.17.19
     to-fast-properties: ^2.0.0
-  checksum: b6bb1356a7f3737a03c9362df03fd08a2b0599d117169cf7e2e856551fdf01cf4d5188d6370b23315f196058b0239fd609b65ccadcfed3bb3c0b90c27575e805
+  checksum: 31886bfea9c34d2d019722888d944fe5e33495826ae677ea465f0615294925a08eb4059d34b29f2808461cde85841b93ca61cdcd747fa45054a64f6b33fa2862
   languageName: node
   linkType: hard
 
@@ -2669,7 +2669,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/bootstrap@workspace:packages/bootstrap"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     bootstrap-icons: 1.3.0
@@ -2682,7 +2682,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/boxicons-logos@workspace:packages/boxicons-logos"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     boxicons: 2.0.7
@@ -2695,7 +2695,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/boxicons-regular@workspace:packages/boxicons-regular"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     boxicons: 2.0.7
@@ -2708,7 +2708,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/boxicons-solid@workspace:packages/boxicons-solid"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     boxicons: 2.0.7
@@ -2721,7 +2721,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/crypto@workspace:packages/crypto"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2734,7 +2734,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/entypo-social@workspace:packages/entypo-social"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2747,7 +2747,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/entypo@workspace:packages/entypo"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2760,7 +2760,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/evaicons-outline@workspace:packages/evaicons-outline"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2773,7 +2773,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/evaicons-solid@workspace:packages/evaicons-solid"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2786,7 +2786,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/evil@workspace:packages/evil"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2799,7 +2799,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fa-brands@workspace:packages/fa-brands"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@fortawesome/fontawesome-svg-core": 1.2.34
     "@fortawesome/free-brands-svg-icons": 5.15.2
     "@storybook/html": ^6.1.18
@@ -2813,7 +2813,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fa-regular@workspace:packages/fa-regular"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@fortawesome/fontawesome-svg-core": 1.2.34
     "@fortawesome/free-regular-svg-icons": 5.15.2
     "@storybook/html": ^6.1.18
@@ -2827,7 +2827,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fa-solid@workspace:packages/fa-solid"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@fortawesome/fontawesome-svg-core": 1.2.34
     "@fortawesome/free-solid-svg-icons": 5.15.2
     "@storybook/html": ^6.1.18
@@ -2841,7 +2841,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/feather@workspace:packages/feather"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2854,7 +2854,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fluentui-system-filled@workspace:packages/fluentui-system-filled"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@fluentui/svg-icons": "file:../../vendor/fluentui-svg-icons-1.1.94.tgz"
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
@@ -2867,7 +2867,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fluentui-system-regular@workspace:packages/fluentui-system-regular"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@fluentui/svg-icons": "file:../../vendor/fluentui-svg-icons-1.1.94.tgz"
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
@@ -2880,7 +2880,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/foundation@workspace:packages/foundation"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@icon/foundation-icons": ^3.0.0
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
@@ -2893,7 +2893,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/heroicons-outline@workspace:packages/heroicons-outline"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2906,7 +2906,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/heroicons-solid@workspace:packages/heroicons-solid"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2919,7 +2919,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/icomoon@workspace:packages/icomoon"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2932,7 +2932,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/ionicons-outline@workspace:packages/ionicons-outline"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2945,7 +2945,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/ionicons-sharp@workspace:packages/ionicons-sharp"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2958,7 +2958,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/ionicons-solid@workspace:packages/ionicons-solid"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2971,7 +2971,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-filled@workspace:packages/material-filled"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2984,7 +2984,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-outlined@workspace:packages/material-outlined"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -2997,7 +2997,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-rounded@workspace:packages/material-rounded"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -3010,7 +3010,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-sharp@workspace:packages/material-sharp"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -3023,7 +3023,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-twotone@workspace:packages/material-twotone"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -3036,7 +3036,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/octicons@workspace:packages/octicons"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@primer/octicons": 12.0.0
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
@@ -3049,7 +3049,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/open-iconic@workspace:packages/open-iconic"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -3064,7 +3064,7 @@ __metadata:
   dependencies:
     fs-extra: ^9.1.0
     svg-parser: ^2.0.4
-    svgo: ^1.3.2
+    svgo: ^2.0.1
     tiny-glob: ^0.2.8
     typescript: ^4.1.5
   bin:
@@ -3077,7 +3077,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/remix-fill@workspace:packages/remix-fill"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -3090,7 +3090,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/remix-line@workspace:packages/remix-line"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -3103,7 +3103,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/simple-icons@workspace:packages/simple-icons"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -3116,7 +3116,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/typicons@workspace:packages/typicons"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -3129,7 +3129,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/zondicons@workspace:packages/zondicons"
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@storybook/html": ^6.1.18
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.8.3
@@ -3363,13 +3363,6 @@ __metadata:
   version: 15.7.3
   resolution: "@types/prop-types@npm:15.7.3"
   checksum: bd0eab69d5120ad3784d0c9985f902653d5924707a7f2b3702a330e762dfd61b6494954cb54ad0c52b918ffd6f1e7e27c9270e4442bc15250de348596f2f60cb
-  languageName: node
-  linkType: hard
-
-"@types/q@npm:^1.5.1":
-  version: 1.5.4
-  resolution: "@types/q@npm:1.5.4"
-  checksum: 1a19cf2c41648b862bd25a4c26ba33dc7206f14fcf50c5b78031b59090d21176e703cd10aff8af409eafbefcebb288607d30af765ee3859637cf3fae6e875648
   languageName: node
   linkType: hard
 
@@ -5591,9 +5584,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chromatic@npm:^5.6.2":
-  version: 5.6.2
-  resolution: "chromatic@npm:5.6.2"
+"chromatic@npm:^5.6.3":
+  version: 5.6.3
+  resolution: "chromatic@npm:5.6.3"
   dependencies:
     "@actions/core": ^1.2.4
     "@actions/github": ^4.0.0
@@ -5612,7 +5605,7 @@ __metadata:
     jsonfile: ^6.0.1
     junit-report-builder: 2.1.0
     listr: 0.14.3
-    meow: ^9.0.0
+    meow: ^8.0.0
     node-ask: ^1.0.1
     node-fetch: ^2.6.0
     node-loggly-bulk: ^2.2.4
@@ -5634,7 +5627,7 @@ __metadata:
     chroma: bin/register.js
     chromatic: bin/register.js
     chromatic-cli: bin/register.js
-  checksum: 6b5164633b7b4e3631affa5fc75b5ca08818d7b8fe7e6cbaa8c924ce8772752097c84e1861f5067047f43e80b1c4b4e57430181fad6825e53e66098b683b0289
+  checksum: ac2e34ca4da854650c747905c16d1d30ebb995b8447cfedd58ec9e3cd60f37135559abe051f262c145799b9afef17e8e847964bdf902543eeab3d9c47dc1eb57
   languageName: node
   linkType: hard
 
@@ -5825,17 +5818,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"coa@npm:^2.0.2":
-  version: 2.0.2
-  resolution: "coa@npm:2.0.2"
-  dependencies:
-    "@types/q": ^1.5.1
-    chalk: ^2.4.1
-    q: ^1.1.2
-  checksum: 8724977fd035255e648ac9b3de3b476fe73390a8c92ae8b633b80fd4c37d82416a6a5591f2cdf0c8724a19e8d14c6871bc52bb52dac37187034102abb89866ef
-  languageName: node
-  linkType: hard
-
 "code-point-at@npm:^1.0.0":
   version: 1.1.0
   resolution: "code-point-at@npm:1.1.0"
@@ -5933,6 +5915,13 @@ __metadata:
   version: 5.1.0
   resolution: "commander@npm:5.1.0"
   checksum: d16141ea7f580945156fb8a06de2834c4647c7d9d3732ebd4534ab8e0b7c64747db301e18f2b840f28ea8fef51f7a8d6178e674b45a21931f0b65ff1c7f476b3
+  languageName: node
+  linkType: hard
+
+"commander@npm:^7.1.0":
+  version: 7.1.0
+  resolution: "commander@npm:7.1.0"
+  checksum: 2b6dacb11f17cd9b702ae18b586b060327590dd57e2702edefbff701ec7c63b55338e70544210893bad280fc9579ffb839dd8ae0a6bc652fceffe3f9ad1c2c44
   languageName: node
   linkType: hard
 
@@ -6334,25 +6323,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"css-select@npm:^2.0.0":
-  version: 2.1.0
-  resolution: "css-select@npm:2.1.0"
+"css-select@npm:^3.1.2":
+  version: 3.1.2
+  resolution: "css-select@npm:3.1.2"
   dependencies:
     boolbase: ^1.0.0
-    css-what: ^3.2.1
-    domutils: ^1.7.0
-    nth-check: ^1.0.2
-  checksum: b534aad04abbd433849d55b93e234b81c1ade4422c638a916fd7163db5a3b07186e92ce43c292d954417c8ce020eb31b8990ed2fb30c9c145c7f2549621e8095
-  languageName: node
-  linkType: hard
-
-"css-tree@npm:1.0.0-alpha.37":
-  version: 1.0.0-alpha.37
-  resolution: "css-tree@npm:1.0.0-alpha.37"
-  dependencies:
-    mdn-data: 2.0.4
-    source-map: ^0.6.1
-  checksum: 29d85bad8e8039bd77e2d8a754d61e3cbfac3b4e8556ecf2db186212567e310124aa000a46d442fd4fb9b31b32e723453fade25bf052c3cd4995781d1dad1fcf
+    css-what: ^4.0.0
+    domhandler: ^4.0.0
+    domutils: ^2.4.3
+    nth-check: ^2.0.0
+  checksum: c06346140ea596220896980b8ce62e7dbc9fc4c902a0858d97ba933f538aecc96fed57967c15793faf76f2a6bab5385650d0a3637e07f498f75c39ce2c9764ab
   languageName: node
   linkType: hard
 
@@ -6373,10 +6353,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"css-what@npm:^3.2.1":
-  version: 3.4.2
-  resolution: "css-what@npm:3.4.2"
-  checksum: f9f258ad625f54485981aac75bed584984310fee33d3ba9a25fbb9e84d5abbf2a13ff8599fd0c13a76f96accc3dc6e569679bf84047fc6c0148268ca8248e008
+"css-what@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "css-what@npm:4.0.0"
+  checksum: 2116d25ed233597bfe0b2fb50b56076f5dfc1665f602f8a367bbaa8d086ce91c188d92a47118fa0daf35118456b0a0e537241f89b34b4d98161d63da63740471
   languageName: node
   linkType: hard
 
@@ -6389,7 +6369,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"csso@npm:^4.0.2":
+"csso@npm:^4.2.0":
   version: 4.2.0
   resolution: "csso@npm:4.2.0"
   dependencies:
@@ -6918,7 +6898,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"domutils@npm:^1.5.1, domutils@npm:^1.7.0":
+"domutils@npm:^1.5.1":
   version: 1.7.0
   resolution: "domutils@npm:1.7.0"
   dependencies:
@@ -6928,7 +6908,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"domutils@npm:^2.0.0":
+"domutils@npm:^2.0.0, domutils@npm:^2.4.3":
   version: 2.4.4
   resolution: "domutils@npm:2.4.4"
   dependencies:
@@ -7265,7 +7245,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"es-abstract@npm:^1.17.0-next.0, es-abstract@npm:^1.17.0-next.1, es-abstract@npm:^1.17.2":
+"es-abstract@npm:^1.17.0-next.0, es-abstract@npm:^1.17.0-next.1":
   version: 1.17.7
   resolution: "es-abstract@npm:1.17.7"
   dependencies:
@@ -10536,13 +10516,6 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"mdn-data@npm:2.0.4":
-  version: 2.0.4
-  resolution: "mdn-data@npm:2.0.4"
-  checksum: bcecf9ae69505ff20a2913fa29849eec8b17fa7ab8c93e4bbec8020003f7fd9329478fc353e010ff0dbbca12fc296ff8cf40b6a5c93294c92df7dc8343880b99
-  languageName: node
-  linkType: hard
-
 "media-typer@npm:0.3.0":
   version: 0.3.0
   resolution: "media-typer@npm:0.3.0"
@@ -10598,13 +10571,12 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"meow@npm:^9.0.0":
-  version: 9.0.0
-  resolution: "meow@npm:9.0.0"
+"meow@npm:^8.0.0":
+  version: 8.1.2
+  resolution: "meow@npm:8.1.2"
   dependencies:
     "@types/minimist": ^1.2.0
     camelcase-keys: ^6.2.2
-    decamelize: ^1.2.0
     decamelize-keys: ^1.1.0
     hard-rejection: ^2.1.0
     minimist-options: 4.1.0
@@ -10614,7 +10586,7 @@ fsevents@~2.1.2:
     trim-newlines: ^3.0.0
     type-fest: ^0.18.0
     yargs-parser: ^20.2.3
-  checksum: d1573809d6e3df55ab7b8c49f2ecfb8006664856700b556c794013ef887e47991bf1fef8ba9de60bb4afda9b62136823e4008c7f2cc459a7c036b7b649a42c0d
+  checksum: 7246c3e824298dc1ceddc4b9930bf6a04df8f240d09e76ee180c4f9168df3d6a7d27593a5a3ef7005efbc1557780981e169a7acac56120c7bf2f99f5f54563aa
   languageName: node
   linkType: hard
 
@@ -10905,7 +10877,7 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"mkdirp@npm:^0.5.1, mkdirp@npm:^0.5.3, mkdirp@npm:~0.5.1":
+"mkdirp@npm:^0.5.1, mkdirp@npm:^0.5.3":
   version: 0.5.5
   resolution: "mkdirp@npm:0.5.5"
   dependencies:
@@ -11279,7 +11251,16 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"nth-check@npm:^1.0.2, nth-check@npm:~1.0.1":
+"nth-check@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "nth-check@npm:2.0.0"
+  dependencies:
+    boolbase: ^1.0.0
+  checksum: 380a6dcf32910c783f30c62d6ae02194e8ac860faf99ff46b2248942477304351755a7ee2fa26ce289b6d078350fa14703da5cf4b3c65275032b43008a275064
+  languageName: node
+  linkType: hard
+
+"nth-check@npm:~1.0.1":
   version: 1.0.2
   resolution: "nth-check@npm:1.0.2"
   dependencies:
@@ -12364,13 +12345,6 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"q@npm:^1.1.2":
-  version: 1.5.1
-  resolution: "q@npm:1.5.1"
-  checksum: f610c1295a4f1b334affbe5333bc8c6160b907d011a62f1c6d05d4ca985535ea271fd8684e1e655b4659cc5b71f5be9ac4ccc84482d869b5a0576955598a7dca
-  languageName: node
-  linkType: hard
-
 "qs@npm:6.7.0":
   version: 6.7.0
   resolution: "qs@npm:6.7.0"
@@ -13300,7 +13274,7 @@ fsevents@~2.1.2:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@babel/core": ^7.12.16
+    "@babel/core": ^7.12.17
     "@changesets/changelog-github": ^0.2.8
     "@changesets/cli": ^2.14.1
     "@changesets/get-github-info": ^0.4.5
@@ -13311,7 +13285,7 @@ fsevents@~2.1.2:
     "@types/node": ^14.14.28
     "@yarnpkg/pnpify": ^2.4.0
     babel-loader: ^8.2.2
-    chromatic: ^5.6.2
+    chromatic: ^5.6.3
     core-js: ^3.8.3
     dotenv: ^8.2.0
     monorepolint: 0.5.0-alpha.51
@@ -14349,26 +14323,21 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"svgo@npm:^1.3.2":
-  version: 1.3.2
-  resolution: "svgo@npm:1.3.2"
+"svgo@npm:^2.0.1":
+  version: 2.0.1
+  resolution: "svgo@npm:2.0.1"
   dependencies:
-    chalk: ^2.4.1
-    coa: ^2.0.2
-    css-select: ^2.0.0
+    chalk: ^4.1.0
+    commander: ^7.1.0
+    css-select: ^3.1.2
     css-select-base-adapter: ^0.1.1
-    css-tree: 1.0.0-alpha.37
-    csso: ^4.0.2
-    js-yaml: ^3.13.1
-    mkdirp: ~0.5.1
-    object.values: ^1.1.0
+    css-tree: ^1.1.2
+    csso: ^4.2.0
     sax: ~1.2.4
     stable: ^0.1.8
-    unquote: ~1.1.1
-    util.promisify: ~1.0.0
   bin:
-    svgo: ./bin/svgo
-  checksum: e1659738423f625561fa23769d0a010f5ba08e83926ce697491153fa29a8cb2452fa5abb14c1bb489aa186718856f8768d4da870210a79302d47535c57c30d30
+    svgo: bin/svgo
+  checksum: 6d5ec099a4ca5f0176e5737e550926644a2a7250aa1a69cfd77ffa1fc056cfcc3aa6b4960adf480fdc3a2df572e65e42903492b9d7c960eea3e8f296726d8b8c
   languageName: node
   linkType: hard
 
@@ -15031,7 +15000,7 @@ typescript@^4.1.5:
   languageName: node
   linkType: hard
 
-"unquote@npm:^1.1.0, unquote@npm:~1.1.1":
+"unquote@npm:^1.1.0":
   version: 1.1.1
   resolution: "unquote@npm:1.1.1"
   checksum: 468981e4547c46bd4ebafd5555b6b1e6bd5433f52fcbc99f6868f29ecb1581dde472ee02a0e42ecbadd52012d03b0ad90ee94edf660a921f6a6608b8884e290a
@@ -15156,18 +15125,6 @@ typescript@^4.1.5:
     define-properties: ^1.1.2
     object.getownpropertydescriptors: ^2.0.3
   checksum: 0dffbe1af61c9c034b5e7b411461e46c17c788d855fb02bcbf96cd0f603c086eb83160a3c878c4d69bede9a42118a7ce2b3cc05ed5a235e1c1c04c93bd5608e7
-  languageName: node
-  linkType: hard
-
-"util.promisify@npm:~1.0.0":
-  version: 1.0.1
-  resolution: "util.promisify@npm:1.0.1"
-  dependencies:
-    define-properties: ^1.1.3
-    es-abstract: ^1.17.2
-    has-symbols: ^1.0.1
-    object.getownpropertydescriptors: ^2.1.0
-  checksum: 99e5b0a7a4c72d8d4db3cbc911a1d8770e7ab233b5841e1b29e56ffc6ac21142acebf5ca7d5e7afd921662a83639094b4f1197d0f4af3cb058ba28ba1a7f4b8f
   languageName: node
   linkType: hard
 
