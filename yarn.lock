@@ -3064,7 +3064,7 @@ __metadata:
   dependencies:
     fs-extra: ^9.1.0
     svg-parser: ^2.0.4
-    svgo: ^2.0.1
+    svgo: ^2.0.3
     tiny-glob: ^0.2.8
     typescript: ^4.1.5
   bin:
@@ -14323,9 +14323,9 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"svgo@npm:^2.0.1":
-  version: 2.0.1
-  resolution: "svgo@npm:2.0.1"
+"svgo@npm:^2.0.3":
+  version: 2.0.3
+  resolution: "svgo@npm:2.0.3"
   dependencies:
     chalk: ^4.1.0
     commander: ^7.1.0
@@ -14337,7 +14337,7 @@ fsevents@~2.1.2:
     stable: ^0.1.8
   bin:
     svgo: bin/svgo
-  checksum: 6d5ec099a4ca5f0176e5737e550926644a2a7250aa1a69cfd77ffa1fc056cfcc3aa6b4960adf480fdc3a2df572e65e42903492b9d7c960eea3e8f296726d8b8c
+  checksum: 65991f5ebd9b3827c37fc413b2feeb33a6f5c10ed3f37983a3a9143ce27f2e774591b8d79a614b417fd0ac5d50fa5a652005d5316b9c7c03c4db38cff80abb1a
   languageName: node
   linkType: hard
 
