@@ -3174,7 +3174,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/fontawesome-common-types", [
         ["npm:0.2.34", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-fontawesome-common-types-npm-0.2.34-43235071e1/node_modules/@fortawesome/fontawesome-common-types/",
+          "packageLocation": "./.yarn/cache/@fortawesome-fontawesome-common-types-npm-0.2.34-43235071e1-cbfa1ad00f.zip/node_modules/@fortawesome/fontawesome-common-types/",
           "packageDependencies": [
             ["@fortawesome/fontawesome-common-types", "npm:0.2.34"]
           ],
@@ -3183,7 +3183,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/fontawesome-svg-core", [
         ["npm:1.2.34", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-fontawesome-svg-core-npm-1.2.34-3078bdc3cc/node_modules/@fortawesome/fontawesome-svg-core/",
+          "packageLocation": "./.yarn/cache/@fortawesome-fontawesome-svg-core-npm-1.2.34-3078bdc3cc-56d5608cfa.zip/node_modules/@fortawesome/fontawesome-svg-core/",
           "packageDependencies": [
             ["@fortawesome/fontawesome-svg-core", "npm:1.2.34"],
             ["@fortawesome/fontawesome-common-types", "npm:0.2.34"]
@@ -3193,7 +3193,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/free-brands-svg-icons", [
         ["npm:5.15.2", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-free-brands-svg-icons-npm-5.15.2-7212e01f27/node_modules/@fortawesome/free-brands-svg-icons/",
+          "packageLocation": "./.yarn/cache/@fortawesome-free-brands-svg-icons-npm-5.15.2-7212e01f27-ccc4b05113.zip/node_modules/@fortawesome/free-brands-svg-icons/",
           "packageDependencies": [
             ["@fortawesome/free-brands-svg-icons", "npm:5.15.2"],
             ["@fortawesome/fontawesome-common-types", "npm:0.2.34"]
@@ -3203,7 +3203,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/free-regular-svg-icons", [
         ["npm:5.15.2", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-free-regular-svg-icons-npm-5.15.2-b0aa3b18e0/node_modules/@fortawesome/free-regular-svg-icons/",
+          "packageLocation": "./.yarn/cache/@fortawesome-free-regular-svg-icons-npm-5.15.2-b0aa3b18e0-a24ae419a3.zip/node_modules/@fortawesome/free-regular-svg-icons/",
           "packageDependencies": [
             ["@fortawesome/free-regular-svg-icons", "npm:5.15.2"],
             ["@fortawesome/fontawesome-common-types", "npm:0.2.34"]
@@ -3213,7 +3213,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/free-solid-svg-icons", [
         ["npm:5.15.2", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-free-solid-svg-icons-npm-5.15.2-16d0fee02c/node_modules/@fortawesome/free-solid-svg-icons/",
+          "packageLocation": "./.yarn/cache/@fortawesome-free-solid-svg-icons-npm-5.15.2-16d0fee02c-7fe1cc0287.zip/node_modules/@fortawesome/free-solid-svg-icons/",
           "packageDependencies": [
             ["@fortawesome/free-solid-svg-icons", "npm:5.15.2"],
             ["@fortawesome/fontawesome-common-types", "npm:0.2.34"]
@@ -5143,7 +5143,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["fs-extra", "npm:9.1.0"],
             ["svg-parser", "npm:2.0.4"],
-            ["svgo", "npm:2.0.1"],
+            ["svgo", "npm:2.0.3"],
             ["tiny-glob", "npm:0.2.8"],
             ["typescript", "patch:typescript@npm%3A4.1.5#builtin<compat/typescript>::version=4.1.5&hash=cc6730"]
           ],
@@ -8611,7 +8611,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["core-js", [
         ["npm:3.8.3", {
-          "packageLocation": "./.yarn/unplugged/core-js-npm-3.8.3-f6bf459c9f/node_modules/core-js/",
+          "packageLocation": "./.yarn/cache/core-js-npm-3.8.3-f6bf459c9f-3c67d1732d.zip/node_modules/core-js/",
           "packageDependencies": [
             ["core-js", "npm:3.8.3"]
           ],
@@ -8631,7 +8631,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["core-js-pure", [
         ["npm:3.8.1", {
-          "packageLocation": "./.yarn/unplugged/core-js-pure-npm-3.8.1-fecb15ba49/node_modules/core-js-pure/",
+          "packageLocation": "./.yarn/cache/core-js-pure-npm-3.8.1-fecb15ba49-27dc872375.zip/node_modules/core-js-pure/",
           "packageDependencies": [
             ["core-js-pure", "npm:3.8.1"]
           ],
@@ -18371,10 +18371,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["svgo", [
-        ["npm:2.0.1", {
-          "packageLocation": "./.yarn/cache/svgo-npm-2.0.1-affde9d941-6d5ec099a4.zip/node_modules/svgo/",
+        ["npm:2.0.3", {
+          "packageLocation": "./.yarn/cache/svgo-npm-2.0.3-5f42a3d19b-65991f5ebd.zip/node_modules/svgo/",
           "packageDependencies": [
-            ["svgo", "npm:2.0.1"],
+            ["svgo", "npm:2.0.3"],
             ["chalk", "npm:4.1.0"],
             ["commander", "npm:7.1.0"],
             ["css-select", "npm:3.1.2"],
