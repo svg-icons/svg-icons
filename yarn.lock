@@ -3064,7 +3064,7 @@ __metadata:
   dependencies:
     fs-extra: ^9.1.0
     svg-parser: ^2.0.4
-    svgo: ^2.0.3
+    svgo: ^2.1.0
     tiny-glob: ^0.2.8
     typescript: ^4.1.5
   bin:
@@ -3144,6 +3144,13 @@ __metadata:
   dependencies:
     defer-to-connect: ^2.0.0
   checksum: 13d8f71dbd792b620b2cd13d72d086ef031ebefd5263a9db2f34693a32e4d90920fa1d7075cd59bf0c9810b2b1b93ad36d89fc88aba4cd3b8022df7ecc5ffdec
+  languageName: node
+  linkType: hard
+
+"@trysound/sax@npm:0.1.1":
+  version: 0.1.1
+  resolution: "@trysound/sax@npm:0.1.1"
+  checksum: 0ffcea622248d234faad26761c6a152856acbf0153bd54178adc0c84607355b769ea7eda096f51590b1897bed7d51e01dc7582dc97ff94a8c0f97ee03d707cd5
   languageName: node
   linkType: hard
 
@@ -13374,13 +13381,6 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"sax@npm:~1.2.4":
-  version: 1.2.4
-  resolution: "sax@npm:1.2.4"
-  checksum: 9d7668d69105e89e2c1a4b2fdc12c72e1a2f78b825f7b4a8a2ea5cdfebf70920bd17715bed55264c3b3959616a0695f8ad2d098bf6944fbd0953ee9c695dceef
-  languageName: node
-  linkType: hard
-
 "scheduler@npm:^0.19.1":
   version: 0.19.1
   resolution: "scheduler@npm:0.19.1"
@@ -14323,21 +14323,21 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"svgo@npm:^2.0.3":
-  version: 2.0.3
-  resolution: "svgo@npm:2.0.3"
+"svgo@npm:^2.1.0":
+  version: 2.1.0
+  resolution: "svgo@npm:2.1.0"
   dependencies:
+    "@trysound/sax": 0.1.1
     chalk: ^4.1.0
     commander: ^7.1.0
     css-select: ^3.1.2
     css-select-base-adapter: ^0.1.1
     css-tree: ^1.1.2
     csso: ^4.2.0
-    sax: ~1.2.4
     stable: ^0.1.8
   bin:
     svgo: bin/svgo
-  checksum: 65991f5ebd9b3827c37fc413b2feeb33a6f5c10ed3f37983a3a9143ce27f2e774591b8d79a614b417fd0ac5d50fa5a652005d5316b9c7c03c4db38cff80abb1a
+  checksum: e9d04f902c63a73e62a479e6c1ae5a9e1bad136b9509218a0ce962e10bd661591871d89b53010bb322b6ac7fcc851dbe91906ee3ecf109a0d3ac1e352e2e8593
   languageName: node
   linkType: hard
 
