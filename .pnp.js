@@ -5143,7 +5143,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["fs-extra", "npm:9.1.0"],
             ["svg-parser", "npm:2.0.4"],
-            ["svgo", "npm:2.0.3"],
+            ["svgo", "npm:2.1.0"],
             ["tiny-glob", "npm:0.2.8"],
             ["typescript", "patch:typescript@npm%3A4.1.5#builtin<compat/typescript>::version=4.1.5&hash=cc6730"]
           ],
@@ -5231,6 +5231,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@szmarczak/http-timer", "npm:4.0.5"],
             ["defer-to-connect", "npm:2.0.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["@trysound/sax", [
+        ["npm:0.1.1", {
+          "packageLocation": "./.yarn/cache/@trysound-sax-npm-0.1.1-c8c071497a-0ffcea6222.zip/node_modules/@trysound/sax/",
+          "packageDependencies": [
+            ["@trysound/sax", "npm:0.1.1"]
           ],
           "linkType": "HARD",
         }]
@@ -17333,15 +17342,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
-      ["sax", [
-        ["npm:1.2.4", {
-          "packageLocation": "./.yarn/cache/sax-npm-1.2.4-178f05f12f-9d7668d691.zip/node_modules/sax/",
-          "packageDependencies": [
-            ["sax", "npm:1.2.4"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
       ["scheduler", [
         ["npm:0.19.1", {
           "packageLocation": "./.yarn/cache/scheduler-npm-0.19.1-a4dd0ffd3a-804f990b9f.zip/node_modules/scheduler/",
@@ -18371,17 +18371,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["svgo", [
-        ["npm:2.0.3", {
-          "packageLocation": "./.yarn/cache/svgo-npm-2.0.3-5f42a3d19b-65991f5ebd.zip/node_modules/svgo/",
+        ["npm:2.1.0", {
+          "packageLocation": "./.yarn/cache/svgo-npm-2.1.0-63c1d91ef7-e9d04f902c.zip/node_modules/svgo/",
           "packageDependencies": [
-            ["svgo", "npm:2.0.3"],
+            ["svgo", "npm:2.1.0"],
+            ["@trysound/sax", "npm:0.1.1"],
             ["chalk", "npm:4.1.0"],
             ["commander", "npm:7.1.0"],
             ["css-select", "npm:3.1.2"],
             ["css-select-base-adapter", "npm:0.1.1"],
             ["css-tree", "npm:1.1.2"],
             ["csso", "npm:4.2.0"],
-            ["sax", "npm:1.2.4"],
             ["stable", "npm:0.1.8"]
           ],
           "linkType": "HARD",
