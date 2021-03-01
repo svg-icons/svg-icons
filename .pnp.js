@@ -3632,10 +3632,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@primer/octicons", [
-        ["npm:12.0.0", {
-          "packageLocation": "./.yarn/cache/@primer-octicons-npm-12.0.0-6ef7b02f0e-7aee439465.zip/node_modules/@primer/octicons/",
+        ["npm:12.1.0", {
+          "packageLocation": "./.yarn/cache/@primer-octicons-npm-12.1.0-e8b1d2222a-0dc9d5c262.zip/node_modules/@primer/octicons/",
           "packageDependencies": [
-            ["@primer/octicons", "npm:12.0.0"],
+            ["@primer/octicons", "npm:12.1.0"],
             ["object-assign", "npm:4.1.1"]
           ],
           "linkType": "HARD",
@@ -5112,7 +5112,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@svg-icons/octicons", "workspace:packages/octicons"],
             ["@babel/core", "npm:7.12.17"],
-            ["@primer/octicons", "npm:12.0.0"],
+            ["@primer/octicons", "npm:12.1.0"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.18"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["core-js", "npm:3.8.3"],
