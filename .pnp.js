@@ -221,8 +221,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@changesets/changelog-github", "npm:0.2.8"],
             ["@changesets/cli", "npm:2.14.1"],
             ["@changesets/get-github-info", "npm:0.4.5"],
-            ["@monorepolint/cli", "npm:0.5.0-alpha.51"],
-            ["@monorepolint/core", "npm:0.5.0-alpha.51"],
+            ["@monorepolint/cli", "npm:0.5.0-alpha.52"],
+            ["@monorepolint/core", "npm:0.5.0-alpha.52"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.20"],
             ["@storybook/react", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.20"],
             ["@types/node", "npm:14.14.31"],
@@ -231,7 +231,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["chromatic", "npm:5.6.3"],
             ["core-js", "npm:3.9.1"],
             ["dotenv", "npm:8.2.0"],
-            ["monorepolint", "npm:0.5.0-alpha.51"],
             ["prettier", "npm:2.2.1"],
             ["react", "npm:17.0.1"],
             ["react-dom", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:17.0.1"],
@@ -3267,7 +3266,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/istanbul-lib-coverage", "npm:2.0.3"],
             ["@types/istanbul-reports", "npm:3.0.0"],
             ["@types/node", "npm:14.14.31"],
-            ["@types/yargs", "npm:15.0.12"],
+            ["@types/yargs", "npm:15.0.13"],
             ["chalk", "npm:4.1.0"]
           ],
           "linkType": "HARD",
@@ -3301,12 +3300,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@monorepolint/cli", [
-        ["npm:0.5.0-alpha.51", {
-          "packageLocation": "./.yarn/cache/@monorepolint-cli-npm-0.5.0-alpha.51-7fab170487-3c23bd04b8.zip/node_modules/@monorepolint/cli/",
+        ["npm:0.5.0-alpha.52", {
+          "packageLocation": "./.yarn/cache/@monorepolint-cli-npm-0.5.0-alpha.52-4b267acc64-87b82e3ae0.zip/node_modules/@monorepolint/cli/",
           "packageDependencies": [
-            ["@monorepolint/cli", "npm:0.5.0-alpha.51"],
-            ["@monorepolint/core", "npm:0.5.0-alpha.51"],
-            ["@monorepolint/utils", "npm:0.5.0-alpha.51"],
+            ["@monorepolint/cli", "npm:0.5.0-alpha.52"],
+            ["@monorepolint/core", "npm:0.5.0-alpha.52"],
+            ["@monorepolint/utils", "npm:0.5.0-alpha.52"],
             ["chalk", "npm:4.1.0"],
             ["tslib", "npm:2.1.0"],
             ["yargs", "npm:15.4.1"]
@@ -3315,12 +3314,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@monorepolint/core", [
-        ["npm:0.5.0-alpha.51", {
-          "packageLocation": "./.yarn/cache/@monorepolint-core-npm-0.5.0-alpha.51-c22de8e500-1e396394d7.zip/node_modules/@monorepolint/core/",
+        ["npm:0.5.0-alpha.52", {
+          "packageLocation": "./.yarn/cache/@monorepolint-core-npm-0.5.0-alpha.52-870f05fe98-f86a4e01ff.zip/node_modules/@monorepolint/core/",
           "packageDependencies": [
-            ["@monorepolint/core", "npm:0.5.0-alpha.51"],
-            ["@monorepolint/rules", "npm:0.5.0-alpha.51"],
-            ["@monorepolint/utils", "npm:0.5.0-alpha.51"],
+            ["@monorepolint/core", "npm:0.5.0-alpha.52"],
+            ["@monorepolint/rules", "npm:0.5.0-alpha.52"],
+            ["@monorepolint/utils", "npm:0.5.0-alpha.52"],
             ["camelcase", "npm:6.2.0"],
             ["chalk", "npm:4.1.0"],
             ["minimatch", "npm:3.0.4"],
@@ -3331,15 +3330,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@monorepolint/rules", [
-        ["npm:0.5.0-alpha.51", {
-          "packageLocation": "./.yarn/cache/@monorepolint-rules-npm-0.5.0-alpha.51-9204e77182-77d4dd10f4.zip/node_modules/@monorepolint/rules/",
+        ["npm:0.5.0-alpha.52", {
+          "packageLocation": "./.yarn/cache/@monorepolint-rules-npm-0.5.0-alpha.52-7727bba535-6dc01bd591.zip/node_modules/@monorepolint/rules/",
           "packageDependencies": [
-            ["@monorepolint/rules", "npm:0.5.0-alpha.51"],
-            ["@monorepolint/core", "npm:0.5.0-alpha.51"],
-            ["@monorepolint/utils", "npm:0.5.0-alpha.51"],
+            ["@monorepolint/rules", "npm:0.5.0-alpha.52"],
+            ["@monorepolint/core", "npm:0.5.0-alpha.52"],
+            ["@monorepolint/utils", "npm:0.5.0-alpha.52"],
             ["globby", "npm:11.0.1"],
             ["jest-diff", "npm:26.6.2"],
             ["minimatch", "npm:3.0.4"],
+            ["resolve-package-path", "npm:3.1.0"],
             ["runtypes", "npm:4.3.0"],
             ["semver", "npm:7.3.4"],
             ["tslib", "npm:2.1.0"]
@@ -3348,10 +3348,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@monorepolint/utils", [
-        ["npm:0.5.0-alpha.51", {
-          "packageLocation": "./.yarn/cache/@monorepolint-utils-npm-0.5.0-alpha.51-8e2620435f-2ddbd0fb57.zip/node_modules/@monorepolint/utils/",
+        ["npm:0.5.0-alpha.52", {
+          "packageLocation": "./.yarn/cache/@monorepolint-utils-npm-0.5.0-alpha.52-3280e954d7-7f01e3304a.zip/node_modules/@monorepolint/utils/",
           "packageDependencies": [
-            ["@monorepolint/utils", "npm:0.5.0-alpha.51"],
+            ["@monorepolint/utils", "npm:0.5.0-alpha.52"],
             ["glob", "npm:7.1.6"],
             ["tslib", "npm:2.1.0"]
           ],
@@ -5670,20 +5670,20 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/yargs", [
-        ["npm:15.0.12", {
-          "packageLocation": "./.yarn/cache/@types-yargs-npm-15.0.12-b19e98d69d-b67cf9e8f2.zip/node_modules/@types/yargs/",
+        ["npm:15.0.13", {
+          "packageLocation": "./.yarn/cache/@types-yargs-npm-15.0.13-d1172b1fcd-fa1a5b0a07.zip/node_modules/@types/yargs/",
           "packageDependencies": [
-            ["@types/yargs", "npm:15.0.12"],
-            ["@types/yargs-parser", "npm:15.0.0"]
+            ["@types/yargs", "npm:15.0.13"],
+            ["@types/yargs-parser", "npm:20.2.0"]
           ],
           "linkType": "HARD",
         }]
       ]],
       ["@types/yargs-parser", [
-        ["npm:15.0.0", {
-          "packageLocation": "./.yarn/cache/@types-yargs-parser-npm-15.0.0-db1d59832c-74bfaefde9.zip/node_modules/@types/yargs-parser/",
+        ["npm:20.2.0", {
+          "packageLocation": "./.yarn/cache/@types-yargs-parser-npm-20.2.0-4ca5b35c4e-202b8ca16a.zip/node_modules/@types/yargs-parser/",
           "packageDependencies": [
-            ["@types/yargs-parser", "npm:15.0.0"]
+            ["@types/yargs-parser", "npm:20.2.0"]
           ],
           "linkType": "HARD",
         }]
@@ -14076,19 +14076,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
-      ["monorepolint", [
-        ["npm:0.5.0-alpha.51", {
-          "packageLocation": "./.yarn/cache/monorepolint-npm-0.5.0-alpha.51-974f6af298-dbafac26aa.zip/node_modules/monorepolint/",
-          "packageDependencies": [
-            ["monorepolint", "npm:0.5.0-alpha.51"],
-            ["@monorepolint/cli", "npm:0.5.0-alpha.51"],
-            ["@monorepolint/core", "npm:0.5.0-alpha.51"],
-            ["@monorepolint/rules", "npm:0.5.0-alpha.51"],
-            ["@monorepolint/utils", "npm:0.5.0-alpha.51"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
       ["move-concurrently", [
         ["npm:1.0.1", {
           "packageLocation": "./.yarn/cache/move-concurrently-npm-1.0.1-e1e3c7e2cf-0761308ddb.zip/node_modules/move-concurrently/",
@@ -15084,6 +15071,25 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/path-parse-npm-1.0.6-4a4c90546c-2eee4b93fb.zip/node_modules/path-parse/",
           "packageDependencies": [
             ["path-parse", "npm:1.0.6"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["path-root", [
+        ["npm:0.1.1", {
+          "packageLocation": "./.yarn/cache/path-root-npm-0.1.1-624088cb93-ccf11d9c9b.zip/node_modules/path-root/",
+          "packageDependencies": [
+            ["path-root", "npm:0.1.1"],
+            ["path-root-regex", "npm:0.1.2"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["path-root-regex", [
+        ["npm:0.1.2", {
+          "packageLocation": "./.yarn/cache/path-root-regex-npm-0.1.2-14181162e0-f301f42475.zip/node_modules/path-root-regex/",
+          "packageDependencies": [
+            ["path-root-regex", "npm:0.1.2"]
           ],
           "linkType": "HARD",
         }]
@@ -17022,6 +17028,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
+      ["resolve-package-path", [
+        ["npm:3.1.0", {
+          "packageLocation": "./.yarn/cache/resolve-package-path-npm-3.1.0-a2f260d940-82c5134b32.zip/node_modules/resolve-package-path/",
+          "packageDependencies": [
+            ["resolve-package-path", "npm:3.1.0"],
+            ["path-root", "npm:0.1.1"],
+            ["resolve", "patch:resolve@npm%3A1.19.0#builtin<compat/resolve>::version=1.19.0&hash=3388aa"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
       ["resolve-pathname", [
         ["npm:3.0.0", {
           "packageLocation": "./.yarn/cache/resolve-pathname-npm-3.0.0-bab4d7e47c-88ed8b3dd2.zip/node_modules/resolve-pathname/",
@@ -17135,8 +17152,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@changesets/changelog-github", "npm:0.2.8"],
             ["@changesets/cli", "npm:2.14.1"],
             ["@changesets/get-github-info", "npm:0.4.5"],
-            ["@monorepolint/cli", "npm:0.5.0-alpha.51"],
-            ["@monorepolint/core", "npm:0.5.0-alpha.51"],
+            ["@monorepolint/cli", "npm:0.5.0-alpha.52"],
+            ["@monorepolint/core", "npm:0.5.0-alpha.52"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.20"],
             ["@storybook/react", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.20"],
             ["@types/node", "npm:14.14.31"],
@@ -17145,7 +17162,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["chromatic", "npm:5.6.3"],
             ["core-js", "npm:3.9.1"],
             ["dotenv", "npm:8.2.0"],
-            ["monorepolint", "npm:0.5.0-alpha.51"],
             ["prettier", "npm:2.2.1"],
             ["react", "npm:17.0.1"],
             ["react-dom", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:17.0.1"],
