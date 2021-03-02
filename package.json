@@ -15,19 +15,19 @@
     "storybook": "start-storybook -p 5000"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.17",
+    "@babel/core": "^7.13.8",
     "@changesets/changelog-github": "^0.2.8",
     "@changesets/cli": "^2.14.1",
     "@changesets/get-github-info": "^0.4.5",
     "@monorepolint/cli": "0.5.0-alpha.51",
     "@monorepolint/core": "0.5.0-alpha.51",
-    "@storybook/html": "^6.1.18",
-    "@storybook/react": "^6.1.18",
-    "@types/node": "^14.14.28",
+    "@storybook/html": "^6.1.20",
+    "@storybook/react": "^6.1.20",
+    "@types/node": "^14.14.31",
     "@yarnpkg/pnpify": "^2.4.0",
     "babel-loader": "^8.2.2",
     "chromatic": "^5.6.3",
-    "core-js": "^3.8.3",
+    "core-js": "^3.9.1",
     "dotenv": "^8.2.0",
     "monorepolint": "0.5.0-alpha.51",
     "prettier": "^2.2.1",
@@ -35,6 +35,6 @@
     "react-dom": "^17.0.1",
     "tiny-glob": "^0.2.8",
     "ts-node": "^9.1.1",
-    "typescript": "^4.1.5"
+    "typescript": "^4.2.2"
   }
 }
