@@ -1,5 +1,11 @@
 # @svg-icons/fluentui-system-regular
 
+## 1.41.0
+
+### Minor Changes
+
+- [#331](https://github.com/svg-icons/svg-icons/pull/331): Upgrade FluentUI System icons to 1.1.102 ([`ce45279`](https://github.com/svg-icons/svg-icons/commit/ce45279d067837030b58f0179157bb504639942f), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
 ## 1.39.1
 
 ### Patch Changes
