@@ -19,6 +19,6 @@
     "svg-parser": "^2.0.4",
     "svgo": "^2.2.1",
     "tiny-glob": "^0.2.8",
-    "typescript": "^4.2.2"
+    "typescript": "^4.2.3"
   }
 }
