@@ -3422,7 +3422,7 @@ __metadata:
   dependencies:
     fs-extra: ^9.1.0
     svg-parser: ^2.0.4
-    svgo: ^2.2.0
+    svgo: ^2.2.1
     tiny-glob: ^0.2.8
     typescript: ^4.2.2
   bin:
@@ -6637,13 +6637,6 @@ __metadata:
   peerDependencies:
     webpack: ^4.0.0 || ^5.0.0
   checksum: f916e1dc6914e9fda52e81e603e5afd8cf68c866d9d1cb84edf245fa3ce6bec4252be841edc694c8f6aeb855c94dbde1baccb44678f0b652bbb8fb7ca68a1a0a
-  languageName: node
-  linkType: hard
-
-"css-select-base-adapter@npm:^0.1.1":
-  version: 0.1.1
-  resolution: "css-select-base-adapter@npm:0.1.1"
-  checksum: 98cea0d8dc35e5660a80713b09c7be01a09405ca3d396122d02f65e76b8acab612b7ddd32b29bdd49f32b1e128239ca67c4b6d820912f283197306e58285d85c
   languageName: node
   linkType: hard
 
@@ -14588,21 +14581,20 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"svgo@npm:^2.2.0":
-  version: 2.2.0
-  resolution: "svgo@npm:2.2.0"
+"svgo@npm:^2.2.1":
+  version: 2.2.1
+  resolution: "svgo@npm:2.2.1"
   dependencies:
     "@trysound/sax": 0.1.1
     chalk: ^4.1.0
     commander: ^7.1.0
     css-select: ^3.1.2
-    css-select-base-adapter: ^0.1.1
     css-tree: ^1.1.2
     csso: ^4.2.0
     stable: ^0.1.8
   bin:
     svgo: bin/svgo
-  checksum: 4d6ad1f89697233362dc23a600bfd8bca7f679db61bfe4c4ae3d1f207b191f703396094eab9c6e069e6833e251c8871d81f09e78387a204ca1add3f5eab9947c
+  checksum: ac57908a0b99a0ea40d6423de658bdd18fb0e8c31765a04a29d82130ae721bf2a44395121015ca5a1bc2d48c114dcee56035e46c3d221fcb69ccd30119e238d8
   languageName: node
   linkType: hard
 

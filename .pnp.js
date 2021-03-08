@@ -5246,7 +5246,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["fs-extra", "npm:9.1.0"],
             ["svg-parser", "npm:2.0.4"],
-            ["svgo", "npm:2.2.0"],
+            ["svgo", "npm:2.2.1"],
             ["tiny-glob", "npm:0.2.8"],
             ["typescript", "patch:typescript@npm%3A4.2.2#builtin<compat/typescript>::version=4.2.2&hash=a45b0e"]
           ],
@@ -9011,15 +9011,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["domhandler", "npm:4.0.0"],
             ["domutils", "npm:2.4.4"],
             ["nth-check", "npm:2.0.0"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
-      ["css-select-base-adapter", [
-        ["npm:0.1.1", {
-          "packageLocation": "./.yarn/cache/css-select-base-adapter-npm-0.1.1-5a43b37539-98cea0d8dc.zip/node_modules/css-select-base-adapter/",
-          "packageDependencies": [
-            ["css-select-base-adapter", "npm:0.1.1"]
           ],
           "linkType": "HARD",
         }]
@@ -18401,15 +18392,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["svgo", [
-        ["npm:2.2.0", {
-          "packageLocation": "./.yarn/cache/svgo-npm-2.2.0-1b08170d78-4d6ad1f896.zip/node_modules/svgo/",
+        ["npm:2.2.1", {
+          "packageLocation": "./.yarn/cache/svgo-npm-2.2.1-305d66d9be-ac57908a0b.zip/node_modules/svgo/",
           "packageDependencies": [
-            ["svgo", "npm:2.2.0"],
+            ["svgo", "npm:2.2.1"],
             ["@trysound/sax", "npm:0.1.1"],
             ["chalk", "npm:4.1.0"],
             ["commander", "npm:7.1.0"],
             ["css-select", "npm:3.1.2"],
-            ["css-select-base-adapter", "npm:0.1.1"],
             ["css-tree", "npm:1.1.2"],
             ["csso", "npm:4.2.0"],
             ["stable", "npm:0.1.8"]
