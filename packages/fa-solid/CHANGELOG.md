@@ -1,5 +1,11 @@
 # @svg-icons/fa-solid
 
+## 1.42.0
+
+### Minor Changes
+
+- [#341](https://github.com/svg-icons/svg-icons/pull/341): Bump @fortawesome/free-solid-svg-icons from 5.15.2 to 5.15.3 ([`8013f8f`](https://github.com/svg-icons/svg-icons/commit/8013f8f81025697443f0e3ff419104761817e559), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.39.1
 
 ### Patch Changes

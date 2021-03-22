@@ -1,5 +1,11 @@
 # @svg-icons/fluentui-system-filled
 
+## 1.42.0
+
+### Minor Changes
+
+- [#346](https://github.com/svg-icons/svg-icons/pull/346): Bump @fluentui/svg-icons from 1.1.102 to 1.1.111 ([`44ef241`](https://github.com/svg-icons/svg-icons/commit/44ef241bf93a0252de40b4b0d9f098be06a1f2ac), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.41.0
 
 ### Minor Changes
