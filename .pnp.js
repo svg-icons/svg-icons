@@ -228,7 +228,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:14.14.33"],
             ["@yarnpkg/pnpify", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.4.0"],
             ["babel-loader", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:8.2.2"],
-            ["chromatic", "npm:5.6.3"],
+            ["chromatic", "npm:5.7.0"],
             ["core-js", "npm:3.9.1"],
             ["dotenv", "npm:8.2.0"],
             ["prettier", "npm:2.2.1"],
@@ -3167,7 +3167,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/fontawesome-common-types", [
         ["npm:0.2.34", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-fontawesome-common-types-npm-0.2.34-43235071e1/node_modules/@fortawesome/fontawesome-common-types/",
+          "packageLocation": "./.yarn/cache/@fortawesome-fontawesome-common-types-npm-0.2.34-43235071e1-cbfa1ad00f.zip/node_modules/@fortawesome/fontawesome-common-types/",
           "packageDependencies": [
             ["@fortawesome/fontawesome-common-types", "npm:0.2.34"]
           ],
@@ -3176,7 +3176,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/fontawesome-svg-core", [
         ["npm:1.2.34", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-fontawesome-svg-core-npm-1.2.34-3078bdc3cc/node_modules/@fortawesome/fontawesome-svg-core/",
+          "packageLocation": "./.yarn/cache/@fortawesome-fontawesome-svg-core-npm-1.2.34-3078bdc3cc-56d5608cfa.zip/node_modules/@fortawesome/fontawesome-svg-core/",
           "packageDependencies": [
             ["@fortawesome/fontawesome-svg-core", "npm:1.2.34"],
             ["@fortawesome/fontawesome-common-types", "npm:0.2.34"]
@@ -3186,7 +3186,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/free-brands-svg-icons", [
         ["npm:5.15.2", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-free-brands-svg-icons-npm-5.15.2-7212e01f27/node_modules/@fortawesome/free-brands-svg-icons/",
+          "packageLocation": "./.yarn/cache/@fortawesome-free-brands-svg-icons-npm-5.15.2-7212e01f27-ccc4b05113.zip/node_modules/@fortawesome/free-brands-svg-icons/",
           "packageDependencies": [
             ["@fortawesome/free-brands-svg-icons", "npm:5.15.2"],
             ["@fortawesome/fontawesome-common-types", "npm:0.2.34"]
@@ -3196,7 +3196,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/free-regular-svg-icons", [
         ["npm:5.15.2", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-free-regular-svg-icons-npm-5.15.2-b0aa3b18e0/node_modules/@fortawesome/free-regular-svg-icons/",
+          "packageLocation": "./.yarn/cache/@fortawesome-free-regular-svg-icons-npm-5.15.2-b0aa3b18e0-a24ae419a3.zip/node_modules/@fortawesome/free-regular-svg-icons/",
           "packageDependencies": [
             ["@fortawesome/free-regular-svg-icons", "npm:5.15.2"],
             ["@fortawesome/fontawesome-common-types", "npm:0.2.34"]
@@ -3206,7 +3206,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/free-solid-svg-icons", [
         ["npm:5.15.2", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-free-solid-svg-icons-npm-5.15.2-16d0fee02c/node_modules/@fortawesome/free-solid-svg-icons/",
+          "packageLocation": "./.yarn/cache/@fortawesome-free-solid-svg-icons-npm-5.15.2-16d0fee02c-7fe1cc0287.zip/node_modules/@fortawesome/free-solid-svg-icons/",
           "packageDependencies": [
             ["@fortawesome/free-solid-svg-icons", "npm:5.15.2"],
             ["@fortawesome/fontawesome-common-types", "npm:0.2.34"]
@@ -8060,10 +8060,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["chromatic", [
-        ["npm:5.6.3", {
-          "packageLocation": "./.yarn/cache/chromatic-npm-5.6.3-a389d83780-ac2e34ca4d.zip/node_modules/chromatic/",
+        ["npm:5.7.0", {
+          "packageLocation": "./.yarn/cache/chromatic-npm-5.7.0-1f0a3d596e-9c0921a696.zip/node_modules/chromatic/",
           "packageDependencies": [
-            ["chromatic", "npm:5.6.3"],
+            ["chromatic", "npm:5.7.0"],
             ["@actions/core", "npm:1.2.6"],
             ["@actions/github", "npm:4.0.0"],
             ["@babel/runtime", "npm:7.12.13"],
@@ -8595,7 +8595,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["core-js", [
         ["npm:3.9.1", {
-          "packageLocation": "./.yarn/unplugged/core-js-npm-3.9.1-5a7342ca0f/node_modules/core-js/",
+          "packageLocation": "./.yarn/cache/core-js-npm-3.9.1-5a7342ca0f-3f36046624.zip/node_modules/core-js/",
           "packageDependencies": [
             ["core-js", "npm:3.9.1"]
           ],
@@ -8615,7 +8615,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["core-js-pure", [
         ["npm:3.8.1", {
-          "packageLocation": "./.yarn/unplugged/core-js-pure-npm-3.8.1-fecb15ba49/node_modules/core-js-pure/",
+          "packageLocation": "./.yarn/cache/core-js-pure-npm-3.8.1-fecb15ba49-27dc872375.zip/node_modules/core-js-pure/",
           "packageDependencies": [
             ["core-js-pure", "npm:3.8.1"]
           ],
@@ -17150,7 +17150,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:14.14.33"],
             ["@yarnpkg/pnpify", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.4.0"],
             ["babel-loader", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:8.2.2"],
-            ["chromatic", "npm:5.6.3"],
+            ["chromatic", "npm:5.7.0"],
             ["core-js", "npm:3.9.1"],
             ["dotenv", "npm:8.2.0"],
             ["prettier", "npm:2.2.1"],
