@@ -3185,10 +3185,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@fortawesome/free-brands-svg-icons", [
-        ["npm:5.15.2", {
-          "packageLocation": "./.yarn/cache/@fortawesome-free-brands-svg-icons-npm-5.15.2-7212e01f27-ccc4b05113.zip/node_modules/@fortawesome/free-brands-svg-icons/",
+        ["npm:5.15.3", {
+          "packageLocation": "./.yarn/cache/@fortawesome-free-brands-svg-icons-npm-5.15.3-ebacfdf66f-aafd60827b.zip/node_modules/@fortawesome/free-brands-svg-icons/",
           "packageDependencies": [
-            ["@fortawesome/free-brands-svg-icons", "npm:5.15.2"],
+            ["@fortawesome/free-brands-svg-icons", "npm:5.15.3"],
             ["@fortawesome/fontawesome-common-types", "npm:0.2.35"]
           ],
           "linkType": "HARD",
@@ -4834,7 +4834,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@svg-icons/fa-brands", "workspace:packages/fa-brands"],
             ["@babel/core", "npm:7.13.10"],
             ["@fortawesome/fontawesome-svg-core", "npm:1.2.35"],
-            ["@fortawesome/free-brands-svg-icons", "npm:5.15.2"],
+            ["@fortawesome/free-brands-svg-icons", "npm:5.15.3"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.21"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["core-js", "npm:3.9.1"],
