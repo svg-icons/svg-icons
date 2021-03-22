@@ -1810,12 +1810,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fortawesome/fontawesome-svg-core@npm:1.2.34":
-  version: 1.2.34
-  resolution: "@fortawesome/fontawesome-svg-core@npm:1.2.34"
+"@fortawesome/fontawesome-svg-core@npm:1.2.35":
+  version: 1.2.35
+  resolution: "@fortawesome/fontawesome-svg-core@npm:1.2.35"
   dependencies:
-    "@fortawesome/fontawesome-common-types": ^0.2.34
-  checksum: 56d5608cfa05c1449ec5f19fda06c46f9c851c888dee92b8401c811f18a8fdf50ca7814dafd30ec5a89789a029143a00b17c71f3dc5b2adacfe38e259b945064
+    "@fortawesome/fontawesome-common-types": ^0.2.35
+  checksum: 2457135c46ff06c32b8dd88cc3e1df96e8d9175657cb57cb74c3e26e7047cd3989a2c76c2d784a37d1edc724e1f3b9ac10e82bf7cc06d74a6a438370b4deac2b
   languageName: node
   linkType: hard
 
@@ -2796,7 +2796,7 @@ __metadata:
   resolution: "@svg-icons/fa-brands@workspace:packages/fa-brands"
   dependencies:
     "@babel/core": ^7.13.10
-    "@fortawesome/fontawesome-svg-core": 1.2.34
+    "@fortawesome/fontawesome-svg-core": 1.2.35
     "@fortawesome/free-brands-svg-icons": 5.15.2
     "@storybook/html": ^6.1.21
     "@svg-icons/pack-builder": ^1.1.0
@@ -2810,7 +2810,7 @@ __metadata:
   resolution: "@svg-icons/fa-regular@workspace:packages/fa-regular"
   dependencies:
     "@babel/core": ^7.13.10
-    "@fortawesome/fontawesome-svg-core": 1.2.34
+    "@fortawesome/fontawesome-svg-core": 1.2.35
     "@fortawesome/free-regular-svg-icons": 5.15.2
     "@storybook/html": ^6.1.21
     "@svg-icons/pack-builder": ^1.1.0
@@ -2824,7 +2824,7 @@ __metadata:
   resolution: "@svg-icons/fa-solid@workspace:packages/fa-solid"
   dependencies:
     "@babel/core": ^7.13.10
-    "@fortawesome/fontawesome-svg-core": 1.2.34
+    "@fortawesome/fontawesome-svg-core": 1.2.35
     "@fortawesome/free-solid-svg-icons": 5.15.3
     "@storybook/html": ^6.1.21
     "@svg-icons/pack-builder": ^1.1.0
