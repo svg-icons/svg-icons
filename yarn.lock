@@ -1828,12 +1828,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fortawesome/free-regular-svg-icons@npm:5.15.2":
-  version: 5.15.2
-  resolution: "@fortawesome/free-regular-svg-icons@npm:5.15.2"
+"@fortawesome/free-regular-svg-icons@npm:5.15.3":
+  version: 5.15.3
+  resolution: "@fortawesome/free-regular-svg-icons@npm:5.15.3"
   dependencies:
-    "@fortawesome/fontawesome-common-types": ^0.2.34
-  checksum: a24ae419a3406cfa71787bb677b44a687fe6a32f753e066fd451a56814cd05647a025d8d86130490675ab0ff4538c470a6f6d3b2b73a7b50c658120fc82a4525
+    "@fortawesome/fontawesome-common-types": ^0.2.35
+  checksum: af6dbf342b2c24e2a2b583148988ca16aefbb5caeefc5d99e115fc831461522d1edfc2f1f1e06c9d4a8045c0ec919cf1b1762a39a8265aa79dbb456c8e3134ec
   languageName: node
   linkType: hard
 
@@ -2811,7 +2811,7 @@ __metadata:
   dependencies:
     "@babel/core": ^7.13.10
     "@fortawesome/fontawesome-svg-core": 1.2.35
-    "@fortawesome/free-regular-svg-icons": 5.15.2
+    "@fortawesome/free-regular-svg-icons": 5.15.3
     "@storybook/html": ^6.1.21
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.9.1
