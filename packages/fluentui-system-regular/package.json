@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.13.10",
-    "@fluentui/svg-icons": "^1.1.102",
+    "@fluentui/svg-icons": "^1.1.111",
     "@storybook/html": "^6.1.21",
     "@svg-icons/pack-builder": "^1.1.0",
     "core-js": "^3.9.1",
