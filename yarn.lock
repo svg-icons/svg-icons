@@ -1803,10 +1803,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fortawesome/fontawesome-common-types@npm:^0.2.34":
-  version: 0.2.34
-  resolution: "@fortawesome/fontawesome-common-types@npm:0.2.34"
-  checksum: cbfa1ad00fc80bc162a74c793bd96773001908c94316f0ac817b43e819334e42b21d35db47f78ff542f5e4397d394d7f68c0cbf7a7bf0719b0554cc6dea11cd8
+"@fortawesome/fontawesome-common-types@npm:^0.2.34, @fortawesome/fontawesome-common-types@npm:^0.2.35":
+  version: 0.2.35
+  resolution: "@fortawesome/fontawesome-common-types@npm:0.2.35"
+  checksum: d8a25c567cb4949ea63fd63ad320ca1ccd95094ec2e011215af7e415fc6108afa64719cefa3f85b8cf65abf2d349b76fefdb368418ba3c27cc7ba23fcbf4d485
   languageName: node
   linkType: hard
 
@@ -1837,12 +1837,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fortawesome/free-solid-svg-icons@npm:5.15.2":
-  version: 5.15.2
-  resolution: "@fortawesome/free-solid-svg-icons@npm:5.15.2"
+"@fortawesome/free-solid-svg-icons@npm:5.15.3":
+  version: 5.15.3
+  resolution: "@fortawesome/free-solid-svg-icons@npm:5.15.3"
   dependencies:
-    "@fortawesome/fontawesome-common-types": ^0.2.34
-  checksum: 7fe1cc0287170a1c39d4157e2830064bfcd986d3e1c350b2230f8145375118837229c0e54fbe3516bb3a5810a44520ad6087e4a08e4b36789de93e6b7a98c5e8
+    "@fortawesome/fontawesome-common-types": ^0.2.35
+  checksum: dd5c7e006ad8794ec40da55eb2af4a160ddfaff6ea95dba12e95a0a8a88eb7fae6376f1a0be494a8b4012ef60c52aee3caa353896678f2042141bfb5957be1c7
   languageName: node
   linkType: hard
 
@@ -2825,7 +2825,7 @@ __metadata:
   dependencies:
     "@babel/core": ^7.13.10
     "@fortawesome/fontawesome-svg-core": 1.2.34
-    "@fortawesome/free-solid-svg-icons": 5.15.2
+    "@fortawesome/free-solid-svg-icons": 5.15.3
     "@storybook/html": ^6.1.21
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.9.1
