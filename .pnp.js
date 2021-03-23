@@ -3719,10 +3719,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@stencil/core", [
-        ["npm:2.4.0", {
-          "packageLocation": "./.yarn/cache/@stencil-core-npm-2.4.0-d8f7da1c2d-e8f30fcadb.zip/node_modules/@stencil/core/",
+        ["npm:2.5.0", {
+          "packageLocation": "./.yarn/cache/@stencil-core-npm-2.5.0-b64a43540a-63246b7416.zip/node_modules/@stencil/core/",
           "packageDependencies": [
-            ["@stencil/core", "npm:2.4.0"]
+            ["@stencil/core", "npm:2.5.0"]
           ],
           "linkType": "HARD",
         }]
@@ -4989,7 +4989,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.21"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["core-js", "npm:3.9.1"],
-            ["ionicons", "npm:5.5.0"],
+            ["ionicons", "npm:5.5.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5004,7 +5004,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.21"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["core-js", "npm:3.9.1"],
-            ["ionicons", "npm:5.5.0"],
+            ["ionicons", "npm:5.5.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5019,7 +5019,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.1.21"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["core-js", "npm:3.9.1"],
-            ["ionicons", "npm:5.5.0"],
+            ["ionicons", "npm:5.5.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -12274,11 +12274,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["ionicons", [
-        ["npm:5.5.0", {
-          "packageLocation": "./.yarn/cache/ionicons-npm-5.5.0-3d7aecb072-bd9a3b41ea.zip/node_modules/ionicons/",
+        ["npm:5.5.1", {
+          "packageLocation": "./.yarn/cache/ionicons-npm-5.5.1-bcc502ad19-8b6d263bf6.zip/node_modules/ionicons/",
           "packageDependencies": [
-            ["ionicons", "npm:5.5.0"],
-            ["@stencil/core", "npm:2.4.0"]
+            ["ionicons", "npm:5.5.1"],
+            ["@stencil/core", "npm:2.5.0"]
           ],
           "linkType": "HARD",
         }]

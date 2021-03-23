@@ -1803,7 +1803,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fortawesome/fontawesome-common-types@npm:^0.2.34, @fortawesome/fontawesome-common-types@npm:^0.2.35":
+"@fortawesome/fontawesome-common-types@npm:^0.2.35":
   version: 0.2.35
   resolution: "@fortawesome/fontawesome-common-types@npm:0.2.35"
   checksum: d8a25c567cb4949ea63fd63ad320ca1ccd95094ec2e011215af7e415fc6108afa64719cefa3f85b8cf65abf2d349b76fefdb368418ba3c27cc7ba23fcbf4d485
@@ -2207,12 +2207,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@stencil/core@npm:^2.4.0":
-  version: 2.4.0
-  resolution: "@stencil/core@npm:2.4.0"
+"@stencil/core@npm:^2.5.0":
+  version: 2.5.0
+  resolution: "@stencil/core@npm:2.5.0"
   bin:
     stencil: bin/stencil
-  checksum: e8f30fcadbff5c71ef5c254f08311ed9d49baf23c8fb1b0908489f0ec9586fc3416ca9060cb26a6ee50777e27c75b2dce185fe8d2c31e7fb4728319c57394df1
+  checksum: 63246b7416766dc23d0ec85eafd5d09af0823c899d49a88c2652a4bcdecf9c1209e27277c42e92844d22ffba8823fbd1d59f776928092dce79c8c268207c408e
   languageName: node
   linkType: hard
 
@@ -2932,7 +2932,7 @@ __metadata:
     "@storybook/html": ^6.1.21
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.9.1
-    ionicons: 5.5.0
+    ionicons: 5.5.1
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -2945,7 +2945,7 @@ __metadata:
     "@storybook/html": ^6.1.21
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.9.1
-    ionicons: 5.5.0
+    ionicons: 5.5.1
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -2958,7 +2958,7 @@ __metadata:
     "@storybook/html": ^6.1.21
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.9.1
-    ionicons: 5.5.0
+    ionicons: 5.5.1
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -9179,12 +9179,12 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"ionicons@npm:5.5.0":
-  version: 5.5.0
-  resolution: "ionicons@npm:5.5.0"
+"ionicons@npm:5.5.1":
+  version: 5.5.1
+  resolution: "ionicons@npm:5.5.1"
   dependencies:
-    "@stencil/core": ^2.4.0
-  checksum: bd9a3b41eac91b1c08f8288971a9ff732719ba7e9845c38ee69ba7f79b84d865826b77241f3acbb410dcb7eb6722c55ce37badfc1b2daf0be3b20f02a50564ad
+    "@stencil/core": ^2.5.0
+  checksum: 8b6d263bf648a0a95174c00799382e6f8ec8735fdf3219df2bba29c1b12e10c8ea877223b1f1c80ada442ea553fcd70430262a063d7b0e4e971eb1d5a00ca25e
   languageName: node
   linkType: hard
 
