@@ -29,7 +29,7 @@
     "@storybook/html": "^6.1.21",
     "@svg-icons/pack-builder": "^1.1.0",
     "core-js": "^3.9.1",
-    "ionicons": "5.5.0",
+    "ionicons": "5.5.1",
     "tiny-glob": "^0.2.8"
   }
 }
