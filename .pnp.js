@@ -5137,7 +5137,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["fs-extra", "npm:9.1.0"],
             ["svg-parser", "npm:2.0.4"],
-            ["svgo", "npm:2.2.2"],
+            ["svgo", "npm:2.3.0"],
             ["tiny-glob", "npm:0.2.8"],
             ["typescript", "patch:typescript@npm%3A4.2.3#builtin<compat/typescript>::version=4.2.3&hash=a45b0e"]
           ],
@@ -18283,10 +18283,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["svgo", [
-        ["npm:2.2.2", {
-          "packageLocation": "./.yarn/cache/svgo-npm-2.2.2-76df440bfd-659f20de70.zip/node_modules/svgo/",
+        ["npm:2.3.0", {
+          "packageLocation": "./.yarn/cache/svgo-npm-2.3.0-aee239eca1-8580eddbab.zip/node_modules/svgo/",
           "packageDependencies": [
-            ["svgo", "npm:2.2.2"],
+            ["svgo", "npm:2.3.0"],
             ["@trysound/sax", "npm:0.1.1"],
             ["chalk", "npm:4.1.0"],
             ["commander", "npm:7.1.0"],

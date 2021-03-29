@@ -3060,7 +3060,7 @@ __metadata:
   dependencies:
     fs-extra: ^9.1.0
     svg-parser: ^2.0.4
-    svgo: ^2.2.2
+    svgo: ^2.3.0
     tiny-glob: ^0.2.8
     typescript: ^4.2.3
   bin:
@@ -14219,9 +14219,9 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"svgo@npm:^2.2.2":
-  version: 2.2.2
-  resolution: "svgo@npm:2.2.2"
+"svgo@npm:^2.3.0":
+  version: 2.3.0
+  resolution: "svgo@npm:2.3.0"
   dependencies:
     "@trysound/sax": 0.1.1
     chalk: ^4.1.0
@@ -14232,7 +14232,7 @@ fsevents@~2.1.2:
     stable: ^0.1.8
   bin:
     svgo: bin/svgo
-  checksum: 659f20de7054e04ebe679749990d19ddea01bfae7f411c4cc1d32eb00c247140821271e60c6e2603478c3204b67c95ed3c639e2578149cd8fd600d85d6e4588b
+  checksum: 8580eddbab54079813531f9fd8c246662eea6f3f7554d7a6082dce010c25b4a8e8e92ae4ee52b2c80b514abc54ecd0e2bd1ef3011693d5daf473adefc5b48180
   languageName: node
   linkType: hard
 
