@@ -25,7 +25,7 @@
     "clean": "clean-pack"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.10",
+    "@babel/core": "^7.13.14",
     "@fluentui/svg-icons": "^1.1.113",
     "@storybook/html": "^6.1.21",
     "@svg-icons/pack-builder": "^1.1.0",
