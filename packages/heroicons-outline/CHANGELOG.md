@@ -1,5 +1,11 @@
 # @svg-icons/heroicons-outline
 
+## 1.44.0
+
+### Minor Changes
+
+- Upgrade to Heroicons v1.0.0 ([`f2d48ec`](https://github.com/svg-icons/svg-icons/commit/f2d48ec6a2b61e5ff005e0c55d6645a8df623ed1), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
 ## 1.39.1
 
 ### Patch Changes
