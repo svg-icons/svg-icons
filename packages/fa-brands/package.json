@@ -28,7 +28,7 @@
     "@babel/core": "^7.13.14",
     "@fortawesome/fontawesome-svg-core": "1.2.35",
     "@fortawesome/free-brands-svg-icons": "5.15.3",
-    "@storybook/html": "^6.1.21",
+    "@storybook/html": "^6.2.3",
     "@svg-icons/pack-builder": "^1.1.0",
     "core-js": "^3.9.1",
     "tiny-glob": "^0.2.8"
