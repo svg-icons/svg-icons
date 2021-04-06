@@ -3194,7 +3194,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/fontawesome-common-types", [
         ["npm:0.2.35", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-fontawesome-common-types-npm-0.2.35-a8f9310e14/node_modules/@fortawesome/fontawesome-common-types/",
+          "packageLocation": "./.yarn/cache/@fortawesome-fontawesome-common-types-npm-0.2.35-a8f9310e14-d8a25c567c.zip/node_modules/@fortawesome/fontawesome-common-types/",
           "packageDependencies": [
             ["@fortawesome/fontawesome-common-types", "npm:0.2.35"]
           ],
@@ -3203,7 +3203,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/fontawesome-svg-core", [
         ["npm:1.2.35", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-fontawesome-svg-core-npm-1.2.35-5d06f1c1f2/node_modules/@fortawesome/fontawesome-svg-core/",
+          "packageLocation": "./.yarn/cache/@fortawesome-fontawesome-svg-core-npm-1.2.35-5d06f1c1f2-2457135c46.zip/node_modules/@fortawesome/fontawesome-svg-core/",
           "packageDependencies": [
             ["@fortawesome/fontawesome-svg-core", "npm:1.2.35"],
             ["@fortawesome/fontawesome-common-types", "npm:0.2.35"]
@@ -3213,7 +3213,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/free-brands-svg-icons", [
         ["npm:5.15.3", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-free-brands-svg-icons-npm-5.15.3-ebacfdf66f/node_modules/@fortawesome/free-brands-svg-icons/",
+          "packageLocation": "./.yarn/cache/@fortawesome-free-brands-svg-icons-npm-5.15.3-ebacfdf66f-aafd60827b.zip/node_modules/@fortawesome/free-brands-svg-icons/",
           "packageDependencies": [
             ["@fortawesome/free-brands-svg-icons", "npm:5.15.3"],
             ["@fortawesome/fontawesome-common-types", "npm:0.2.35"]
@@ -3223,7 +3223,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/free-regular-svg-icons", [
         ["npm:5.15.3", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-free-regular-svg-icons-npm-5.15.3-4feb2f9b89/node_modules/@fortawesome/free-regular-svg-icons/",
+          "packageLocation": "./.yarn/cache/@fortawesome-free-regular-svg-icons-npm-5.15.3-4feb2f9b89-af6dbf342b.zip/node_modules/@fortawesome/free-regular-svg-icons/",
           "packageDependencies": [
             ["@fortawesome/free-regular-svg-icons", "npm:5.15.3"],
             ["@fortawesome/fontawesome-common-types", "npm:0.2.35"]
@@ -3233,7 +3233,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@fortawesome/free-solid-svg-icons", [
         ["npm:5.15.3", {
-          "packageLocation": "./.yarn/unplugged/@fortawesome-free-solid-svg-icons-npm-5.15.3-2a340e3cd8/node_modules/@fortawesome/free-solid-svg-icons/",
+          "packageLocation": "./.yarn/cache/@fortawesome-free-solid-svg-icons-npm-5.15.3-2a340e3cd8-dd5c7e006a.zip/node_modules/@fortawesome/free-solid-svg-icons/",
           "packageDependencies": [
             ["@fortawesome/free-solid-svg-icons", "npm:5.15.3"],
             ["@fortawesome/fontawesome-common-types", "npm:0.2.35"]
@@ -8832,7 +8832,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["core-js", [
         ["npm:3.10.0", {
-          "packageLocation": "./.yarn/unplugged/core-js-npm-3.10.0-2088bcb2de/node_modules/core-js/",
+          "packageLocation": "./.yarn/cache/core-js-npm-3.10.0-2088bcb2de-d8bb20f7da.zip/node_modules/core-js/",
           "packageDependencies": [
             ["core-js", "npm:3.10.0"]
           ],
@@ -8852,7 +8852,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["core-js-pure", [
         ["npm:3.10.0", {
-          "packageLocation": "./.yarn/unplugged/core-js-pure-npm-3.10.0-c5d6aa8372/node_modules/core-js-pure/",
+          "packageLocation": "./.yarn/cache/core-js-pure-npm-3.10.0-c5d6aa8372-987b8428ce.zip/node_modules/core-js-pure/",
           "packageDependencies": [
             ["core-js-pure", "npm:3.10.0"]
           ],
