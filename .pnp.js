@@ -219,7 +219,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@babel/core", "npm:7.13.14"],
             ["@changesets/changelog-github", "npm:0.3.0"],
-            ["@changesets/cli", "npm:2.14.1"],
+            ["@changesets/cli", "npm:2.15.0"],
             ["@changesets/get-github-info", "npm:0.5.0"],
             ["@monorepolint/cli", "npm:0.5.0-alpha.53"],
             ["@monorepolint/core", "npm:0.5.0-alpha.52"],
@@ -2677,10 +2677,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@changesets/assemble-release-plan", [
-        ["npm:4.1.0", {
-          "packageLocation": "./.yarn/cache/@changesets-assemble-release-plan-npm-4.1.0-ff90266a7a-36f037caa9.zip/node_modules/@changesets/assemble-release-plan/",
+        ["npm:4.1.1", {
+          "packageLocation": "./.yarn/cache/@changesets-assemble-release-plan-npm-4.1.1-0f3e5ac780-1edd6a017b.zip/node_modules/@changesets/assemble-release-plan/",
           "packageDependencies": [
-            ["@changesets/assemble-release-plan", "npm:4.1.0"],
+            ["@changesets/assemble-release-plan", "npm:4.1.1"],
             ["@babel/runtime", "npm:7.13.10"],
             ["@changesets/errors", "npm:0.1.4"],
             ["@changesets/get-dependents-graph", "npm:1.2.0"],
@@ -2704,13 +2704,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@changesets/cli", [
-        ["npm:2.14.1", {
-          "packageLocation": "./.yarn/cache/@changesets-cli-npm-2.14.1-47e1402b63-319f1f6532.zip/node_modules/@changesets/cli/",
+        ["npm:2.15.0", {
+          "packageLocation": "./.yarn/cache/@changesets-cli-npm-2.15.0-32a6bb7657-2c6a095348.zip/node_modules/@changesets/cli/",
           "packageDependencies": [
-            ["@changesets/cli", "npm:2.14.1"],
+            ["@changesets/cli", "npm:2.15.0"],
             ["@babel/runtime", "npm:7.13.10"],
             ["@changesets/apply-release-plan", "npm:4.2.0"],
-            ["@changesets/assemble-release-plan", "npm:4.1.0"],
+            ["@changesets/assemble-release-plan", "npm:4.1.1"],
             ["@changesets/config", "npm:1.5.0"],
             ["@changesets/errors", "npm:0.1.4"],
             ["@changesets/get-dependents-graph", "npm:1.2.0"],
@@ -2799,7 +2799,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@changesets/get-release-plan", "npm:2.0.1"],
             ["@babel/runtime", "npm:7.13.10"],
-            ["@changesets/assemble-release-plan", "npm:4.1.0"],
+            ["@changesets/assemble-release-plan", "npm:4.1.1"],
             ["@changesets/config", "npm:1.5.0"],
             ["@changesets/pre", "npm:1.0.5"],
             ["@changesets/read", "npm:0.4.6"],
@@ -17904,7 +17904,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["root-workspace-0b6124", "workspace:."],
             ["@babel/core", "npm:7.13.14"],
             ["@changesets/changelog-github", "npm:0.3.0"],
-            ["@changesets/cli", "npm:2.14.1"],
+            ["@changesets/cli", "npm:2.15.0"],
             ["@changesets/get-github-info", "npm:0.5.0"],
             ["@monorepolint/cli", "npm:0.5.0-alpha.53"],
             ["@monorepolint/core", "npm:0.5.0-alpha.52"],
