@@ -1,8 +1,8 @@
 {
-  "name": "@svg-icons/heroicons-outline",
-  "version": "1.44.0",
+  "name": "@svg-icons/remix-editor",
+  "version": "1.39.1",
   "license": "MIT",
-  "description": "Heroicons Outline icons available as optimized SVGs",
+  "description": "Remix Editor icons available as optimized SVGs",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
   "homepage": "https://github.com/svg-icons/svg-icons",
   "repository": "git://github.com/svg-icons/svg-icons.git",
@@ -29,7 +29,7 @@
     "@storybook/html": "^6.2.3",
     "@svg-icons/pack-builder": "^1.1.0",
     "core-js": "^3.10.0",
-    "heroicons": "1.0.0",
+    "remixicon": "2.5.0",
     "tiny-glob": "^0.2.8"
   }
 }
