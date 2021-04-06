@@ -5,7 +5,6 @@ const path = require('path')
 module.exports = async () => {
   const baseDir = path.dirname(require.resolve('remixicon/package.json'))
   const sourceFiles = await glob('icons/Editor/*.svg', {cwd: baseDir, absolute: true})
-  console.log({sourceFiles})
 
   return sourceFiles.map((filename) => {
     const match = filename.match(/([\w-]*)\.svg$/)
