@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.13.14",
-    "@storybook/html": "^6.2.3",
+    "@storybook/html": "^6.2.5",
     "@svg-icons/pack-builder": "^1.1.0",
     "boxicons": "2.0.7",
     "core-js": "^3.10.0",
