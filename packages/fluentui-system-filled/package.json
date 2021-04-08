@@ -27,7 +27,7 @@
   "devDependencies": {
     "@babel/core": "^7.13.14",
     "@fluentui/svg-icons": "^1.1.117",
-    "@storybook/html": "^6.2.3",
+    "@storybook/html": "^6.2.5",
     "@svg-icons/pack-builder": "^1.1.0",
     "core-js": "^3.10.0",
     "tiny-glob": "^0.2.8"
