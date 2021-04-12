@@ -223,7 +223,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["@babel/core", "npm:7.13.14"],
-            ["@changesets/changelog-github", "npm:0.3.0"],
+            ["@changesets/changelog-github", "npm:0.4.0"],
             ["@changesets/cli", "npm:2.15.0"],
             ["@changesets/get-github-info", "npm:0.5.0"],
             ["@monorepolint/cli", "npm:0.5.0-alpha.53"],
@@ -2697,12 +2697,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@changesets/changelog-github", [
-        ["npm:0.3.0", {
-          "packageLocation": "./.yarn/cache/@changesets-changelog-github-npm-0.3.0-820407c402-b68d242b0e.zip/node_modules/@changesets/changelog-github/",
+        ["npm:0.4.0", {
+          "packageLocation": "./.yarn/cache/@changesets-changelog-github-npm-0.4.0-8ea85c2012-2c5dbdbcb0.zip/node_modules/@changesets/changelog-github/",
           "packageDependencies": [
-            ["@changesets/changelog-github", "npm:0.3.0"],
+            ["@changesets/changelog-github", "npm:0.4.0"],
             ["@changesets/get-github-info", "npm:0.5.0"],
-            ["@changesets/types", "npm:3.3.0"],
+            ["@changesets/types", "npm:4.0.0"],
             ["dotenv", "npm:8.2.0"]
           ],
           "linkType": "HARD",
@@ -2895,6 +2895,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@changesets-types-npm-3.3.0-6a620ff372-54dd2e12d6.zip/node_modules/@changesets/types/",
           "packageDependencies": [
             ["@changesets/types", "npm:3.3.0"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:4.0.0", {
+          "packageLocation": "./.yarn/cache/@changesets-types-npm-4.0.0-5e7369653c-7597a8520e.zip/node_modules/@changesets/types/",
+          "packageDependencies": [
+            ["@changesets/types", "npm:4.0.0"]
           ],
           "linkType": "HARD",
         }]
@@ -17437,7 +17444,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["root-workspace-0b6124", "workspace:."],
             ["@babel/core", "npm:7.13.14"],
-            ["@changesets/changelog-github", "npm:0.3.0"],
+            ["@changesets/changelog-github", "npm:0.4.0"],
             ["@changesets/cli", "npm:2.15.0"],
             ["@changesets/get-github-info", "npm:0.5.0"],
             ["@monorepolint/cli", "npm:0.5.0-alpha.53"],
