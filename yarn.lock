@@ -3062,7 +3062,7 @@ __metadata:
     "@storybook/html": ^6.2.7
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.10.0
-    heroicons: 1.0.0
+    heroicons: 1.0.1
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -3075,7 +3075,7 @@ __metadata:
     "@storybook/html": ^6.2.7
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.10.0
-    heroicons: 1.0.0
+    heroicons: 1.0.1
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -8640,10 +8640,10 @@ fsevents@~2.3.1:
   languageName: node
   linkType: hard
 
-"heroicons@npm:1.0.0":
-  version: 1.0.0
-  resolution: "heroicons@npm:1.0.0"
-  checksum: 33f0005dbd9796e6bd8edfaeee889e0f19c087e8949de18084bd88813c0f90189ad0c7e3b100d44347a761ec04215cac37c3418cb0c4a2ed3c1784fe8b13f1e8
+"heroicons@npm:1.0.1":
+  version: 1.0.1
+  resolution: "heroicons@npm:1.0.1"
+  checksum: 9b83b6555cc37726f76a587620ad0a1bd568ffc70e1756ab40e5f24a516ed5d7cf59be029b3fe8d7ef00e6c81c87dcd6fc0c636bbac4389d39e3d17626038259
   languageName: node
   linkType: hard
 
