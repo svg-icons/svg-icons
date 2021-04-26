@@ -5433,7 +5433,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.7"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["core-js", "npm:3.10.0"],
-            ["heroicons", "npm:1.0.0"],
+            ["heroicons", "npm:1.0.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5448,7 +5448,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.7"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["core-js", "npm:3.10.0"],
-            ["heroicons", "npm:1.0.0"],
+            ["heroicons", "npm:1.0.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -12075,10 +12075,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["heroicons", [
-        ["npm:1.0.0", {
-          "packageLocation": "./.yarn/cache/heroicons-npm-1.0.0-01785aca02-33f0005dbd.zip/node_modules/heroicons/",
+        ["npm:1.0.1", {
+          "packageLocation": "./.yarn/cache/heroicons-npm-1.0.1-5af0e30854-9b83b6555c.zip/node_modules/heroicons/",
           "packageDependencies": [
-            ["heroicons", "npm:1.0.0"]
+            ["heroicons", "npm:1.0.1"]
           ],
           "linkType": "HARD",
         }]
