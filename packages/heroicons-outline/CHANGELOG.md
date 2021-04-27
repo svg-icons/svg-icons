@@ -1,5 +1,11 @@
 # @svg-icons/heroicons-outline
 
+## 1.50.0
+
+### Minor Changes
+
+- [#381](https://github.com/svg-icons/svg-icons/pull/381): Bump heroicons from 1.0.0 to 1.0.1 ([`414f0c7`](https://github.com/svg-icons/svg-icons/commit/414f0c753d93bc8695cb9991fb38b6ca015cd52b), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.44.0
 
 ### Minor Changes
