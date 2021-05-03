@@ -233,7 +233,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:14.14.37"],
             ["@yarnpkg/pnpify", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.4.0"],
             ["babel-loader", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:8.2.2"],
-            ["chromatic", "npm:5.7.1"],
+            ["chromatic", "npm:5.8.0"],
             ["core-js", "npm:3.10.0"],
             ["dotenv", "npm:8.2.0"],
             ["prettier", "npm:2.2.1"],
@@ -8321,10 +8321,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["chromatic", [
-        ["npm:5.7.1", {
-          "packageLocation": "./.yarn/cache/chromatic-npm-5.7.1-3f776dd80a-58f16e4939.zip/node_modules/chromatic/",
+        ["npm:5.8.0", {
+          "packageLocation": "./.yarn/cache/chromatic-npm-5.8.0-758dd08aee-28d1dd5284.zip/node_modules/chromatic/",
           "packageDependencies": [
-            ["chromatic", "npm:5.7.1"],
+            ["chromatic", "npm:5.8.0"],
             ["@actions/core", "npm:1.2.6"],
             ["@actions/github", "npm:4.0.0"],
             ["@babel/runtime", "npm:7.13.10"],
@@ -8353,6 +8353,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["progress-stream", "npm:2.0.0"],
             ["semver", "npm:7.3.4"],
             ["slash", "npm:3.0.0"],
+            ["string-argv", "npm:0.3.1"],
             ["strip-ansi", "npm:6.0.0"],
             ["tmp-promise", "npm:3.0.2"],
             ["tree-kill", "npm:1.2.2"],
@@ -17317,7 +17318,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:14.14.37"],
             ["@yarnpkg/pnpify", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.4.0"],
             ["babel-loader", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:8.2.2"],
-            ["chromatic", "npm:5.7.1"],
+            ["chromatic", "npm:5.8.0"],
             ["core-js", "npm:3.10.0"],
             ["dotenv", "npm:8.2.0"],
             ["prettier", "npm:2.2.1"],
@@ -18177,6 +18178,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["stream-transform", "npm:2.0.4"],
             ["mixme", "npm:0.4.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["string-argv", [
+        ["npm:0.3.1", {
+          "packageLocation": "./.yarn/cache/string-argv-npm-0.3.1-b4f6cd3d7b-002a690269.zip/node_modules/string-argv/",
+          "packageDependencies": [
+            ["string-argv", "npm:0.3.1"]
           ],
           "linkType": "HARD",
         }]
