@@ -5687,7 +5687,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.7"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["core-js", "npm:3.10.0"],
-            ["simple-icons", "npm:4.21.0"],
+            ["simple-icons", "npm:4.22.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -17721,10 +17721,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["simple-icons", [
-        ["npm:4.21.0", {
-          "packageLocation": "./.yarn/cache/simple-icons-npm-4.21.0-18ed788df3-c1e3699365.zip/node_modules/simple-icons/",
+        ["npm:4.22.0", {
+          "packageLocation": "./.yarn/cache/simple-icons-npm-4.22.0-2fbebde6d8-fb1c691a28.zip/node_modules/simple-icons/",
           "packageDependencies": [
-            ["simple-icons", "npm:4.21.0"]
+            ["simple-icons", "npm:4.22.0"]
           ],
           "linkType": "HARD",
         }]
