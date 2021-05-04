@@ -30,7 +30,7 @@
     "@fortawesome/free-brands-svg-icons": "5.15.3",
     "@storybook/html": "^6.2.7",
     "@svg-icons/pack-builder": "^1.1.0",
-    "core-js": "^3.10.0",
+    "core-js": "^3.11.2",
     "tiny-glob": "^0.2.8"
   }
 }

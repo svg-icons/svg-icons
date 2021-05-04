@@ -28,7 +28,7 @@
     "@babel/core": "^7.13.14",
     "@storybook/html": "^6.2.7",
     "@svg-icons/pack-builder": "^1.1.0",
-    "core-js": "^3.10.0",
+    "core-js": "^3.11.2",
     "feather-icons": "4.28.0",
     "tiny-glob": "^0.2.8"
   }
