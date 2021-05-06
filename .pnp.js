@@ -5754,7 +5754,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./tools/builder/",
           "packageDependencies": [
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["fs-extra", "npm:9.1.0"],
+            ["fs-extra", "npm:10.0.0"],
             ["svg-parser", "npm:2.0.4"],
             ["svgo", "npm:2.3.0"],
             ["tiny-glob", "npm:0.2.8"],
@@ -11523,6 +11523,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["klaw", "npm:1.3.1"],
             ["path-is-absolute", "npm:1.0.1"],
             ["rimraf", "npm:2.7.1"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:10.0.0", {
+          "packageLocation": "./.yarn/cache/fs-extra-npm-10.0.0-4f8c704115-84632d143f.zip/node_modules/fs-extra/",
+          "packageDependencies": [
+            ["fs-extra", "npm:10.0.0"],
+            ["graceful-fs", "npm:4.2.4"],
+            ["jsonfile", "npm:6.1.0"],
+            ["universalify", "npm:2.0.0"]
           ],
           "linkType": "HARD",
         }],
