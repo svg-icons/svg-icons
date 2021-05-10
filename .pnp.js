@@ -234,7 +234,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@yarnpkg/pnpify", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.4.0"],
             ["babel-loader", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:8.2.2"],
             ["chromatic", "npm:5.8.0"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["dotenv", "npm:8.2.0"],
             ["prettier", "npm:2.2.1"],
             ["react", "npm:17.0.2"],
@@ -3739,7 +3739,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/theming", "virtual:4bc431576fd0793fdcd69eefa621ac467884bee326d82f2102c2186f0e562a90097fa82d5959cb5a6b835e73473988f033fd4cce4b03dd3c22a446c240db81ac#npm:6.2.9"],
             ["@types/react", null],
             ["@types/react-dom", null],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["global", "npm:4.4.0"],
             ["react", "npm:16.14.0"],
             ["react-dom", "virtual:3d93536cad9d92971d40557bfdbe7a4c467e7cf26a7b5765d00b97f368997404c31f70c75e2dc24952b13ac4adb53dbbe8951a77154662fde49f96e6856d291d#npm:16.14.0"],
@@ -3765,7 +3765,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/theming", "virtual:236a264d2663ee4fc88dc5f39ca296deebd783aaa21fea408eb194c47d8ebc2ecb22a2dfcbd5ed56c8c95eeff41dbe31201a97b9b6cf1a852adf0cd917ebc998#npm:6.2.9"],
             ["@types/react", null],
             ["@types/react-dom", null],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["global", "npm:4.4.0"],
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:17.0.2"],
@@ -3803,7 +3803,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/reach__router", "npm:1.3.7"],
             ["@types/react", null],
             ["@types/react-dom", null],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["fast-deep-equal", "npm:3.1.3"],
             ["global", "npm:4.4.0"],
             ["lodash", "npm:4.17.20"],
@@ -3840,7 +3840,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/reach__router", "npm:1.3.7"],
             ["@types/react", null],
             ["@types/react-dom", null],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["fast-deep-equal", "npm:3.1.3"],
             ["global", "npm:4.4.0"],
             ["lodash", "npm:4.17.20"],
@@ -3919,7 +3919,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-macros", "npm:2.8.0"],
             ["babel-plugin-polyfill-corejs3", "virtual:69489a14d5a214e6dc15a9b530fec12480ba057e96bb3694f6e314671bd07fae42832074492107a1aeb2d6e7c66082f9bdb6b0955179813e5adc06c34e5e0681#npm:0.1.7"],
             ["case-sensitive-paths-webpack-plugin", "npm:2.4.0"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["css-loader", "virtual:2c01e60503fbb806743da12c3afa2916486773fcb8e5ff6659f3ea5f4bd1ad2685e3621805c6081502c1a73c7e4c5ce8e6ca43be6c67882e07667f28ca2a358d#npm:3.6.0"],
             ["dotenv-webpack", "virtual:2c01e60503fbb806743da12c3afa2916486773fcb8e5ff6659f3ea5f4bd1ad2685e3621805c6081502c1a73c7e4c5ce8e6ca43be6c67882e07667f28ca2a358d#npm:1.8.0"],
             ["file-loader", "virtual:2c01e60503fbb806743da12c3afa2916486773fcb8e5ff6659f3ea5f4bd1ad2685e3621805c6081502c1a73c7e4c5ce8e6ca43be6c67882e07667f28ca2a358d#npm:6.2.0"],
@@ -4008,7 +4008,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-macros", "npm:2.8.0"],
             ["babel-plugin-polyfill-corejs3", "virtual:69489a14d5a214e6dc15a9b530fec12480ba057e96bb3694f6e314671bd07fae42832074492107a1aeb2d6e7c66082f9bdb6b0955179813e5adc06c34e5e0681#npm:0.1.7"],
             ["case-sensitive-paths-webpack-plugin", "npm:2.4.0"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["css-loader", "virtual:2c01e60503fbb806743da12c3afa2916486773fcb8e5ff6659f3ea5f4bd1ad2685e3621805c6081502c1a73c7e4c5ce8e6ca43be6c67882e07667f28ca2a358d#npm:3.6.0"],
             ["dotenv-webpack", "virtual:2c01e60503fbb806743da12c3afa2916486773fcb8e5ff6659f3ea5f4bd1ad2685e3621805c6081502c1a73c7e4c5ce8e6ca43be6c67882e07667f28ca2a358d#npm:1.8.0"],
             ["file-loader", "virtual:2c01e60503fbb806743da12c3afa2916486773fcb8e5ff6659f3ea5f4bd1ad2685e3621805c6081502c1a73c7e4c5ce8e6ca43be6c67882e07667f28ca2a358d#npm:6.2.0"],
@@ -4058,7 +4058,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/channels", "npm:6.2.9"],
             ["@storybook/client-logger", "npm:6.2.9"],
             ["@storybook/core-events", "npm:6.2.9"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["global", "npm:4.4.0"],
             ["qs", "npm:6.10.1"],
             ["telejson", "npm:5.1.0"]
@@ -4071,7 +4071,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@storybook-channels-npm-6.2.9-21c489dfe7-2cee05d879.zip/node_modules/@storybook/channels/",
           "packageDependencies": [
             ["@storybook/channels", "npm:6.2.9"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["ts-dedent", "npm:2.0.0"],
             ["util-deprecate", "npm:1.0.2"]
           ],
@@ -4100,7 +4100,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react", null],
             ["@types/react-dom", null],
             ["@types/webpack-env", "npm:1.16.0"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["global", "npm:4.4.0"],
             ["lodash", "npm:4.17.20"],
             ["memoizerific", "npm:1.11.3"],
@@ -4135,7 +4135,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react", null],
             ["@types/react-dom", null],
             ["@types/webpack-env", "npm:1.16.0"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["global", "npm:4.4.0"],
             ["lodash", "npm:4.17.20"],
             ["memoizerific", "npm:1.11.3"],
@@ -4162,7 +4162,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@storybook-client-logger-npm-6.2.9-a9de096f0f-c678b204ef.zip/node_modules/@storybook/client-logger/",
           "packageDependencies": [
             ["@storybook/client-logger", "npm:6.2.9"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["global", "npm:4.4.0"]
           ],
           "linkType": "HARD",
@@ -4191,7 +4191,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react-syntax-highlighter", "npm:11.0.5"],
             ["@types/regenerator-runtime", null],
             ["color-convert", "npm:2.0.1"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["fast-deep-equal", "npm:3.1.3"],
             ["global", "npm:4.4.0"],
             ["lodash", "npm:4.17.20"],
@@ -4235,7 +4235,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react-syntax-highlighter", "npm:11.0.5"],
             ["@types/regenerator-runtime", null],
             ["color-convert", "npm:2.0.1"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["fast-deep-equal", "npm:3.1.3"],
             ["global", "npm:4.4.0"],
             ["lodash", "npm:4.17.20"],
@@ -4347,7 +4347,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react-dom", null],
             ["@types/webpack", "npm:4.41.27"],
             ["ansi-to-html", "npm:0.6.14"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["global", "npm:4.4.0"],
             ["lodash", "npm:4.17.20"],
             ["qs", "npm:6.10.1"],
@@ -4386,7 +4386,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react-dom", null],
             ["@types/webpack", "npm:4.41.27"],
             ["ansi-to-html", "npm:0.6.14"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["global", "npm:4.4.0"],
             ["lodash", "npm:4.17.20"],
             ["qs", "npm:6.10.1"],
@@ -4425,7 +4425,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react-dom", null],
             ["@types/webpack", null],
             ["ansi-to-html", "npm:0.6.14"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["global", "npm:4.4.0"],
             ["lodash", "npm:4.17.20"],
             ["qs", "npm:6.10.1"],
@@ -4464,7 +4464,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react-dom", null],
             ["@types/webpack", null],
             ["ansi-to-html", "npm:0.6.14"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["global", "npm:4.4.0"],
             ["lodash", "npm:4.17.20"],
             ["qs", "npm:6.10.1"],
@@ -4534,7 +4534,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-macros", "npm:3.0.1"],
             ["babel-plugin-polyfill-corejs3", "virtual:69489a14d5a214e6dc15a9b530fec12480ba057e96bb3694f6e314671bd07fae42832074492107a1aeb2d6e7c66082f9bdb6b0955179813e5adc06c34e5e0681#npm:0.1.7"],
             ["chalk", "npm:4.1.0"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["express", "npm:4.17.1"],
             ["file-system-cache", "npm:1.0.5"],
             ["find-up", "npm:5.0.0"],
@@ -4601,7 +4601,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-macros", "npm:3.0.1"],
             ["babel-plugin-polyfill-corejs3", "virtual:69489a14d5a214e6dc15a9b530fec12480ba057e96bb3694f6e314671bd07fae42832074492107a1aeb2d6e7c66082f9bdb6b0955179813e5adc06c34e5e0681#npm:0.1.7"],
             ["chalk", "npm:4.1.0"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["express", "npm:4.17.1"],
             ["file-system-cache", "npm:1.0.5"],
             ["find-up", "npm:5.0.0"],
@@ -4637,7 +4637,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@storybook-core-events-npm-6.2.9-66af8eaddf-72596392f4.zip/node_modules/@storybook/core-events/",
           "packageDependencies": [
             ["@storybook/core-events", "npm:6.2.9"],
-            ["core-js", "npm:3.10.0"]
+            ["core-js", "npm:3.12.1"]
           ],
           "linkType": "HARD",
         }]
@@ -4681,7 +4681,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["chalk", "npm:4.1.0"],
             ["cli-table3", "npm:0.6.0"],
             ["commander", "npm:6.2.1"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["cpy", "npm:8.1.1"],
             ["css-loader", "virtual:2c01e60503fbb806743da12c3afa2916486773fcb8e5ff6659f3ea5f4bd1ad2685e3621805c6081502c1a73c7e4c5ce8e6ca43be6c67882e07667f28ca2a358d#npm:3.6.0"],
             ["detect-port", "npm:1.3.0"],
@@ -4757,7 +4757,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["chalk", "npm:4.1.0"],
             ["cli-table3", "npm:0.6.0"],
             ["commander", "npm:6.2.1"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["cpy", "npm:8.1.1"],
             ["css-loader", "virtual:2c01e60503fbb806743da12c3afa2916486773fcb8e5ff6659f3ea5f4bd1ad2685e3621805c6081502c1a73c7e4c5ce8e6ca43be6c67882e07667f28ca2a358d#npm:3.6.0"],
             ["detect-port", "npm:1.3.0"],
@@ -4832,7 +4832,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/core-common", "virtual:3d93536cad9d92971d40557bfdbe7a4c467e7cf26a7b5765d00b97f368997404c31f70c75e2dc24952b13ac4adb53dbbe8951a77154662fde49f96e6856d291d#npm:6.2.9"],
             ["@types/babel__core", null],
             ["@types/webpack-env", "npm:1.16.0"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["global", "npm:4.4.0"],
             ["html-loader", "virtual:3d93536cad9d92971d40557bfdbe7a4c467e7cf26a7b5765d00b97f368997404c31f70c75e2dc24952b13ac4adb53dbbe8951a77154662fde49f96e6856d291d#npm:1.3.2"],
             ["react", "npm:16.14.0"],
@@ -4855,7 +4855,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/node-logger", "npm:6.2.9"],
             ["@types/npmlog", "npm:4.1.2"],
             ["chalk", "npm:4.1.0"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["npmlog", "npm:4.1.2"],
             ["pretty-hrtime", "npm:1.0.3"]
           ],
@@ -4890,7 +4890,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-add-react-displayname", "npm:0.0.5"],
             ["babel-plugin-named-asset-import", "virtual:7740470abc69b57aff4c4cfdeff39de2119565aca76ec1515de021999fb3a9e667da526b50183941050dccc64b67d2616420c706ed472a25a22b6bb179af854e#npm:0.3.7"],
             ["babel-plugin-react-docgen", "npm:4.2.1"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["global", "npm:4.4.0"],
             ["lodash", "npm:4.17.20"],
             ["prop-types", "npm:15.7.2"],
@@ -4934,7 +4934,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/reach__router", "npm:1.3.7"],
             ["@types/react", null],
             ["@types/react-dom", null],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["fast-deep-equal", "npm:3.1.3"],
             ["global", "npm:4.4.0"],
             ["lodash", "npm:4.17.20"],
@@ -4961,7 +4961,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/reach__router", "npm:1.3.7"],
             ["@types/react", null],
             ["@types/react-dom", null],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["fast-deep-equal", "npm:3.1.3"],
             ["global", "npm:4.4.0"],
             ["lodash", "npm:4.17.20"],
@@ -4985,7 +4985,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@storybook-semver-npm-7.3.2-c0a4c6e253-255e5a29c8.zip/node_modules/@storybook/semver/",
           "packageDependencies": [
             ["@storybook/semver", "npm:7.3.2"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["find-up", "npm:4.1.0"]
           ],
           "linkType": "HARD",
@@ -5009,7 +5009,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/client-logger", "npm:6.2.9"],
             ["@types/react", null],
             ["@types/react-dom", null],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["deep-object-diff", "npm:1.1.0"],
             ["emotion-theming", "virtual:29c2d8c48044bac3f3911ff955b8b18cd180e715bf7d4e62603a4aaa5ec4cabe7746ec1927490387620469211446cc5f6aadf12275aa566abf61916d953b9d66#npm:10.0.27"],
             ["global", "npm:4.4.0"],
@@ -5038,7 +5038,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/client-logger", "npm:6.2.9"],
             ["@types/react", null],
             ["@types/react-dom", null],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["deep-object-diff", "npm:1.1.0"],
             ["emotion-theming", "virtual:f8f801100d825367353da0298a808b5c77cb971a1279592f63a1f1295ce63454b132b4ffb8087a9417a1b3af37b9c6e9088cabc691214721b77c101cf9ed6a03#npm:10.0.27"],
             ["global", "npm:4.4.0"],
@@ -5084,7 +5084,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react", null],
             ["@types/react-dom", null],
             ["copy-to-clipboard", "npm:3.3.1"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["core-js-pure", "npm:3.10.0"],
             ["downshift", "virtual:332eea1278c6b5835afff6a57e7b8eafa68c2074f87f965c55b88c024193638a0ccc051bbc3a3e8f8c4d58d3916906e64a35cc34992dd50a0408a76d1de8bdca#npm:6.1.2"],
             ["emotion-theming", "virtual:29c2d8c48044bac3f3911ff955b8b18cd180e715bf7d4e62603a4aaa5ec4cabe7746ec1927490387620469211446cc5f6aadf12275aa566abf61916d953b9d66#npm:10.0.27"],
@@ -5130,7 +5130,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react", null],
             ["@types/react-dom", null],
             ["copy-to-clipboard", "npm:3.3.1"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["core-js-pure", "npm:3.10.0"],
             ["downshift", "virtual:8995e722047dca756a1bfbc288191881a87220f9801a0062e1043789d31a5587e35c82d70c0d4a1a0b32d23fa42d00004108c2b0a9389ebbaa916c34c4d4ef15#npm:6.1.2"],
             ["emotion-theming", "virtual:f8f801100d825367353da0298a808b5c77cb971a1279592f63a1f1295ce63454b132b4ffb8087a9417a1b3af37b9c6e9088cabc691214721b77c101cf9ed6a03#npm:10.0.27"],
@@ -5168,7 +5168,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["bootstrap-icons", "npm:1.4.1"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5183,7 +5183,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["boxicons", "npm:2.0.7"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5198,7 +5198,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["boxicons", "npm:2.0.7"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5213,7 +5213,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["boxicons", "npm:2.0.7"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5227,7 +5227,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["cryptocurrency-icons", "npm:0.17.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5242,7 +5242,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["entypo", "npm:2.2.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5257,7 +5257,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["entypo", "npm:2.2.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5272,7 +5272,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["eva-icons", "npm:1.1.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5287,7 +5287,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["eva-icons", "npm:1.1.3"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5302,7 +5302,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["evil-icons", "npm:1.10.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5319,7 +5319,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fortawesome/free-brands-svg-icons", "npm:5.15.3"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5335,7 +5335,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fortawesome/free-regular-svg-icons", "npm:5.15.3"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5351,7 +5351,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fortawesome/free-solid-svg-icons", "npm:5.15.3"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5365,7 +5365,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["feather-icons", "npm:4.28.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5381,7 +5381,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fluentui/svg-icons", "npm:1.1.122"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5396,7 +5396,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fluentui/svg-icons", "npm:1.1.122"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5411,7 +5411,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@icon/foundation-icons", "npm:3.0.0"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5425,7 +5425,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["heroicons", "npm:1.0.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5440,7 +5440,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["heroicons", "npm:1.0.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5455,7 +5455,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["icomoon-free-npm", "npm:0.0.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5470,7 +5470,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["ionicons", "npm:5.5.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5485,7 +5485,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["ionicons", "npm:5.5.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5500,7 +5500,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["ionicons", "npm:5.5.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5515,7 +5515,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["material-design-icons-updated", "npm:7.0.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5530,7 +5530,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["material-design-icons-updated", "npm:7.0.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5545,7 +5545,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["material-design-icons-updated", "npm:7.0.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5560,7 +5560,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["material-design-icons-updated", "npm:7.0.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5575,7 +5575,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["material-design-icons-updated", "npm:7.0.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5591,7 +5591,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@primer/octicons", "npm:13.0.0"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -5605,7 +5605,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["open-iconic", "npm:1.1.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5634,7 +5634,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["remixicon", "npm:2.5.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5649,7 +5649,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["remixicon", "npm:2.5.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5664,7 +5664,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["remixicon", "npm:2.5.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5679,7 +5679,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["simple-icons", "npm:4.23.0"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -5694,7 +5694,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"],
             ["typicons.font", "npm:2.1.1"]
           ],
@@ -5709,7 +5709,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"],
             ["zondicons", "npm:1.2.0"]
           ],
@@ -8832,10 +8832,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["core-js", [
-        ["npm:3.10.0", {
-          "packageLocation": "./.yarn/cache/core-js-npm-3.10.0-2088bcb2de-d8bb20f7da.zip/node_modules/core-js/",
+        ["npm:3.12.1", {
+          "packageLocation": "./.yarn/cache/core-js-npm-3.12.1-6d1063bc86-8b1d05579e.zip/node_modules/core-js/",
           "packageDependencies": [
-            ["core-js", "npm:3.10.0"]
+            ["core-js", "npm:3.12.1"]
           ],
           "linkType": "HARD",
         }]
@@ -10888,7 +10888,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["feather-icons", "npm:4.28.0"],
             ["classnames", "npm:2.2.6"],
-            ["core-js", "npm:3.10.0"]
+            ["core-js", "npm:3.12.1"]
           ],
           "linkType": "HARD",
         }]
@@ -13460,7 +13460,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["lazy-universal-dotenv", "npm:3.0.1"],
             ["@babel/runtime", "npm:7.13.10"],
             ["app-root-dir", "npm:1.0.2"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["dotenv", "npm:8.2.0"],
             ["dotenv-expand", "npm:5.1.0"]
           ],
@@ -17322,7 +17322,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@yarnpkg/pnpify", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.4.0"],
             ["babel-loader", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:8.2.2"],
             ["chromatic", "npm:5.8.0"],
-            ["core-js", "npm:3.10.0"],
+            ["core-js", "npm:3.12.1"],
             ["dotenv", "npm:8.2.0"],
             ["prettier", "npm:2.2.1"],
             ["react", "npm:17.0.2"],
