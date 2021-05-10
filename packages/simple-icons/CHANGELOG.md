@@ -1,5 +1,11 @@
 # @svg-icons/simple-icons
 
+## 1.52.0
+
+### Minor Changes
+
+- [#396](https://github.com/svg-icons/svg-icons/pull/396): Bump simple-icons from 4.22.0 to 4.23.0 ([`731eee6`](https://github.com/svg-icons/svg-icons/commit/731eee67e2ad1902d43f30fea213786b6a048bde), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.51.0
 
 ### Minor Changes
