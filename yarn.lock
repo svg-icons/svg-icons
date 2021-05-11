@@ -2883,7 +2883,7 @@ __metadata:
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
-    cryptocurrency-icons: 0.17.1
+    cryptocurrency-icons: 0.17.2
     tiny-glob: ^0.2.8
   languageName: unknown
   linkType: soft
@@ -6160,10 +6160,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cryptocurrency-icons@npm:0.17.1":
-  version: 0.17.1
-  resolution: "cryptocurrency-icons@npm:0.17.1"
-  checksum: 253cdc14e482ec8d39ca1603146884d10efc0ba1e253b626e829c596cbd3f90a7861424cce6cc704a13cda433e6fe384eca3524a4610343474471e3436880022
+"cryptocurrency-icons@npm:0.17.2":
+  version: 0.17.2
+  resolution: "cryptocurrency-icons@npm:0.17.2"
+  checksum: 83dd757c0d4e093425a16497b269d5fac91ca7e9d048dee77ff4c71a689277ebd05ec3a91784e549d45f557be3a608f3aa40b20f3ab08e21ccdf4bdbe978dd4f
   languageName: node
   linkType: hard
 
