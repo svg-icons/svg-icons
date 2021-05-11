@@ -5228,7 +5228,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["core-js", "npm:3.12.1"],
-            ["cryptocurrency-icons", "npm:0.17.1"],
+            ["cryptocurrency-icons", "npm:0.17.2"],
             ["tiny-glob", "npm:0.2.8"]
           ],
           "linkType": "SOFT",
@@ -9077,10 +9077,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["cryptocurrency-icons", [
-        ["npm:0.17.1", {
-          "packageLocation": "./.yarn/cache/cryptocurrency-icons-npm-0.17.1-d6d8d9713a-253cdc14e4.zip/node_modules/cryptocurrency-icons/",
+        ["npm:0.17.2", {
+          "packageLocation": "./.yarn/cache/cryptocurrency-icons-npm-0.17.2-f5b1d40c93-83dd757c0d.zip/node_modules/cryptocurrency-icons/",
           "packageDependencies": [
-            ["cryptocurrency-icons", "npm:0.17.1"]
+            ["cryptocurrency-icons", "npm:0.17.2"]
           ],
           "linkType": "HARD",
         }]
