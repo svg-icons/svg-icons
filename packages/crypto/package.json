@@ -29,7 +29,7 @@
     "@storybook/html": "^6.2.9",
     "@svg-icons/pack-builder": "^1.1.0",
     "core-js": "^3.12.1",
-    "cryptocurrency-icons": "0.17.1",
+    "cryptocurrency-icons": "0.17.2",
     "tiny-glob": "^0.2.8"
   }
 }
