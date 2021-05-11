@@ -6846,6 +6846,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"dotenv@npm:^9.0.2":
+  version: 9.0.2
+  resolution: "dotenv@npm:9.0.2"
+  checksum: 062a31a2fd024a8a7efee4f2d3972d488a1485e0545b97ab3c338f59f17689a2ae84b6e8ddb9ebca2902cc9b4926e7b672a476f5e326c6902648312fc3da54d9
+  languageName: node
+  linkType: hard
+
 "downshift@npm:^6.0.15":
   version: 6.1.2
   resolution: "downshift@npm:6.1.2"
@@ -12980,7 +12987,7 @@ fsevents@~2.3.1:
     babel-loader: ^8.2.2
     chromatic: ^5.8.0
     core-js: ^3.12.1
-    dotenv: ^8.2.0
+    dotenv: ^9.0.2
     prettier: ^2.2.1
     react: ^17.0.2
     react-dom: ^17.0.2
