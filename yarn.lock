@@ -2830,7 +2830,7 @@ __metadata:
     "@babel/core": ^7.13.14
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
-    bootstrap-icons: 1.4.1
+    bootstrap-icons: 1.5.0
     core-js: ^3.12.1
     tiny-glob: ^0.2.8
   languageName: unknown
@@ -4923,10 +4923,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bootstrap-icons@npm:1.4.1":
-  version: 1.4.1
-  resolution: "bootstrap-icons@npm:1.4.1"
-  checksum: 1fcbc8230772bb5bc58722de971045ed0271e605f22270ac7dc1b05bef845bd94d5e08837e5ca95a67f68f4eaeb9a58e53170018ca0314f352ca8ab709948fb9
+"bootstrap-icons@npm:1.5.0":
+  version: 1.5.0
+  resolution: "bootstrap-icons@npm:1.5.0"
+  checksum: c5c444ab07d8d1ae07f24a2e6dcd842cb6d9a39882da3d848f48f19dd6629bdc4eaea81f55ff7297a59a817b2bd3098b0434cc50415ef3a2e7e939a59c2133ce
   languageName: node
   linkType: hard
 
