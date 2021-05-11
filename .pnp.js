@@ -5167,7 +5167,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", "npm:7.13.14"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
-            ["bootstrap-icons", "npm:1.4.1"],
+            ["bootstrap-icons", "npm:1.5.0"],
             ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"]
           ],
@@ -7696,10 +7696,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["bootstrap-icons", [
-        ["npm:1.4.1", {
-          "packageLocation": "./.yarn/cache/bootstrap-icons-npm-1.4.1-d9ad202d3b-1fcbc82307.zip/node_modules/bootstrap-icons/",
+        ["npm:1.5.0", {
+          "packageLocation": "./.yarn/cache/bootstrap-icons-npm-1.5.0-6243e15a8c-c5c444ab07.zip/node_modules/bootstrap-icons/",
           "packageDependencies": [
-            ["bootstrap-icons", "npm:1.4.1"]
+            ["bootstrap-icons", "npm:1.5.0"]
           ],
           "linkType": "HARD",
         }]
