@@ -5696,7 +5696,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["core-js", "npm:3.12.1"],
             ["tiny-glob", "npm:0.2.8"],
-            ["typicons.font", "npm:2.1.1"]
+            ["typicons.font", "npm:2.1.2"]
           ],
           "linkType": "SOFT",
         }]
@@ -19089,10 +19089,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["typicons.font", [
-        ["npm:2.1.1", {
-          "packageLocation": "./.yarn/cache/typicons.font-npm-2.1.1-1b0556688f-cf8b036329.zip/node_modules/typicons.font/",
+        ["npm:2.1.2", {
+          "packageLocation": "./.yarn/cache/typicons.font-npm-2.1.2-ee0f8145a5-dae3ac992d.zip/node_modules/typicons.font/",
           "packageDependencies": [
-            ["typicons.font", "npm:2.1.1"]
+            ["typicons.font", "npm:2.1.2"]
           ],
           "linkType": "HARD",
         }]

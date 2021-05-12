@@ -3292,7 +3292,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     tiny-glob: ^0.2.8
-    typicons.font: 2.1.1
+    typicons.font: 2.1.2
   languageName: unknown
   linkType: soft
 
@@ -14559,10 +14559,10 @@ typescript@^4.2.4:
   languageName: node
   linkType: hard
 
-"typicons.font@npm:2.1.1":
-  version: 2.1.1
-  resolution: "typicons.font@npm:2.1.1"
-  checksum: cf8b036329fe779409aa577a1697b5c0eadc7dd8025cf815488381e8a3909517b89977138764507ce42e46876b13522a10daab96c9624f07cd6ac2d5a0bd9931
+"typicons.font@npm:2.1.2":
+  version: 2.1.2
+  resolution: "typicons.font@npm:2.1.2"
+  checksum: dae3ac992dcd228590cd19870e1e00077e315d026165e5c8a56c58710eb5395eb882828f08b9b94e638c1c0623bac73784b312df42e3903a973c8196fd2ed398
   languageName: node
   linkType: hard
 
