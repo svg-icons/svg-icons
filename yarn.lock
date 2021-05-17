@@ -1796,10 +1796,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fluentui/svg-icons@npm:^1.1.123":
-  version: 1.1.123
-  resolution: "@fluentui/svg-icons@npm:1.1.123"
-  checksum: caf83dbc1a30cbc041527fc4cad93b6da47ec8bf9f38aee2da69082c93438e93ecd9047c6979616bae4db1860369e5dd060281ece5d432780149061a904460bb
+"@fluentui/svg-icons@npm:^1.1.124":
+  version: 1.1.124
+  resolution: "@fluentui/svg-icons@npm:1.1.124"
+  checksum: 8e4fb02ac6df9d80858500cc5d01417aa15186d2132a0235c0fabb9c83e3d4915a9fb9328e1f321f6db762eeb15af9c9d97bf1f86ed1f6b57311ad9b7da0a03f
   languageName: node
   linkType: hard
 
@@ -3012,7 +3012,7 @@ __metadata:
   resolution: "@svg-icons/fluentui-system-filled@workspace:packages/fluentui-system-filled"
   dependencies:
     "@babel/core": ^7.14.2
-    "@fluentui/svg-icons": ^1.1.123
+    "@fluentui/svg-icons": ^1.1.124
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3025,7 +3025,7 @@ __metadata:
   resolution: "@svg-icons/fluentui-system-regular@workspace:packages/fluentui-system-regular"
   dependencies:
     "@babel/core": ^7.14.2
-    "@fluentui/svg-icons": ^1.1.123
+    "@fluentui/svg-icons": ^1.1.124
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
