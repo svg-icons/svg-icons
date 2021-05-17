@@ -2831,7 +2831,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     bootstrap-icons: 1.5.0
     core-js: ^3.12.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -2844,7 +2844,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     boxicons: 2.0.7
     core-js: ^3.12.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -2857,7 +2857,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     boxicons: 2.0.7
     core-js: ^3.12.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -2870,7 +2870,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     boxicons: 2.0.7
     core-js: ^3.12.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -2883,7 +2883,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     cryptocurrency-icons: 0.17.2
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -2896,7 +2896,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     entypo: 2.2.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -2909,7 +2909,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     entypo: 2.2.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -2922,7 +2922,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     eva-icons: 1.1.3
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -2935,7 +2935,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     eva-icons: 1.1.3
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -2948,7 +2948,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     evil-icons: 1.10.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -2962,7 +2962,7 @@ __metadata:
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -2976,7 +2976,7 @@ __metadata:
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -2990,7 +2990,7 @@ __metadata:
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3003,7 +3003,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     feather-icons: 4.28.0
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3016,7 +3016,7 @@ __metadata:
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3029,7 +3029,7 @@ __metadata:
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3042,7 +3042,7 @@ __metadata:
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3055,7 +3055,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     heroicons: 1.0.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3068,7 +3068,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     heroicons: 1.0.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3081,7 +3081,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     icomoon-free-npm: 0.0.0
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3094,7 +3094,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     ionicons: 5.5.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3107,7 +3107,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     ionicons: 5.5.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3120,7 +3120,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     ionicons: 5.5.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3133,7 +3133,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     material-design-icons-updated: 7.0.0
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3146,7 +3146,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     material-design-icons-updated: 7.0.0
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3159,7 +3159,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     material-design-icons-updated: 7.0.0
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3172,7 +3172,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     material-design-icons-updated: 7.0.0
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3185,7 +3185,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     material-design-icons-updated: 7.0.0
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3198,7 +3198,7 @@ __metadata:
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3211,7 +3211,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     open-iconic: ^1.1.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3222,7 +3222,7 @@ __metadata:
     fs-extra: ^10.0.0
     svg-parser: ^2.0.4
     svgo: ^2.3.0
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
     typescript: ^4.2.4
   bin:
     build-pack: ./build-pack.js
@@ -3239,7 +3239,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     remixicon: 2.5.0
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3252,7 +3252,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     remixicon: 2.5.0
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3265,7 +3265,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     remixicon: 2.5.0
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3278,7 +3278,7 @@ __metadata:
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
     simple-icons: 4.24.0
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
 
@@ -3290,7 +3290,7 @@ __metadata:
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
     typicons.font: 2.1.2
   languageName: unknown
   linkType: soft
@@ -3303,7 +3303,7 @@ __metadata:
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
     zondicons: ^1.2.0
   languageName: unknown
   linkType: soft
@@ -12990,7 +12990,7 @@ fsevents@~2.3.1:
     prettier: ^2.2.1
     react: ^17.0.2
     react-dom: ^17.0.2
-    tiny-glob: ^0.2.8
+    tiny-glob: ^0.2.9
     ts-node: ^9.1.1
     typescript: ^4.2.4
   languageName: unknown
@@ -14206,13 +14206,13 @@ fsevents@~2.3.1:
   languageName: node
   linkType: hard
 
-"tiny-glob@npm:^0.2.8":
-  version: 0.2.8
-  resolution: "tiny-glob@npm:0.2.8"
+"tiny-glob@npm:^0.2.9":
+  version: 0.2.9
+  resolution: "tiny-glob@npm:0.2.9"
   dependencies:
     globalyzer: 0.1.0
     globrex: ^0.1.2
-  checksum: 85bf5cb2254f3c85ee15bc1b5e2dad17e2ca3c9ebcd94dc0847820308f2c5ab89bcf60d7b395fe430519608da2e4bd464a967807112abaa50aa54a6375fc7584
+  checksum: 9b6fdbae5e2ebb12036aae2c7f1a7bcd0d020847d48d4793fcdf761d38f6bd955f948fa7febabb2c87c8f0bed92c5beb78d9474a0ddcf7c93a8eae70dd328662
   languageName: node
   linkType: hard
 
