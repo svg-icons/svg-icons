@@ -31,6 +31,6 @@
     "@storybook/html": "^6.2.9",
     "@svg-icons/pack-builder": "^1.1.0",
     "core-js": "^3.12.1",
-    "tiny-glob": "^0.2.8"
+    "tiny-glob": "^0.2.9"
   }
 }
