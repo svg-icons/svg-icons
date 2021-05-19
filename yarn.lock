@@ -5501,9 +5501,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chromatic@npm:^5.8.0":
-  version: 5.8.0
-  resolution: "chromatic@npm:5.8.0"
+"chromatic@npm:^5.8.1":
+  version: 5.8.1
+  resolution: "chromatic@npm:5.8.1"
   dependencies:
     "@actions/core": ^1.2.4
     "@actions/github": ^4.0.0
@@ -5545,7 +5545,7 @@ __metadata:
     chroma: bin/register.js
     chromatic: bin/register.js
     chromatic-cli: bin/register.js
-  checksum: 28d1dd528465be098c738679673f4ad3a8ac3cf88e90787c9b3f009e690085a4bc94df3c278828d7be1ad68e3b0b44cf039c4d2340cf42a338dfbdbbe3c2fb99
+  checksum: baa732d0cc7f8545964141d4bfd76b2ac7bd25a1b36542b380fd30419e33dd24170530defeee14a3b1fc7183eca9a2da8a00f8858c261fec5c24c47e8d7483b5
   languageName: node
   linkType: hard
 
@@ -12984,7 +12984,7 @@ fsevents@~2.3.1:
     "@types/node": ^14.14.37
     "@yarnpkg/pnpify": ^2.4.0
     babel-loader: ^8.2.2
-    chromatic: ^5.8.0
+    chromatic: ^5.8.1
     core-js: ^3.12.1
     dotenv: ^9.0.2
     prettier: ^2.2.1
