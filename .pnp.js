@@ -233,7 +233,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:14.14.37"],
             ["@yarnpkg/pnpify", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.4.0"],
             ["babel-loader", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:8.2.2"],
-            ["chromatic", "npm:5.8.2"],
+            ["chromatic", "npm:5.8.3"],
             ["core-js", "npm:3.12.1"],
             ["dotenv", "npm:9.0.2"],
             ["prettier", "npm:2.2.1"],
@@ -8313,10 +8313,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["chromatic", [
-        ["npm:5.8.2", {
-          "packageLocation": "./.yarn/cache/chromatic-npm-5.8.2-8671ed7455-75f066cce0.zip/node_modules/chromatic/",
+        ["npm:5.8.3", {
+          "packageLocation": "./.yarn/cache/chromatic-npm-5.8.3-260a5dc83e-b0332feb54.zip/node_modules/chromatic/",
           "packageDependencies": [
-            ["chromatic", "npm:5.8.2"],
+            ["chromatic", "npm:5.8.3"],
             ["@actions/core", "npm:1.2.6"],
             ["@actions/github", "npm:4.0.0"],
             ["@babel/runtime", "npm:7.13.10"],
@@ -17327,7 +17327,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:14.14.37"],
             ["@yarnpkg/pnpify", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:2.4.0"],
             ["babel-loader", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:8.2.2"],
-            ["chromatic", "npm:5.8.2"],
+            ["chromatic", "npm:5.8.3"],
             ["core-js", "npm:3.12.1"],
             ["dotenv", "npm:9.0.2"],
             ["prettier", "npm:2.2.1"],
