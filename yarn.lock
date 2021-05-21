@@ -67,16 +67,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/core@npm:7.14.2, @babel/core@npm:^7.12.10, @babel/core@npm:^7.14.2, @babel/core@npm:^7.7.5":
-  version: 7.14.2
-  resolution: "@babel/core@npm:7.14.2"
+"@babel/core@npm:7.14.3, @babel/core@npm:^7.12.10, @babel/core@npm:^7.14.3, @babel/core@npm:^7.7.5":
+  version: 7.14.3
+  resolution: "@babel/core@npm:7.14.3"
   dependencies:
     "@babel/code-frame": ^7.12.13
-    "@babel/generator": ^7.14.2
+    "@babel/generator": ^7.14.3
     "@babel/helper-compilation-targets": ^7.13.16
     "@babel/helper-module-transforms": ^7.14.2
     "@babel/helpers": ^7.14.0
-    "@babel/parser": ^7.14.2
+    "@babel/parser": ^7.14.3
     "@babel/template": ^7.12.13
     "@babel/traverse": ^7.14.2
     "@babel/types": ^7.14.2
@@ -86,18 +86,18 @@ __metadata:
     json5: ^2.1.2
     semver: ^6.3.0
     source-map: ^0.5.0
-  checksum: 16dc0a52484da794afc69ac7f13721b7cf2f7e17db6467a36f19fef24fa59a8cea1524faa260d0c05f5a99836fb65acf076cf15abf6846fc66f6c142a94a8327
+  checksum: 4bc2d1abf53e8d1399d5fe159f4f6d275feb64cdfb3a975e903edcbbd98b71ba4a216af28f43db0a5303691a291590837964934acaf673b024563f3acad919f6
   languageName: node
   linkType: hard
 
-"@babel/generator@npm:^7.14.2":
-  version: 7.14.2
-  resolution: "@babel/generator@npm:7.14.2"
+"@babel/generator@npm:^7.14.2, @babel/generator@npm:^7.14.3":
+  version: 7.14.3
+  resolution: "@babel/generator@npm:7.14.3"
   dependencies:
     "@babel/types": ^7.14.2
     jsesc: ^2.5.1
     source-map: ^0.5.0
-  checksum: eacc93d3446dec6fac064cd884ac6e2ecbcfed65f8de069da72855a8124d33004a9dc9f06833e18fae2e352929c493b46035785f948549d2e9d503af0bef8a79
+  checksum: 519fce36f3663dd346522d50d13b8549c02c0a340650c62db1bee0595a47f910b433f3bbdb513cc582bd932c5045b2673c8ef6a97913f9335fb16aa06085f274
   languageName: node
   linkType: hard
 
@@ -366,12 +366,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/parser@npm:^7.12.13, @babel/parser@npm:^7.14.2":
-  version: 7.14.2
-  resolution: "@babel/parser@npm:7.14.2"
+"@babel/parser@npm:^7.12.13, @babel/parser@npm:^7.14.2, @babel/parser@npm:^7.14.3":
+  version: 7.14.3
+  resolution: "@babel/parser@npm:7.14.3"
   bin:
     parser: ./bin/babel-parser.js
-  checksum: 18dffc18a2c15f8877988c9b5a46c87f1763e8a383c3210c9b5b651955b1ac46dc54da27acc09acd7fb917f37e0bd92b8985dc4c9d7f1e750dfccbcea730aa0e
+  checksum: 5e8d1b2bfc53b59c7476c32adee20c8a4d19fdab58b04b6b177d89319bd76526219dad2f6ab6f51a80a518d0cbcdc3980b73c18bde16017aeee2dd8a50687fe3
   languageName: node
   linkType: hard
 
@@ -2826,7 +2826,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/bootstrap@workspace:packages/bootstrap"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     bootstrap-icons: 1.5.0
@@ -2839,7 +2839,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/boxicons-logos@workspace:packages/boxicons-logos"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     boxicons: 2.0.7
@@ -2852,7 +2852,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/boxicons-regular@workspace:packages/boxicons-regular"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     boxicons: 2.0.7
@@ -2865,7 +2865,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/boxicons-solid@workspace:packages/boxicons-solid"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     boxicons: 2.0.7
@@ -2878,7 +2878,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/crypto@workspace:packages/crypto"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -2891,7 +2891,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/entypo-social@workspace:packages/entypo-social"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -2904,7 +2904,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/entypo@workspace:packages/entypo"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -2917,7 +2917,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/evaicons-outline@workspace:packages/evaicons-outline"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -2930,7 +2930,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/evaicons-solid@workspace:packages/evaicons-solid"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -2943,7 +2943,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/evil@workspace:packages/evil"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -2956,7 +2956,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fa-brands@workspace:packages/fa-brands"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@fortawesome/fontawesome-svg-core": 1.2.35
     "@fortawesome/free-brands-svg-icons": 5.15.3
     "@storybook/html": ^6.2.9
@@ -2970,7 +2970,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fa-regular@workspace:packages/fa-regular"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@fortawesome/fontawesome-svg-core": 1.2.35
     "@fortawesome/free-regular-svg-icons": 5.15.3
     "@storybook/html": ^6.2.9
@@ -2984,7 +2984,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fa-solid@workspace:packages/fa-solid"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@fortawesome/fontawesome-svg-core": 1.2.35
     "@fortawesome/free-solid-svg-icons": 5.15.3
     "@storybook/html": ^6.2.9
@@ -2998,7 +2998,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/feather@workspace:packages/feather"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3011,7 +3011,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fluentui-system-filled@workspace:packages/fluentui-system-filled"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@fluentui/svg-icons": ^1.1.124
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
@@ -3024,7 +3024,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/fluentui-system-regular@workspace:packages/fluentui-system-regular"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@fluentui/svg-icons": ^1.1.124
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
@@ -3037,7 +3037,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/foundation@workspace:packages/foundation"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@icon/foundation-icons": ^3.0.0
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
@@ -3050,7 +3050,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/heroicons-outline@workspace:packages/heroicons-outline"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3063,7 +3063,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/heroicons-solid@workspace:packages/heroicons-solid"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3076,7 +3076,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/icomoon@workspace:packages/icomoon"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3089,7 +3089,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/ionicons-outline@workspace:packages/ionicons-outline"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3102,7 +3102,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/ionicons-sharp@workspace:packages/ionicons-sharp"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3115,7 +3115,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/ionicons-solid@workspace:packages/ionicons-solid"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3128,7 +3128,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-filled@workspace:packages/material-filled"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3141,7 +3141,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-outlined@workspace:packages/material-outlined"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3154,7 +3154,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-rounded@workspace:packages/material-rounded"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3167,7 +3167,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-sharp@workspace:packages/material-sharp"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3180,7 +3180,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/material-twotone@workspace:packages/material-twotone"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3193,7 +3193,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/octicons@workspace:packages/octicons"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@primer/octicons": 14.1.0
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
@@ -3206,7 +3206,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/open-iconic@workspace:packages/open-iconic"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3234,7 +3234,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/remix-editor@workspace:packages/remix-editor"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3247,7 +3247,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/remix-fill@workspace:packages/remix-fill"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3260,7 +3260,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/remix-line@workspace:packages/remix-line"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3273,7 +3273,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/simple-icons@workspace:packages/simple-icons"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3286,7 +3286,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/typicons@workspace:packages/typicons"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -3299,7 +3299,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@svg-icons/zondicons@workspace:packages/zondicons"
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
@@ -12973,7 +12973,7 @@ fsevents@~2.3.1:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@babel/core": ^7.14.2
+    "@babel/core": ^7.14.3
     "@changesets/changelog-github": ^0.4.0
     "@changesets/cli": ^2.16.0
     "@changesets/get-github-info": ^0.5.0
