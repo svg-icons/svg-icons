@@ -3183,10 +3183,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@fluentui/svg-icons", [
-        ["npm:1.1.124", {
-          "packageLocation": "./.yarn/cache/@fluentui-svg-icons-npm-1.1.124-1e66df6d0a-8e4fb02ac6.zip/node_modules/@fluentui/svg-icons/",
+        ["npm:1.1.127", {
+          "packageLocation": "./.yarn/cache/@fluentui-svg-icons-npm-1.1.127-8d2143ec2c-3838418c0a.zip/node_modules/@fluentui/svg-icons/",
           "packageDependencies": [
-            ["@fluentui/svg-icons", "npm:1.1.124"]
+            ["@fluentui/svg-icons", "npm:1.1.127"]
           ],
           "linkType": "HARD",
         }]
@@ -5377,7 +5377,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@svg-icons/fluentui-system-filled", "workspace:packages/fluentui-system-filled"],
             ["@babel/core", "npm:7.14.3"],
-            ["@fluentui/svg-icons", "npm:1.1.124"],
+            ["@fluentui/svg-icons", "npm:1.1.127"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["core-js", "npm:3.12.1"],
@@ -5392,7 +5392,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@svg-icons/fluentui-system-regular", "workspace:packages/fluentui-system-regular"],
             ["@babel/core", "npm:7.14.3"],
-            ["@fluentui/svg-icons", "npm:1.1.124"],
+            ["@fluentui/svg-icons", "npm:1.1.127"],
             ["@storybook/html", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:6.2.9"],
             ["@svg-icons/pack-builder", "workspace:tools/builder"],
             ["core-js", "npm:3.12.1"],
