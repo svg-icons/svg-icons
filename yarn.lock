@@ -3277,7 +3277,7 @@ __metadata:
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
-    simple-icons: 4.24.0
+    simple-icons: 5.0.0
     tiny-glob: ^0.2.9
   languageName: unknown
   linkType: soft
@@ -13360,10 +13360,10 @@ fsevents@~2.3.1:
   languageName: node
   linkType: hard
 
-"simple-icons@npm:4.24.0":
-  version: 4.24.0
-  resolution: "simple-icons@npm:4.24.0"
-  checksum: 2f8350f418d052291ed43042608c65b0044cf773b0ff6d96c572e673a932dc169dd121766124eec665a5e553ddd270652e0dbf1714ff70bc63b1ed77d890f693
+"simple-icons@npm:5.0.0":
+  version: 5.0.0
+  resolution: "simple-icons@npm:5.0.0"
+  checksum: df09ff98578d95a3d428b2693f0c51cf31e01c50e9fad5b878570e84e9a738d4841deb4ae47c7f34ee481ded95645de40014e8ee65f7ed1914548288e8608775
   languageName: node
   linkType: hard
 
