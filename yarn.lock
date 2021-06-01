@@ -2153,12 +2153,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@primer/octicons@npm:14.1.0":
-  version: 14.1.0
-  resolution: "@primer/octicons@npm:14.1.0"
+"@primer/octicons@npm:14.2.1":
+  version: 14.2.1
+  resolution: "@primer/octicons@npm:14.2.1"
   dependencies:
     object-assign: ^4.1.1
-  checksum: f44e5983a66f123e8ab179ac8cdcaf319a8dcadd2d724014f2c5970b47cdc0e0b6de58514b0891b91e65d04063f48b7c9245b6c450780d0773429067b6a1ff47
+  checksum: 82cbd3be495a6309f89580db469d25949c0aa9ebf2529389db00830ae56b6ad6007162543e83252f003f8af77673873b081d4b813a9d5d170987c08e37aa9757
   languageName: node
   linkType: hard
 
@@ -3194,7 +3194,7 @@ __metadata:
   resolution: "@svg-icons/octicons@workspace:packages/octicons"
   dependencies:
     "@babel/core": ^7.14.3
-    "@primer/octicons": 14.1.0
+    "@primer/octicons": 14.2.1
     "@storybook/html": ^6.2.9
     "@svg-icons/pack-builder": ^1.1.0
     core-js: ^3.12.1
