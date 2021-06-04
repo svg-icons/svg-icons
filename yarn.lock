@@ -4133,6 +4133,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"agent-base@npm:6":
+  version: 6.0.2
+  resolution: "agent-base@npm:6.0.2"
+  dependencies:
+    debug: 4
+  checksum: e77eff83e1308883118c7b6a866974dd4ef6be32ef7c91625d5337b13addb5699075c338942f5ecf598d7e5d179b81bf9c9fc644dfb9ca2db0facd9e6bf1238d
+  languageName: node
+  linkType: hard
+
 "aggregate-error@npm:^3.0.0":
   version: 3.1.0
   resolution: "aggregate-error@npm:3.1.0"
@@ -5529,9 +5538,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chromatic@npm:^5.8.3":
-  version: 5.8.3
-  resolution: "chromatic@npm:5.8.3"
+"chromatic@npm:^5.9.0":
+  version: 5.9.0
+  resolution: "chromatic@npm:5.9.0"
   dependencies:
     "@actions/core": ^1.2.4
     "@actions/github": ^4.0.0
@@ -5547,6 +5556,7 @@ __metadata:
     execa: ^5.0.0
     fake-tag: ^2.0.0
     fs-extra: ^9.1.0
+    https-proxy-agent: ^5.0.0
     jsonfile: ^6.0.1
     junit-report-builder: 2.1.0
     listr: 0.14.3
@@ -5573,7 +5583,7 @@ __metadata:
     chroma: bin/register.js
     chromatic: bin/register.js
     chromatic-cli: bin/register.js
-  checksum: b0332feb54730b703745200585d2e3a3a370f02eef175f7496ae79ef8de174088ecbdab90f1f74e0943e78155e8ce004926ca5e3d126a8ccc0a25a59446029ba
+  checksum: d6ecd218b344d32547a1049010cec5f1dd63063c8dff88ed4bd7e3f04cc035207ce6ce52c15528b72b86c7f0955f7966df7dd8685d04dcdf49e0b121d213da3d
   languageName: node
   linkType: hard
 
@@ -6394,24 +6404,24 @@ __metadata:
   languageName: node
   linkType: hard
 
+"debug@npm:4, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.1":
+  version: 4.3.2
+  resolution: "debug@npm:4.3.2"
+  dependencies:
+    ms: 2.1.2
+  peerDependenciesMeta:
+    supports-color:
+      optional: true
+  checksum: 5543570879e2274f6725d4285a034d6e0822d35faefc6f55965933fb440e8c21eb3a0bef934e66f4b6b491f898ee2de37cab980e9d4fd61372136c19d3ce4527
+  languageName: node
+  linkType: hard
+
 "debug@npm:^3.0.0, debug@npm:^3.0.1":
   version: 3.2.7
   resolution: "debug@npm:3.2.7"
   dependencies:
     ms: ^2.1.1
   checksum: 9fc1277e666db3af31df89e9e41f5c83da6e9de56d4a95b37e095d47ba1958238b8c7b49d4327b516465d46b6340bee723a97a7b2f28c5c7563f8b0a8fc9458a
-  languageName: node
-  linkType: hard
-
-"debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.1":
-  version: 4.3.1
-  resolution: "debug@npm:4.3.1"
-  dependencies:
-    ms: 2.1.2
-  peerDependenciesMeta:
-    supports-color:
-      optional: true
-  checksum: 0d41ba5177510e8b388dfd7df143ab0f9312e4abdaba312595461511dac88e9ef8101939d33b4e6d37e10341af6a5301082e4d7d6f3deb4d57bc05fc7d296fad
   languageName: node
   linkType: hard
 
@@ -8891,6 +8901,16 @@ fsevents@~2.3.1:
   version: 1.0.0
   resolution: "https-browserify@npm:1.0.0"
   checksum: 9746a4ef0283691774f207039efed38e31e86732ed15bcebf1878e2e7cf4b87e8a4e5fe3cce342caba9545ce0e7e2bcf44fe08edb52284b1b53bfe026e1e8f07
+  languageName: node
+  linkType: hard
+
+"https-proxy-agent@npm:^5.0.0":
+  version: 5.0.0
+  resolution: "https-proxy-agent@npm:5.0.0"
+  dependencies:
+    agent-base: 6
+    debug: 4
+  checksum: 18aa04ea08cc069fa0c83d03475d1bc43e13bfa43d5cffc0c3a07430f755e1ac914049570302775adac82aa5a779643ef2c6c270c057d7a8523a7f6f46b4866a
   languageName: node
   linkType: hard
 
@@ -13012,7 +13032,7 @@ fsevents@~2.3.1:
     "@types/node": ^14.14.37
     "@yarnpkg/pnpify": ^2.4.0
     babel-loader: ^8.2.2
-    chromatic: ^5.8.3
+    chromatic: ^5.9.0
     core-js: ^3.12.1
     dotenv: ^10.0.0
     prettier: ^2.2.1
