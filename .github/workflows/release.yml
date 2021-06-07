@@ -11,12 +11,24 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: false
-      - run: yarn install --immutable
+      - uses: actions/setup-node@v2.1.5
+        with:
+          node-version: '14'
+      - uses: actions/cache@v2
+        with:
+          path: ~/.pnpm-store
+          key: ${{ runner.os }}-pnpm-${{ hashFiles('**/package.json') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-
+      - uses: pnpm/action-setup@v2.0.1
+        with:
+          version: 6.6.2
+      - run: pnpm install --frozen-lockfile
       - uses: changesets/action@master
         if: github.ref == 'refs/heads/main' && github.repository == 'svg-icons/svg-icons'
         with:
-          publish: yarn release
-          version: yarn changeset version
+          publish: pnpm release
+          version: pnpm changeset version
         env:
           GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
           GITHUB_USERNAME: icon-bot

@@ -1,9 +1,8 @@
 .changeset
 .next
 .vscode
-.yarn
 build
 dist
 public
 node_modules
-.pnp.js
+pnpm-lock.yaml
