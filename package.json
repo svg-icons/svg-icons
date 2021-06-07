@@ -1,14 +1,10 @@
 {
   "private": true,
-  "workspaces": [
-    "packages/*",
-    "tools/*"
-  ],
   "scripts": {
-    "build": "yarn workspaces foreach -ptv run build",
+    "build": "pnpm run -r build",
     "build-storybook": "build-storybook -c .storybook -o .out",
     "test-visual": "chromatic",
-    "clean": "yarn workspaces foreach -p run clean",
+    "clean": "pnpm run -r clean",
     "fmt": "prettier --write './**/*.{ts,tsx,js,md,json}'",
     "fmt:check": "prettier --list-different './**/*.{ts,tsx,js,md,json}'",
     "release": "yarn build && yarn changeset publish",
@@ -24,7 +20,6 @@
     "@storybook/html": "^6.2.9",
     "@storybook/react": "^6.2.9",
     "@types/node": "^14.14.37",
-    "@yarnpkg/pnpify": "^2.4.0",
     "babel-loader": "^8.2.2",
     "chromatic": "^5.9.0",
     "core-js": "^3.12.1",
