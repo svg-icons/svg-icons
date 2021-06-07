@@ -2284,6 +2284,17 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
+  /@jest/types/26.6.2:
+    resolution: {integrity: sha512-fC6QCp7Sc5sX6g8Tvbmj4XUTbyrik0akgRy03yjXbQaBWWNWGE7SGtJk98m0N8nzegD/7SggrUlivxo5ax4KWQ==}
+    engines: {node: '>= 10.14.2'}
+    dependencies:
+      '@types/istanbul-lib-coverage': 2.0.3
+      '@types/istanbul-reports': 3.0.1
+      '@types/node': 14.17.2
+      '@types/yargs': 15.0.13
+      chalk: 4.1.1
+    dev: true
+
   /@manypkg/find-root/1.1.0:
     resolution: {integrity: sha512-mki5uBvhHzO8kYYix/WRy2WX8S3B5wdVSc9D6KcU5lQNglP2yt58/VfLuAK49glRXChosY8ap2oJ1qgma3GUVA==}
     dependencies:
@@ -2310,12 +2321,14 @@ packages:
       '@monorepolint/core': 0.5.0-alpha.53
       '@monorepolint/utils': 0.5.0-alpha.53
       chalk: 4.1.1
+      tslib: 2.2.0
       yargs: 15.4.1
     dev: true
 
   /@monorepolint/core/0.5.0-alpha.53:
     resolution: {integrity: sha512-pbXd1LOeWkPOWE/9Z+T/7QyZUhQ2DAvwgGnLcIil9jrRK3tMUgUW1tQUAQJ1PibbauWQkbsR0mvuSRBfIX7oMw==}
     dependencies:
+      '@monorepolint/rules': 0.5.0-alpha.53
       '@monorepolint/utils': 0.5.0-alpha.53
       camelcase: 6.2.0
       chalk: 4.1.1
@@ -2324,10 +2337,25 @@ packages:
       tslib: 2.2.0
     dev: true
 
+  /@monorepolint/rules/0.5.0-alpha.53:
+    resolution: {integrity: sha512-ktRM12Ta2B3SXiABHBxMdBuWCSuSDYJ+VxldzkynAQtmpdZnoIf70FkqaUD4F+La/NA0oX4FGTvff5bbbnbtWQ==}
+    dependencies:
+      '@monorepolint/core': 0.5.0-alpha.53
+      '@monorepolint/utils': 0.5.0-alpha.53
+      globby: 11.0.3
+      jest-diff: 26.6.2
+      minimatch: 3.0.4
+      resolve-package-path: 3.1.0
+      runtypes: 4.3.0
+      semver: 7.3.5
+      tslib: 2.2.0
+    dev: true
+
   /@monorepolint/utils/0.5.0-alpha.53:
     resolution: {integrity: sha512-ueqyFzY6rM4ZH+AboJyTthfe6hOFzn5/jfwCTlmR8u5z4xQIVpD7IE37t6BvcnYncTn2tjo0Qz6ZHV9AK5CvWQ==}
     dependencies:
       glob: 7.1.7
+      tslib: 2.2.0
     dev: true
 
   /@mrmlnc/readdir-enhanced/2.2.1:
@@ -4126,6 +4154,18 @@ packages:
     resolution: {integrity: sha512-sz7iLqvVUg1gIedBOvlkxPlc8/uVzyS5OwGz1cKjXzkl3FpL3al0crU8YGU1WoHkxn0Wxbw5tyi6hvzJKNzFsw==}
     dev: true
 
+  /@types/istanbul-lib-report/3.0.0:
+    resolution: {integrity: sha512-plGgXAPfVKFoYfa9NpYDAkseG+g6Jr294RqeqcqDixSbU34MZVJRi/P+7Y8GDpzkEwLaGZZOpKIEmeVZNtKsrg==}
+    dependencies:
+      '@types/istanbul-lib-coverage': 2.0.3
+    dev: true
+
+  /@types/istanbul-reports/3.0.1:
+    resolution: {integrity: sha512-c3mAZEuK0lvBp8tmuL74XRKn1+y2dcwOUpH7x4WrF6gk1GIgiluDRgMYQtw2OFcBvAJWlt6ASU3tSqxp0Uu0Aw==}
+    dependencies:
+      '@types/istanbul-lib-report': 3.0.0
+    dev: true
+
   /@types/json-schema/7.0.7:
     resolution: {integrity: sha512-cxWFQVseBm6O9Gbw1IWb8r6OS4OhSt3hPZLkFApLjM8TEXROBuQGLAH2i2gZpcXdLBIrpXuTDhH7Vbm1iXmNGA==}
     dev: true
@@ -4260,6 +4300,16 @@ packages:
       '@types/webpack-sources': 2.1.0
       anymatch: 3.1.2
       source-map: 0.6.1
+    dev: true
+
+  /@types/yargs-parser/20.2.0:
+    resolution: {integrity: sha512-37RSHht+gzzgYeobbG+KWryeAW8J33Nhr69cjTqSYymXVZEN9NbRYWoYlRtDhHKPVT1FyNKwaTPC1NynKZpzRA==}
+    dev: true
+
+  /@types/yargs/15.0.13:
+    resolution: {integrity: sha512-kQ5JNTrbDv3Rp5X2n/iUu37IJBDU2gsZ5R/g1/KHOOEc5IKfUFjXT6DENPGduh08I/pamwtEq4oul7gUqKTQDQ==}
+    dependencies:
+      '@types/yargs-parser': 20.2.0
     dev: true
 
   /@webassemblyjs/ast/1.9.0:
@@ -6302,6 +6352,11 @@ packages:
 
   /detect-touch-events/2.0.2:
     resolution: {integrity: sha512-g8GWBkJLiIDRJfRXEdrd1wMXpNyGId2DkbfuwFahSb4OCvn717hyRJtAcEDISfp3zkwEhZ4Y4woHPA6DeyB3Fw==}
+    dev: true
+
+  /diff-sequences/26.6.2:
+    resolution: {integrity: sha512-Mv/TDa3nZ9sbc5soK+OoA74BsS3mL37yixCvUAQkiuA4Wz6YtwP/K47n2rv2ovzHZvoiQeA5FTQOschKkEwB0Q==}
+    engines: {node: '>= 10.14.2'}
     dev: true
 
   /diff/4.0.2:
@@ -8499,6 +8554,21 @@ packages:
     engines: {node: '>= 0.6.0'}
     dev: true
 
+  /jest-diff/26.6.2:
+    resolution: {integrity: sha512-6m+9Z3Gv9wN0WFVasqjCL/06+EFCMTqDEUl/b87HYK2rAPTyfz4ZIuSlPhY51PIQRWx5TaxeF1qmXKe9gfN3sA==}
+    engines: {node: '>= 10.14.2'}
+    dependencies:
+      chalk: 4.1.1
+      diff-sequences: 26.6.2
+      jest-get-type: 26.3.0
+      pretty-format: 26.6.2
+    dev: true
+
+  /jest-get-type/26.3.0:
+    resolution: {integrity: sha512-TpfaviN1R2pQWkIihlfEanwOXK0zcxrKEE4MlU6Tn7keoXdN6/3gK/xl0yEh8DOunn5pOVGKf8hB4R9gVh04ig==}
+    engines: {node: '>= 10.14.2'}
+    dev: true
+
   /jest-worker/26.6.2:
     resolution: {integrity: sha512-KWYVV1c4i+jbMpaBC+U++4Va0cp8OisU185o73T1vo99hqi7w8tSJfUXYswwqqrjzwxa6KpRK54WhPvwf5w6PQ==}
     engines: {node: '>= 10.13.0'}
@@ -9841,6 +9911,18 @@ packages:
     resolution: {integrity: sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==}
     dev: true
 
+  /path-root-regex/0.1.2:
+    resolution: {integrity: sha1-v8zcjfWxLcUsi0PsONGNcsBLqW0=}
+    engines: {node: '>=0.10.0'}
+    dev: true
+
+  /path-root/0.1.1:
+    resolution: {integrity: sha1-mkpoFMrBwM1zNgqV8yCDyOpHRbc=}
+    engines: {node: '>=0.10.0'}
+    dependencies:
+      path-root-regex: 0.1.2
+    dev: true
+
   /path-to-regexp/0.1.7:
     resolution: {integrity: sha1-32BBeABfUi8V60SQ5yR6G/qmf4w=}
     dev: true
@@ -10075,6 +10157,16 @@ packages:
     dependencies:
       lodash: 4.17.21
       renderkid: 2.0.5
+    dev: true
+
+  /pretty-format/26.6.2:
+    resolution: {integrity: sha512-7AeGuCYNGmycyQbCqd/3PWH4eOoX/OiCa0uphp57NVTeAGdJGaAliecxwBDHYQCIvrW7aDBZCYeNTP/WX69mkg==}
+    engines: {node: '>= 10'}
+    dependencies:
+      '@jest/types': 26.6.2
+      ansi-regex: 5.0.0
+      ansi-styles: 4.3.0
+      react-is: 17.0.2
     dev: true
 
   /pretty-hrtime/1.0.3:
@@ -10912,6 +11004,14 @@ packages:
   /resolve-from/5.0.0:
     resolution: {integrity: sha512-qYg9KP24dD5qka9J47d0aVky0N+b4fTU89LN9iDnjB5waksiC49rvMB0PrUJQGoTmH50XPiqOvAjDfaijGxYZw==}
     engines: {node: '>=8'}
+    dev: true
+
+  /resolve-package-path/3.1.0:
+    resolution: {integrity: sha512-2oC2EjWbMJwvSN6Z7DbDfJMnD8MYEouaLn5eIX0j8XwPsYCVIyY9bbnX88YHVkbr8XHqvZrYbxaLPibfTYKZMA==}
+    engines: {node: 10.* || >= 12}
+    dependencies:
+      path-root: 0.1.1
+      resolve: 1.20.0
     dev: true
 
   /resolve-pathname/3.0.0:

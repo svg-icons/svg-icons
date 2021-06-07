@@ -1,5 +1,9 @@
 {
   "private": true,
+  "workspaces": [
+    "packages/*",
+    "tools/*"
+  ],
   "scripts": {
     "build": "pnpm run -r build",
     "build-storybook": "build-storybook -c .storybook -o .out",
