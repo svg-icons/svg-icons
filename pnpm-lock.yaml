@@ -18,6 +18,7 @@ importers:
       core-js: ^3.12.1
       dotenv: ^10.0.0
       prettier: ^2.2.1
+      raw-loader: ^4.0.2
       react: ^17.0.2
       react-dom: ^17.0.2
       tiny-glob: ^0.2.9
@@ -38,6 +39,7 @@ importers:
       core-js: 3.14.0
       dotenv: 10.0.0
       prettier: 2.3.1
+      raw-loader: 4.0.2
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       tiny-glob: 0.2.9
@@ -10397,6 +10399,16 @@ packages:
       http-errors: 1.7.2
       iconv-lite: 0.4.24
       unpipe: 1.0.0
+    dev: true
+
+  /raw-loader/4.0.2:
+    resolution: {integrity: sha512-ZnScIV3ag9A4wPX/ZayxL/jZH+euYb6FcUinPcgiQW0+UBtEv0O6Q3lGd3cqJ+GHH+rksEv3Pj99oxJ3u3VIKA==}
+    engines: {node: '>= 10.13.0'}
+    peerDependencies:
+      webpack: ^4.0.0 || ^5.0.0
+    dependencies:
+      loader-utils: 2.0.0
+      schema-utils: 3.0.0
     dev: true
 
   /raw-loader/4.0.2_webpack@4.46.0:
