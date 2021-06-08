@@ -1,5 +1,11 @@
 # @svg-icons/fluentui-system-regular
 
+## 1.57.0
+
+### Minor Changes
+
+- [#430](https://github.com/svg-icons/svg-icons/pull/430): Update dependencies ([`4be7ccb`](https://github.com/svg-icons/svg-icons/commit/4be7ccbf5772929474fb3245b6280b03b070d81c), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
 ## 1.56.0
 
 ### Minor Changes
