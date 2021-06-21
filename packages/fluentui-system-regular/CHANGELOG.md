@@ -1,5 +1,11 @@
 # @svg-icons/fluentui-system-regular
 
+## 1.60.0
+
+### Minor Changes
+
+- [#438](https://github.com/svg-icons/svg-icons/pull/438): Fix issue where 16px FluentUI textbox icon incorrectly had a space in its name ([`11673a4`](https://github.com/svg-icons/svg-icons/commit/11673a4e8002f266374fc80e20e7c126c55e8a1a), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
 ## 1.57.0
 
 ### Minor Changes
