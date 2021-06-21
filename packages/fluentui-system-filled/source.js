@@ -17,10 +17,10 @@ module.exports = async () => {
     }
   })
 
-  for (const icon of icons) {
-    // Skip 16px textbox icon that incorrectly has a space in its name
-    if (icon.originalName === 'text-box' && icon.width === '16') continue
+  // Omit 16px textbox icon that incorrectly has a space in its name
+  icons = icons.filter((icon) => icon.originalName !== 'text-box' || icon.width !== '16')
 
+  for (const icon of icons) {
     const width = parseInt(icon.width, 10)
     icons = icons.filter((otherIcon) => {
       if (icon.originalName !== otherIcon.originalName) return true
