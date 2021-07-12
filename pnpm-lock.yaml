@@ -9,7 +9,7 @@ importers:
       '@changesets/cli': ^2.16.0
       '@changesets/get-github-info': ^0.5.0
       '@monorepolint/cli': 0.5.0-alpha.61
-      '@monorepolint/core': 0.5.0-alpha.53
+      '@monorepolint/core': 0.5.0-alpha.61
       '@storybook/html': ^6.2.9
       '@storybook/react': ^6.2.9
       '@types/node': ^14.14.37
@@ -30,7 +30,7 @@ importers:
       '@changesets/cli': 2.16.0
       '@changesets/get-github-info': 0.5.0
       '@monorepolint/cli': 0.5.0-alpha.61
-      '@monorepolint/core': 0.5.0-alpha.53
+      '@monorepolint/core': 0.5.0-alpha.61
       '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@storybook/react': 6.2.9_3ec516949cacd886d2caf841d6e29a91
       '@types/node': 14.17.2
@@ -2327,18 +2327,6 @@ packages:
       yargs: 15.4.1
     dev: true
 
-  /@monorepolint/core/0.5.0-alpha.53:
-    resolution: {integrity: sha512-pbXd1LOeWkPOWE/9Z+T/7QyZUhQ2DAvwgGnLcIil9jrRK3tMUgUW1tQUAQJ1PibbauWQkbsR0mvuSRBfIX7oMw==}
-    dependencies:
-      '@monorepolint/rules': 0.5.0-alpha.53
-      '@monorepolint/utils': 0.5.0-alpha.53
-      camelcase: 6.2.0
-      chalk: 4.1.1
-      minimatch: 3.0.4
-      runtypes: 4.3.0
-      tslib: 2.2.0
-    dev: true
-
   /@monorepolint/core/0.5.0-alpha.61:
     resolution: {integrity: sha512-hTzFy2rbDO/lgKNtOs74KYLn8771JyOKPS9PIZmLLsqTCwa/EZVFZvSMRyZtAeduIJwBf17jxCsuj+obeJacHQ==}
     dependencies:
@@ -2354,21 +2342,14 @@ packages:
   /@monorepolint/rules/0.5.0-alpha.53:
     resolution: {integrity: sha512-ktRM12Ta2B3SXiABHBxMdBuWCSuSDYJ+VxldzkynAQtmpdZnoIf70FkqaUD4F+La/NA0oX4FGTvff5bbbnbtWQ==}
     dependencies:
-      '@monorepolint/core': 0.5.0-alpha.53
-      '@monorepolint/utils': 0.5.0-alpha.53
+      '@monorepolint/core': 0.5.0-alpha.61
+      '@monorepolint/utils': 0.5.0-alpha.61
       globby: 11.0.3
       jest-diff: 26.6.2
       minimatch: 3.0.4
       resolve-package-path: 3.1.0
       runtypes: 4.3.0
       semver: 7.3.5
-      tslib: 2.2.0
-    dev: true
-
-  /@monorepolint/utils/0.5.0-alpha.53:
-    resolution: {integrity: sha512-ueqyFzY6rM4ZH+AboJyTthfe6hOFzn5/jfwCTlmR8u5z4xQIVpD7IE37t6BvcnYncTn2tjo0Qz6ZHV9AK5CvWQ==}
-    dependencies:
-      glob: 7.1.7
       tslib: 2.2.0
     dev: true
 
