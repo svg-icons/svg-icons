@@ -330,14 +330,14 @@ importers:
       '@storybook/html': ^6.2.9
       '@svg-icons/pack-builder': ^1.1.0
       core-js: ^3.12.1
-      heroicons: 1.0.1
+      heroicons: 1.0.2
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
       '@storybook/html': 6.2.9_@babel+core@7.14.3
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
-      heroicons: 1.0.1
+      heroicons: 1.0.2
       tiny-glob: 0.2.9
 
   packages/heroicons-solid:
@@ -346,14 +346,14 @@ importers:
       '@storybook/html': ^6.2.9
       '@svg-icons/pack-builder': ^1.1.0
       core-js: ^3.12.1
-      heroicons: 1.0.1
+      heroicons: 1.0.2
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
       '@storybook/html': 6.2.9_@babel+core@7.14.3
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
-      heroicons: 1.0.1
+      heroicons: 1.0.2
       tiny-glob: 0.2.9
 
   packages/icomoon:
@@ -7857,8 +7857,8 @@ packages:
     hasBin: true
     dev: true
 
-  /heroicons/1.0.1:
-    resolution: {integrity: sha512-vPUhWJQlpNOwNzn0WZ1JBzvsU/Gj9cBSgULPp6pF+Ckihk4+yY4JeOcZQn8XirA7S+OkVz2jNqWP7O+r5xapyA==}
+  /heroicons/1.0.2:
+    resolution: {integrity: sha512-7vcT+FyDrlFpI68B7eqLoDfT+0wSP7r+JUlVXf1sa+hLBrAD4ORK8IF7BgxW3wUqlCj/XR/UONyJUiVwoCm45A==}
     dev: true
 
   /highlight.js/10.7.3:
