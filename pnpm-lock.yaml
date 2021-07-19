@@ -116,14 +116,14 @@ importers:
       '@storybook/html': ^6.2.9
       '@svg-icons/pack-builder': ^1.1.0
       core-js: ^3.12.1
-      cryptocurrency-icons: 0.17.2
+      cryptocurrency-icons: 0.18.0
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
       '@storybook/html': 6.2.9_@babel+core@7.14.3
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
-      cryptocurrency-icons: 0.17.2
+      cryptocurrency-icons: 0.18.0
       tiny-glob: 0.2.9
 
   packages/entypo:
@@ -6040,8 +6040,8 @@ packages:
       randomfill: 1.0.4
     dev: true
 
-  /cryptocurrency-icons/0.17.2:
-    resolution: {integrity: sha512-301lellubLNhxkySIBNNG3VD05rWfMR+CFgo9LoLfuNybG2OLy0mpWduxv65WZkJpLl9hhpaVAxCV5SYbG5o9A==}
+  /cryptocurrency-icons/0.18.0:
+    resolution: {integrity: sha512-Q8Uq/Vhzcn/B6ouoJk+5Q/Kfp0zz0DjfldPv836OKT5mxgYDZm8vWgMQ5wBuRvT8Z/ZHLeXaBUgJtufPXmG0NQ==}
     dev: true
 
   /css-loader/3.6.0_webpack@4.46.0:
