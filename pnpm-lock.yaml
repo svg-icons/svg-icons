@@ -586,14 +586,14 @@ importers:
       '@storybook/html': ^6.2.9
       '@svg-icons/pack-builder': ^1.1.0
       core-js: ^3.12.1
-      simple-icons: 5.6.0
+      simple-icons: 5.7.0
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
       '@storybook/html': 6.2.9_@babel+core@7.14.3
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
-      simple-icons: 5.6.0
+      simple-icons: 5.7.0
       tiny-glob: 0.2.9
 
   packages/typicons:
@@ -11352,8 +11352,8 @@ packages:
     resolution: {integrity: sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA==}
     dev: true
 
-  /simple-icons/5.6.0:
-    resolution: {integrity: sha512-MAcWUwedo41+oYqg4VM3kLaYHaQnoLoH921C0v9/P9EGTM8PhvAaVqsR6w5YOOLa7PPJejiZRr48UJCelIl9lw==}
+  /simple-icons/5.7.0:
+    resolution: {integrity: sha512-o4wYNRDSvk3/1UFPxsDfeZzo/J/o8s42VERdtVhmt50/I0w5WkWTvDicv9htQ7Uaj8ZcUaduBmo6b2ZgzoOJnw==}
     dev: true
 
   /sisteransi/1.0.5:
