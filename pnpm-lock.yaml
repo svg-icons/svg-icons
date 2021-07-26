@@ -56,7 +56,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       bootstrap-icons: 1.5.0
       core-js: 3.14.0
@@ -72,7 +72,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       boxicons: 2.0.8
       core-js: 3.14.0
@@ -88,7 +88,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       boxicons: 2.0.8
       core-js: 3.14.0
@@ -104,7 +104,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       boxicons: 2.0.8
       core-js: 3.14.0
@@ -120,7 +120,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       cryptocurrency-icons: 0.17.2
@@ -136,7 +136,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       entypo: 2.2.1
@@ -152,7 +152,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       entypo: 2.2.1
@@ -168,7 +168,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       eva-icons: 1.1.3
@@ -184,7 +184,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       eva-icons: 1.1.3
@@ -200,7 +200,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       evil-icons: 1.10.1
@@ -219,7 +219,7 @@ importers:
       '@babel/core': 7.14.3
       '@fortawesome/fontawesome-svg-core': 1.2.35
       '@fortawesome/free-brands-svg-icons': 5.15.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       tiny-glob: 0.2.9
@@ -237,7 +237,7 @@ importers:
       '@babel/core': 7.14.3
       '@fortawesome/fontawesome-svg-core': 1.2.35
       '@fortawesome/free-regular-svg-icons': 5.15.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       tiny-glob: 0.2.9
@@ -255,7 +255,7 @@ importers:
       '@babel/core': 7.14.3
       '@fortawesome/fontawesome-svg-core': 1.2.35
       '@fortawesome/free-solid-svg-icons': 5.15.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       tiny-glob: 0.2.9
@@ -270,7 +270,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       feather-icons: 4.28.0
@@ -287,7 +287,7 @@ importers:
     devDependencies:
       '@babel/core': 7.14.3
       '@fluentui/svg-icons': 1.1.128
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       tiny-glob: 0.2.9
@@ -303,7 +303,7 @@ importers:
     devDependencies:
       '@babel/core': 7.14.3
       '@fluentui/svg-icons': 1.1.128
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       tiny-glob: 0.2.9
@@ -319,7 +319,7 @@ importers:
     devDependencies:
       '@babel/core': 7.14.3
       '@icon/foundation-icons': 3.0.0
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       tiny-glob: 0.2.9
@@ -334,7 +334,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       heroicons: 1.0.2
@@ -350,7 +350,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       heroicons: 1.0.2
@@ -366,7 +366,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       icomoon-free-npm: 0.0.0
@@ -382,7 +382,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       ionicons: 5.5.2
@@ -398,7 +398,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       ionicons: 5.5.2
@@ -414,7 +414,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       ionicons: 5.5.2
@@ -430,7 +430,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       material-design-icons-updated: 7.0.0
@@ -446,7 +446,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       material-design-icons-updated: 7.0.0
@@ -462,7 +462,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       material-design-icons-updated: 7.0.0
@@ -478,7 +478,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       material-design-icons-updated: 7.0.0
@@ -494,7 +494,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       material-design-icons-updated: 7.0.0
@@ -511,7 +511,7 @@ importers:
     devDependencies:
       '@babel/core': 7.14.3
       '@primer/octicons': 14.2.2
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       tiny-glob: 0.2.9
@@ -526,7 +526,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       open-iconic: 1.1.1
@@ -542,7 +542,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       remixicon: 2.5.0
@@ -558,7 +558,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       remixicon: 2.5.0
@@ -574,7 +574,7 @@ importers:
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       remixicon: 2.5.0
@@ -586,14 +586,14 @@ importers:
       '@storybook/html': ^6.2.9
       '@svg-icons/pack-builder': ^1.1.0
       core-js: ^3.12.1
-      simple-icons: 5.7.0
+      simple-icons: 5.8.0
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
-      simple-icons: 5.7.0
+      simple-icons: 5.8.0
       tiny-glob: 0.2.9
 
   packages/typicons:
@@ -606,7 +606,7 @@ importers:
       typicons.font: 2.1.2
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       tiny-glob: 0.2.9
@@ -622,7 +622,7 @@ importers:
       zondicons: ^1.2.0
     devDependencies:
       '@babel/core': 7.14.3
-      '@storybook/html': 6.2.9_@babel+core@7.14.3
+      '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
       tiny-glob: 0.2.9
@@ -2858,95 +2858,6 @@ packages:
       - webpack-command
     dev: true
 
-  /@storybook/builder-webpack4/6.2.9_react-dom@16.14.0+react@16.14.0:
-    resolution: {integrity: sha512-swECic1huVdj+B+iRJIQ8ds59HuPVE4fmhI+j/nhw0CQCsgAEKqDlOQVYEimW6nZX8GO4WxNm6tiiRzxixejbw==}
-    peerDependencies:
-      react: ^16.8.0 || ^17.0.0
-      react-dom: ^16.8.0 || ^17.0.0
-      typescript: '*'
-    peerDependenciesMeta:
-      typescript:
-        optional: true
-    dependencies:
-      '@babel/core': 7.14.3
-      '@babel/plugin-proposal-class-properties': 7.13.0_@babel+core@7.14.3
-      '@babel/plugin-proposal-decorators': 7.14.2_@babel+core@7.14.3
-      '@babel/plugin-proposal-export-default-from': 7.12.13_@babel+core@7.14.3
-      '@babel/plugin-proposal-nullish-coalescing-operator': 7.14.2_@babel+core@7.14.3
-      '@babel/plugin-proposal-object-rest-spread': 7.14.4_@babel+core@7.14.3
-      '@babel/plugin-proposal-optional-chaining': 7.14.2_@babel+core@7.14.3
-      '@babel/plugin-proposal-private-methods': 7.13.0_@babel+core@7.14.3
-      '@babel/plugin-syntax-dynamic-import': 7.8.3_@babel+core@7.14.3
-      '@babel/plugin-transform-arrow-functions': 7.13.0_@babel+core@7.14.3
-      '@babel/plugin-transform-block-scoping': 7.14.4_@babel+core@7.14.3
-      '@babel/plugin-transform-classes': 7.14.4_@babel+core@7.14.3
-      '@babel/plugin-transform-destructuring': 7.14.4_@babel+core@7.14.3
-      '@babel/plugin-transform-for-of': 7.13.0_@babel+core@7.14.3
-      '@babel/plugin-transform-parameters': 7.14.2_@babel+core@7.14.3
-      '@babel/plugin-transform-shorthand-properties': 7.12.13_@babel+core@7.14.3
-      '@babel/plugin-transform-spread': 7.13.0_@babel+core@7.14.3
-      '@babel/plugin-transform-template-literals': 7.13.0_@babel+core@7.14.3
-      '@babel/preset-env': 7.14.4_@babel+core@7.14.3
-      '@babel/preset-react': 7.13.13_@babel+core@7.14.3
-      '@babel/preset-typescript': 7.13.0_@babel+core@7.14.3
-      '@storybook/addons': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/api': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/channel-postmessage': 6.2.9
-      '@storybook/channels': 6.2.9
-      '@storybook/client-api': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/client-logger': 6.2.9
-      '@storybook/components': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/core-common': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/core-events': 6.2.9
-      '@storybook/node-logger': 6.2.9
-      '@storybook/router': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/semver': 7.3.2
-      '@storybook/theming': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/ui': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@types/node': 14.17.2
-      '@types/webpack': 4.41.29
-      autoprefixer: 9.8.6
-      babel-loader: 8.2.2_105470dfa535e5f605a4a54ef7d81e87
-      babel-plugin-macros: 2.8.0
-      babel-plugin-polyfill-corejs3: 0.1.7_@babel+core@7.14.3
-      case-sensitive-paths-webpack-plugin: 2.4.0
-      core-js: 3.14.0
-      css-loader: 3.6.0_webpack@4.46.0
-      dotenv-webpack: 1.8.0_webpack@4.46.0
-      file-loader: 6.2.0_webpack@4.46.0
-      find-up: 5.0.0
-      fork-ts-checker-webpack-plugin: 4.1.6
-      fs-extra: 9.1.0
-      glob: 7.1.7
-      glob-promise: 3.4.0_glob@7.1.7
-      global: 4.4.0
-      html-webpack-plugin: 4.5.2_webpack@4.46.0
-      pnp-webpack-plugin: 1.6.4
-      postcss: 7.0.35
-      postcss-flexbugs-fixes: 4.2.1
-      postcss-loader: 4.3.0_postcss@7.0.35+webpack@4.46.0
-      raw-loader: 4.0.2_webpack@4.46.0
-      react: 16.14.0
-      react-dev-utils: 11.0.4
-      react-dom: 16.14.0_react@16.14.0
-      stable: 0.1.8
-      style-loader: 1.3.0_webpack@4.46.0
-      terser-webpack-plugin: 3.1.0_webpack@4.46.0
-      ts-dedent: 2.1.1
-      url-loader: 4.1.1_file-loader@6.2.0+webpack@4.46.0
-      util-deprecate: 1.0.2
-      webpack: 4.46.0
-      webpack-dev-middleware: 3.7.3_webpack@4.46.0
-      webpack-filter-warnings-plugin: 1.2.1_webpack@4.46.0
-      webpack-hot-middleware: 2.25.0
-      webpack-virtual-modules: 0.2.2
-    transitivePeerDependencies:
-      - '@types/react'
-      - supports-color
-      - webpack-cli
-      - webpack-command
-    dev: true
-
   /@storybook/channel-postmessage/6.2.9:
     resolution: {integrity: sha512-OqV+gLeeCHR0KExsIz0B7gD17Cjd9D+I75qnBsLWM9inWO5kc/WZ5svw8Bvjlcm6snWpvxUaT8L+svuqcPSmww==}
     dependencies:
@@ -3171,40 +3082,6 @@ packages:
       - '@types/react'
     dev: true
 
-  /@storybook/core-client/6.2.9_e97e5e3809294a3414549b4ba42cd203:
-    resolution: {integrity: sha512-jW841J5lCe1Ub5ZMtzYPgCy/OUddFxxVYeHLZyuNxlH5RoiQQxbDpuFlzuZMYGuIzD6eZw+ANE4w5vW/y5oBfA==}
-    peerDependencies:
-      react: ^16.8.0 || ^17.0.0
-      react-dom: ^16.8.0 || ^17.0.0
-      typescript: '*'
-      webpack: '*'
-    peerDependenciesMeta:
-      typescript:
-        optional: true
-    dependencies:
-      '@storybook/addons': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/channel-postmessage': 6.2.9
-      '@storybook/client-api': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/client-logger': 6.2.9
-      '@storybook/core-events': 6.2.9
-      '@storybook/csf': 0.0.1
-      '@storybook/ui': 6.2.9_react-dom@16.14.0+react@16.14.0
-      ansi-to-html: 0.6.15
-      core-js: 3.14.0
-      global: 4.4.0
-      lodash: 4.17.21
-      qs: 6.10.1
-      react: 16.14.0
-      react-dom: 16.14.0_react@16.14.0
-      regenerator-runtime: 0.13.7
-      ts-dedent: 2.1.1
-      unfetch: 4.2.0
-      util-deprecate: 1.0.2
-      webpack: 4.46.0
-    transitivePeerDependencies:
-      - '@types/react'
-    dev: true
-
   /@storybook/core-client/6.2.9_ec9b23956ba1aee0ba194e7c43b1a3c1:
     resolution: {integrity: sha512-jW841J5lCe1Ub5ZMtzYPgCy/OUddFxxVYeHLZyuNxlH5RoiQQxbDpuFlzuZMYGuIzD6eZw+ANE4w5vW/y5oBfA==}
     peerDependencies:
@@ -3236,39 +3113,6 @@ packages:
       unfetch: 4.2.0
       util-deprecate: 1.0.2
       webpack: 4.46.0
-    transitivePeerDependencies:
-      - '@types/react'
-    dev: true
-
-  /@storybook/core-client/6.2.9_react-dom@16.14.0+react@16.14.0:
-    resolution: {integrity: sha512-jW841J5lCe1Ub5ZMtzYPgCy/OUddFxxVYeHLZyuNxlH5RoiQQxbDpuFlzuZMYGuIzD6eZw+ANE4w5vW/y5oBfA==}
-    peerDependencies:
-      react: ^16.8.0 || ^17.0.0
-      react-dom: ^16.8.0 || ^17.0.0
-      typescript: '*'
-      webpack: '*'
-    peerDependenciesMeta:
-      typescript:
-        optional: true
-    dependencies:
-      '@storybook/addons': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/channel-postmessage': 6.2.9
-      '@storybook/client-api': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/client-logger': 6.2.9
-      '@storybook/core-events': 6.2.9
-      '@storybook/csf': 0.0.1
-      '@storybook/ui': 6.2.9_react-dom@16.14.0+react@16.14.0
-      ansi-to-html: 0.6.15
-      core-js: 3.14.0
-      global: 4.4.0
-      lodash: 4.17.21
-      qs: 6.10.1
-      react: 16.14.0
-      react-dom: 16.14.0_react@16.14.0
-      regenerator-runtime: 0.13.7
-      ts-dedent: 2.1.1
-      unfetch: 4.2.0
-      util-deprecate: 1.0.2
     transitivePeerDependencies:
       - '@types/react'
     dev: true
@@ -3399,72 +3243,6 @@ packages:
       resolve-from: 5.0.0
       ts-dedent: 2.1.1
       typescript: 4.3.2
-      util-deprecate: 1.0.2
-      webpack: 4.46.0
-    transitivePeerDependencies:
-      - supports-color
-      - webpack-cli
-      - webpack-command
-    dev: true
-
-  /@storybook/core-common/6.2.9_react-dom@16.14.0+react@16.14.0:
-    resolution: {integrity: sha512-ve0Qb4EMit8jGibfZBprmaU2i4LtpB4vSMIzD9nB1YeBmw2cGhHubtmayZ0TwcV3fPQhtYH9wwRWuWyzzHyQyw==}
-    peerDependencies:
-      react: ^16.8.0 || ^17.0.0
-      react-dom: ^16.8.0 || ^17.0.0
-      typescript: '*'
-    peerDependenciesMeta:
-      typescript:
-        optional: true
-    dependencies:
-      '@babel/core': 7.14.3
-      '@babel/plugin-proposal-class-properties': 7.13.0_@babel+core@7.14.3
-      '@babel/plugin-proposal-decorators': 7.14.2_@babel+core@7.14.3
-      '@babel/plugin-proposal-export-default-from': 7.12.13_@babel+core@7.14.3
-      '@babel/plugin-proposal-nullish-coalescing-operator': 7.14.2_@babel+core@7.14.3
-      '@babel/plugin-proposal-object-rest-spread': 7.14.4_@babel+core@7.14.3
-      '@babel/plugin-proposal-optional-chaining': 7.14.2_@babel+core@7.14.3
-      '@babel/plugin-proposal-private-methods': 7.13.0_@babel+core@7.14.3
-      '@babel/plugin-syntax-dynamic-import': 7.8.3_@babel+core@7.14.3
-      '@babel/plugin-transform-arrow-functions': 7.13.0_@babel+core@7.14.3
-      '@babel/plugin-transform-block-scoping': 7.14.4_@babel+core@7.14.3
-      '@babel/plugin-transform-classes': 7.14.4_@babel+core@7.14.3
-      '@babel/plugin-transform-destructuring': 7.14.4_@babel+core@7.14.3
-      '@babel/plugin-transform-for-of': 7.13.0_@babel+core@7.14.3
-      '@babel/plugin-transform-parameters': 7.14.2_@babel+core@7.14.3
-      '@babel/plugin-transform-shorthand-properties': 7.12.13_@babel+core@7.14.3
-      '@babel/plugin-transform-spread': 7.13.0_@babel+core@7.14.3
-      '@babel/preset-env': 7.14.4_@babel+core@7.14.3
-      '@babel/preset-react': 7.13.13_@babel+core@7.14.3
-      '@babel/preset-typescript': 7.13.0_@babel+core@7.14.3
-      '@babel/register': 7.13.16_@babel+core@7.14.3
-      '@storybook/node-logger': 6.2.9
-      '@storybook/semver': 7.3.2
-      '@types/glob-base': 0.3.0
-      '@types/micromatch': 4.0.1
-      '@types/node': 14.17.2
-      '@types/pretty-hrtime': 1.0.0
-      babel-loader: 8.2.2_105470dfa535e5f605a4a54ef7d81e87
-      babel-plugin-macros: 3.1.0
-      babel-plugin-polyfill-corejs3: 0.1.7_@babel+core@7.14.3
-      chalk: 4.1.1
-      core-js: 3.14.0
-      express: 4.17.1
-      file-system-cache: 1.0.5
-      find-up: 5.0.0
-      fork-ts-checker-webpack-plugin: 6.2.10
-      glob: 7.1.7
-      glob-base: 0.3.0
-      interpret: 2.2.0
-      json5: 2.2.0
-      lazy-universal-dotenv: 3.0.1
-      micromatch: 4.0.4
-      pkg-dir: 5.0.0
-      pretty-hrtime: 1.0.3
-      react: 16.14.0
-      react-dom: 16.14.0_react@16.14.0
-      resolve-from: 5.0.0
-      ts-dedent: 2.1.1
       util-deprecate: 1.0.2
       webpack: 4.46.0
     transitivePeerDependencies:
@@ -3631,81 +3409,6 @@ packages:
       - webpack-command
     dev: true
 
-  /@storybook/core-server/6.2.9_react-dom@16.14.0+react@16.14.0:
-    resolution: {integrity: sha512-DzihO73pj1Ro0Y4tq9hjw2mLMUYeSRPrx7CndCOBxcTHCKQ8Kd7Dee3wJ49t5/19V7TW1+4lYR59GAy73FeOAQ==}
-    peerDependencies:
-      '@storybook/builder-webpack5': 6.2.9
-      react: ^16.8.0 || ^17.0.0
-      react-dom: ^16.8.0 || ^17.0.0
-      typescript: '*'
-    peerDependenciesMeta:
-      '@storybook/builder-webpack5':
-        optional: true
-      typescript:
-        optional: true
-    dependencies:
-      '@babel/core': 7.14.3
-      '@babel/plugin-transform-template-literals': 7.13.0_@babel+core@7.14.3
-      '@babel/preset-react': 7.13.13_@babel+core@7.14.3
-      '@storybook/addons': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/builder-webpack4': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/core-client': 6.2.9_e97e5e3809294a3414549b4ba42cd203
-      '@storybook/core-common': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/node-logger': 6.2.9
-      '@storybook/semver': 7.3.2
-      '@storybook/theming': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/ui': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@types/node': 14.17.2
-      '@types/node-fetch': 2.5.10
-      '@types/pretty-hrtime': 1.0.0
-      '@types/webpack': 4.41.29
-      airbnb-js-shims: 2.2.1
-      babel-loader: 8.2.2_105470dfa535e5f605a4a54ef7d81e87
-      better-opn: 2.1.1
-      boxen: 4.2.0
-      case-sensitive-paths-webpack-plugin: 2.4.0
-      chalk: 4.1.1
-      cli-table3: 0.6.0
-      commander: 6.2.1
-      core-js: 3.14.0
-      cpy: 8.1.2
-      css-loader: 3.6.0_webpack@4.46.0
-      detect-port: 1.3.0
-      dotenv-webpack: 1.8.0_webpack@4.46.0
-      express: 4.17.1
-      file-loader: 6.2.0_webpack@4.46.0
-      file-system-cache: 1.0.5
-      find-up: 5.0.0
-      fs-extra: 9.1.0
-      global: 4.4.0
-      html-webpack-plugin: 4.5.2_webpack@4.46.0
-      ip: 1.1.5
-      node-fetch: 2.6.1
-      pnp-webpack-plugin: 1.6.4
-      pretty-hrtime: 1.0.3
-      prompts: 2.4.1
-      react: 16.14.0
-      react-dom: 16.14.0_react@16.14.0
-      read-pkg-up: 7.0.1
-      regenerator-runtime: 0.13.7
-      resolve-from: 5.0.0
-      serve-favicon: 2.5.0
-      style-loader: 1.3.0_webpack@4.46.0
-      telejson: 5.3.3
-      terser-webpack-plugin: 3.1.0_webpack@4.46.0
-      ts-dedent: 2.1.1
-      url-loader: 4.1.1_file-loader@6.2.0+webpack@4.46.0
-      util-deprecate: 1.0.2
-      webpack: 4.46.0
-      webpack-dev-middleware: 3.7.3_webpack@4.46.0
-      webpack-virtual-modules: 0.2.2
-    transitivePeerDependencies:
-      - '@types/react'
-      - supports-color
-      - webpack-cli
-      - webpack-command
-    dev: true
-
   /@storybook/core/6.2.9_c4527ddb2b8574da9754fb47aaab6a17:
     resolution: {integrity: sha512-pzbyjWvj0t8m0kR2pC9GQne4sZn7Y/zfcbm6/31CL+yhzOQjfJEj3n4ZFUlxikXqQJPg1aWfypfyaeaLL0QyuA==}
     peerDependencies:
@@ -3758,31 +3461,6 @@ packages:
       - webpack-command
     dev: true
 
-  /@storybook/core/6.2.9_react-dom@16.14.0+react@16.14.0:
-    resolution: {integrity: sha512-pzbyjWvj0t8m0kR2pC9GQne4sZn7Y/zfcbm6/31CL+yhzOQjfJEj3n4ZFUlxikXqQJPg1aWfypfyaeaLL0QyuA==}
-    peerDependencies:
-      '@storybook/builder-webpack5': 6.2.9
-      react: ^16.8.0 || ^17.0.0
-      react-dom: ^16.8.0 || ^17.0.0
-      typescript: '*'
-    peerDependenciesMeta:
-      '@storybook/builder-webpack5':
-        optional: true
-      typescript:
-        optional: true
-    dependencies:
-      '@storybook/core-client': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/core-server': 6.2.9_react-dom@16.14.0+react@16.14.0
-      react: 16.14.0
-      react-dom: 16.14.0_react@16.14.0
-    transitivePeerDependencies:
-      - '@types/react'
-      - supports-color
-      - webpack
-      - webpack-cli
-      - webpack-command
-    dev: true
-
   /@storybook/csf/0.0.1:
     resolution: {integrity: sha512-USTLkZze5gkel8MYCujSRBVIrUQ3YPBrLOx7GNk/0wttvVtlzWXAq9eLbQ4p/NicGxP+3T7KPEMVV//g+yubpw==}
     dependencies:
@@ -3801,37 +3479,6 @@ packages:
       '@storybook/client-api': 6.2.9_react-dom@16.14.0+react@16.14.0
       '@storybook/core': 6.2.9_c4527ddb2b8574da9754fb47aaab6a17
       '@storybook/core-common': 6.2.9_c4527ddb2b8574da9754fb47aaab6a17
-      '@types/webpack-env': 1.16.0
-      core-js: 3.14.0
-      global: 4.4.0
-      html-loader: 1.3.2
-      react: 16.14.0
-      react-dom: 16.14.0_react@16.14.0
-      read-pkg-up: 7.0.1
-      regenerator-runtime: 0.13.7
-      ts-dedent: 2.1.1
-    transitivePeerDependencies:
-      - '@storybook/builder-webpack5'
-      - '@types/react'
-      - supports-color
-      - typescript
-      - webpack
-      - webpack-cli
-      - webpack-command
-    dev: true
-
-  /@storybook/html/6.2.9_@babel+core@7.14.3:
-    resolution: {integrity: sha512-JGi+qw4Vevy8V+dKVno2Xmdaav9p3pVtxcaO8DwwVVIt8gaqwSExmCMTaG+s5hjtW8o6Wy4wnvEPUKO+Gmolww==}
-    engines: {node: '>=10.13.0'}
-    hasBin: true
-    peerDependencies:
-      '@babel/core': '*'
-    dependencies:
-      '@babel/core': 7.14.3
-      '@storybook/addons': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/client-api': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/core': 6.2.9_react-dom@16.14.0+react@16.14.0
-      '@storybook/core-common': 6.2.9_react-dom@16.14.0+react@16.14.0
       '@types/webpack-env': 1.16.0
       core-js: 3.14.0
       global: 4.4.0
@@ -10022,15 +9669,6 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
-  /pnp-webpack-plugin/1.6.4:
-    resolution: {integrity: sha512-7Wjy+9E3WwLOEL30D+m8TSTF7qJJUJLONBnwQp0518siuMxUQUbgZwssaFX+QKlZkjHZcw/IpZCt/H0srrntSg==}
-    engines: {node: '>=6'}
-    dependencies:
-      ts-pnp: 1.2.0
-    transitivePeerDependencies:
-      - typescript
-    dev: true
-
   /pnp-webpack-plugin/1.6.4_typescript@4.3.2:
     resolution: {integrity: sha512-7Wjy+9E3WwLOEL30D+m8TSTF7qJJUJLONBnwQp0518siuMxUQUbgZwssaFX+QKlZkjHZcw/IpZCt/H0srrntSg==}
     engines: {node: '>=6'}
@@ -11352,8 +10990,8 @@ packages:
     resolution: {integrity: sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA==}
     dev: true
 
-  /simple-icons/5.7.0:
-    resolution: {integrity: sha512-o4wYNRDSvk3/1UFPxsDfeZzo/J/o8s42VERdtVhmt50/I0w5WkWTvDicv9htQ7Uaj8ZcUaduBmo6b2ZgzoOJnw==}
+  /simple-icons/5.8.0:
+    resolution: {integrity: sha512-usxcsjmzqc/4hWcRT0tXe+cvz6eXZg/gVQOdMu4i1lmqM2neQcoRcks3JaZjWlG6f/MKBKsnItXh/g/5bdhHqA==}
     dev: true
 
   /sisteransi/1.0.5:
@@ -12108,16 +11746,6 @@ packages:
       source-map-support: 0.5.19
       typescript: 4.3.2
       yn: 3.1.1
-    dev: true
-
-  /ts-pnp/1.2.0:
-    resolution: {integrity: sha512-csd+vJOb/gkzvcCHgTGSChYpy5f1/XKNsmvBGO4JXS+z1v2HobugDz4s1IeFXM3wZB44uczs+eazB5Q/ccdhQw==}
-    engines: {node: '>=6'}
-    peerDependencies:
-      typescript: '*'
-    peerDependenciesMeta:
-      typescript:
-        optional: true
     dev: true
 
   /ts-pnp/1.2.0_typescript@4.3.2:
