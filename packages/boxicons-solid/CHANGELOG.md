@@ -1,5 +1,11 @@
 # @svg-icons/boxicons-solid
 
+## 1.66.0
+
+### Minor Changes
+
+- [#461](https://github.com/svg-icons/svg-icons/pull/461): Bump boxicons from 2.0.8 to 2.0.9 ([`87d8849`](https://github.com/svg-icons/svg-icons/commit/87d884957751be98f496f32d3a744437552e691e), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.65.0
 
 ### Minor Changes

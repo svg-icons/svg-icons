@@ -1,5 +1,11 @@
 # @svg-icons/crypto
 
+## 1.66.0
+
+### Minor Changes
+
+- [#459](https://github.com/svg-icons/svg-icons/pull/459): Bump cryptocurrency-icons from 0.17.2 to 0.18.0 ([`a50a7e9`](https://github.com/svg-icons/svg-icons/commit/a50a7e99143b21cd36d110d6e363b0fec19a5366), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.53.0
 
 ### Minor Changes
