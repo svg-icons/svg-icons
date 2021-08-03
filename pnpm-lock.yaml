@@ -378,14 +378,14 @@ importers:
       '@storybook/html': ^6.2.9
       '@svg-icons/pack-builder': ^1.1.0
       core-js: ^3.12.1
-      ionicons: 5.5.2
+      ionicons: 5.5.3
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
       '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
-      ionicons: 5.5.2
+      ionicons: 5.5.3
       tiny-glob: 0.2.9
 
   packages/ionicons-sharp:
@@ -394,14 +394,14 @@ importers:
       '@storybook/html': ^6.2.9
       '@svg-icons/pack-builder': ^1.1.0
       core-js: ^3.12.1
-      ionicons: 5.5.2
+      ionicons: 5.5.3
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
       '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
-      ionicons: 5.5.2
+      ionicons: 5.5.3
       tiny-glob: 0.2.9
 
   packages/ionicons-solid:
@@ -410,14 +410,14 @@ importers:
       '@storybook/html': ^6.2.9
       '@svg-icons/pack-builder': ^1.1.0
       core-js: ^3.12.1
-      ionicons: 5.5.2
+      ionicons: 5.5.3
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
       '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
-      ionicons: 5.5.2
+      ionicons: 5.5.3
       tiny-glob: 0.2.9
 
   packages/material-filled:
@@ -7793,8 +7793,8 @@ packages:
       loose-envify: 1.4.0
     dev: true
 
-  /ionicons/5.5.2:
-    resolution: {integrity: sha512-SHVBBtzNVQjY4jtcqKEHkqL5nIQwA/o2MIdU9JtMz8kQAB0NRVJFv5AxwmVbXXKDpxz57SiEjeLp8Uzt7jirpw==}
+  /ionicons/5.5.3:
+    resolution: {integrity: sha512-L71djrMi8pAad66tpwdnO1vwcyluCFvehzxU1PpH1k/HpYBZhZ5IaYhqXipmqUvu5aEbd4cbRguYyI5Fd4bxTw==}
     dependencies:
       '@stencil/core': 2.6.0
     dev: true
