@@ -2239,12 +2239,6 @@ packages:
     resolution: {integrity: sha512-lDIdx1TQ4QxK+M2WpilJKDvFx44F+83+rH2rgOPKbMfRvI6F+YBZKtnxIGUPXmgQd3DyyO4TWV0604Ex9H+d4w==}
     dev: true
 
-  /@fortawesome/fontawesome-common-types/0.2.35:
-    resolution: {integrity: sha512-IHUfxSEDS9dDGqYwIW7wTN6tn/O8E0n5PcAHz9cAaBoZw6UpG20IG/YM3NNLaGPwPqgjBAFjIURzqoQs3rrtuw==}
-    engines: {node: '>=6'}
-    requiresBuild: true
-    dev: true
-
   /@fortawesome/fontawesome-common-types/0.2.36:
     resolution: {integrity: sha512-a/7BiSgobHAgBWeN7N0w+lAhInrGxksn13uK7231n2m8EDPE3BMCl9NZLTGrj9ZXfCmC6LM0QLqXidIizVQ6yg==}
     engines: {node: '>=6'}
