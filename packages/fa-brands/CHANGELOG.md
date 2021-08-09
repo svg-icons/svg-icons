@@ -1,5 +1,11 @@
 # @svg-icons/fa-brands
 
+## 1.68.0
+
+### Minor Changes
+
+- [#472](https://github.com/svg-icons/svg-icons/pull/472): Bump @fortawesome/free-brands-svg-icons from 5.15.3 to 5.15.4 ([`65a816b`](https://github.com/svg-icons/svg-icons/commit/65a816bff6aa67052a5c5e4f51be3fe858b133cf), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.39.1
 
 ### Patch Changes
