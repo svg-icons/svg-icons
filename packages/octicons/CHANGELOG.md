@@ -1,5 +1,11 @@
 # @svg-icons/octicons
 
+## 1.73.0
+
+### Minor Changes
+
+- [#485](https://github.com/svg-icons/svg-icons/pull/485): Bump @primer/octicons from 15.0.1 to 15.1.0 ([`49a5edc`](https://github.com/svg-icons/svg-icons/commit/49a5edcd04854a0f5c862e2c75d7fb120751fbbb), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.69.0
 
 ### Minor Changes
