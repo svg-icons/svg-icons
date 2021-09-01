@@ -503,14 +503,14 @@ importers:
   packages/octicons:
     specifiers:
       '@babel/core': ^7.14.3
-      '@primer/octicons': 15.0.1
+      '@primer/octicons': 15.1.0
       '@storybook/html': ^6.2.9
       '@svg-icons/pack-builder': ^1.1.0
       core-js: ^3.12.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
-      '@primer/octicons': 15.0.1
+      '@primer/octicons': 15.1.0
       '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
@@ -2524,8 +2524,8 @@ packages:
     resolution: {integrity: sha512-VZMYa7+fXHdwIq1TDhSXoVmSPEGM/aa+6Aiq3nVVJ9bXr24zScr+NlKFKC3iPljA7ho/GAZr+d2jOf5GIRC30Q==}
     dev: true
 
-  /@primer/octicons/15.0.1:
-    resolution: {integrity: sha512-mp1OkOq0tAknXPLGAUPxiMac3HCj4LPPbAfmj847AWb2Tej33YFjUfGA1S2wXmiyP0MARoIdWtrsXt7UCBdVeQ==}
+  /@primer/octicons/15.1.0:
+    resolution: {integrity: sha512-dRfjeDG+JUNKivxs8xGba34NlLJDbNDGGkYIfLJLT7D/c1UTx6xFc+gPC6IWosVLYoUUnup8CkXDNOfT1d2LxA==}
     dependencies:
       object-assign: 4.1.1
     dev: true
