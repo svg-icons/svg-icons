@@ -25,7 +25,7 @@
     "@storybook/react": "^6.2.9",
     "@types/node": "^14.14.37",
     "babel-loader": "^8.2.2",
-    "chromatic": "^5.9.0",
+    "chromatic": "^6.0.0",
     "core-js": "^3.12.1",
     "dotenv": "^10.0.0",
     "prettier": "^2.2.1",
