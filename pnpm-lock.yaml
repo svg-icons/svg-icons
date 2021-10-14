@@ -51,14 +51,14 @@ importers:
       '@babel/core': ^7.14.3
       '@storybook/html': ^6.2.9
       '@svg-icons/pack-builder': ^1.1.0
-      bootstrap-icons: 1.5.0
+      bootstrap-icons: 1.6.0
       core-js: ^3.12.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
       '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
-      bootstrap-icons: 1.5.0
+      bootstrap-icons: 1.6.0
       core-js: 3.14.0
       tiny-glob: 0.2.9
 
@@ -4565,8 +4565,8 @@ packages:
     resolution: {integrity: sha1-aN/1++YMUes3cl6p4+0xDcwed24=}
     dev: true
 
-  /bootstrap-icons/1.5.0:
-    resolution: {integrity: sha512-44feMc7DE1Ccpsas/1wioN8ewFJNquvi5FewA06wLnqct7CwMdGDVy41ieHaacogzDqLfG8nADIvMNp9e4bfbA==}
+  /bootstrap-icons/1.6.0:
+    resolution: {integrity: sha512-zJmZurKexL7oXS+KOnSSFFsKi2asXMzPWCRRwxrq7bj1YbURHr/paCwzRWIPLPsZYh8osQL+W+2uzLlt9EPfnw==}
     engines: {node: '>=10'}
     dev: true
 
