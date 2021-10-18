@@ -586,14 +586,14 @@ importers:
       '@storybook/html': ^6.2.9
       '@svg-icons/pack-builder': ^1.1.0
       core-js: ^3.12.1
-      simple-icons: 5.18.0
+      simple-icons: 5.19.0
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
       '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.14.0
-      simple-icons: 5.18.0
+      simple-icons: 5.19.0
       tiny-glob: 0.2.9
 
   packages/typicons:
@@ -10201,8 +10201,8 @@ packages:
     resolution: {integrity: sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA==}
     dev: true
 
-  /simple-icons/5.18.0:
-    resolution: {integrity: sha512-qUAdUVrW4KtLr4tiSdFe6ItnXq1qfBByH5XbnpYBm5+Am1a1P54KCvz6Pz2iSRi9puU+VxgblhNg/ANJsW1/iQ==}
+  /simple-icons/5.19.0:
+    resolution: {integrity: sha512-7UM+1waexojA+2EmMvchCWTIiJY8lEeOxiwBMal+Tqu3GxcOpPXevSm9+1/Fnk0IqmNrF3rTnDDV41m/Utzinw==}
     engines: {node: '>=0.12.18'}
     dev: true
 
