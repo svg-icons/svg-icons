@@ -1,5 +1,11 @@
 # @svg-icons/bootstrap
 
+## 1.83.0
+
+### Minor Changes
+
+- [#511](https://github.com/svg-icons/svg-icons/pull/511): Bump bootstrap-icons from 1.5.0 to 1.6.1 ([`aaa1d7a`](https://github.com/svg-icons/svg-icons/commit/aaa1d7a6e96fd09ec9ad6866871cb1fa173b961f), [@dependabot](https://github.com/apps/dependabot))
+
 ## 1.82.0
 
 ### Minor Changes
