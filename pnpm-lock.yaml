@@ -9,7 +9,7 @@ importers:
       '@changesets/cli': ^2.16.0
       '@changesets/get-github-info': ^0.5.0
       '@monorepolint/cli': 0.5.0-alpha.65
-      '@monorepolint/core': 0.5.0-alpha.61
+      '@monorepolint/core': 0.5.0-alpha.65
       '@storybook/html': ^6.2.9
       '@storybook/react': ^6.2.9
       '@types/node': ^14.14.37
@@ -30,7 +30,7 @@ importers:
       '@changesets/cli': 2.16.0
       '@changesets/get-github-info': 0.5.0
       '@monorepolint/cli': 0.5.0-alpha.65
-      '@monorepolint/core': 0.5.0-alpha.61
+      '@monorepolint/core': 0.5.0-alpha.65
       '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@storybook/react': 6.2.9_3ec516949cacd886d2caf841d6e29a91
       '@types/node': 14.17.2
@@ -2295,18 +2295,6 @@ packages:
       yargs: 15.4.1
     dev: true
 
-  /@monorepolint/core/0.5.0-alpha.61:
-    resolution: {integrity: sha512-hTzFy2rbDO/lgKNtOs74KYLn8771JyOKPS9PIZmLLsqTCwa/EZVFZvSMRyZtAeduIJwBf17jxCsuj+obeJacHQ==}
-    dependencies:
-      '@monorepolint/rules': 0.5.0-alpha.53
-      '@monorepolint/utils': 0.5.0-alpha.61
-      camelcase: 6.2.0
-      chalk: 4.1.1
-      minimatch: 3.0.4
-      runtypes: 4.3.0
-      tslib: 2.2.0
-    dev: true
-
   /@monorepolint/core/0.5.0-alpha.65:
     resolution: {integrity: sha512-kzQydRKnKQHS4dy+pQlOLeDNlT1HsShIsgTVnkVCjf6wH8tNAruWJJjAoroP8bP6GIOygm2q8BiYKH1n3jn/MQ==}
     dependencies:
@@ -2330,13 +2318,6 @@ packages:
       resolve-package-path: 3.1.0
       runtypes: 4.3.0
       semver: 7.3.5
-      tslib: 2.2.0
-    dev: true
-
-  /@monorepolint/utils/0.5.0-alpha.61:
-    resolution: {integrity: sha512-G63BCGh6UaYGIRE2uqzHn2oQcgpeinjj4alNCE7vpUjRoKL/W5fdkCZWDYd3T6UU92wZi4JYOuuXX20roV4DQA==}
-    dependencies:
-      glob: 7.1.7
       tslib: 2.2.0
     dev: true
 
