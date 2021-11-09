@@ -8,7 +8,7 @@ importers:
       '@changesets/changelog-github': ^0.4.0
       '@changesets/cli': ^2.16.0
       '@changesets/get-github-info': ^0.5.0
-      '@monorepolint/cli': 0.5.0-alpha.65
+      '@monorepolint/cli': 0.5.0-alpha.67
       '@monorepolint/core': 0.5.0-alpha.65
       '@storybook/html': ^6.2.9
       '@storybook/react': ^6.2.9
@@ -29,7 +29,7 @@ importers:
       '@changesets/changelog-github': 0.4.0
       '@changesets/cli': 2.16.0
       '@changesets/get-github-info': 0.5.0
-      '@monorepolint/cli': 0.5.0-alpha.65
+      '@monorepolint/cli': 0.5.0-alpha.67
       '@monorepolint/core': 0.5.0-alpha.65
       '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@storybook/react': 6.2.9_3ec516949cacd886d2caf841d6e29a91
@@ -2284,12 +2284,12 @@ packages:
       read-yaml-file: 1.1.0
     dev: true
 
-  /@monorepolint/cli/0.5.0-alpha.65:
-    resolution: {integrity: sha512-CfL6LRM0FfYhmeppbPLf5FI1FEHrZNQWsW77SikSen3Fdvm1cjN62q0kjLPIDTOCq1DDVt8EoYkDPzjYvTAi6Q==}
+  /@monorepolint/cli/0.5.0-alpha.67:
+    resolution: {integrity: sha512-fEDKSESU9E7dbp7631ryZVrzv58tiiKZoifM/ulFX0BLUwdxK8NutYUyVwhT6SPyI0dpqdmdQnf8LVgsDfrIcA==}
     hasBin: true
     dependencies:
-      '@monorepolint/core': 0.5.0-alpha.65
-      '@monorepolint/utils': 0.5.0-alpha.65
+      '@monorepolint/core': 0.5.0-alpha.67
+      '@monorepolint/utils': 0.5.0-alpha.67
       chalk: 4.1.1
       tslib: 2.2.0
       yargs: 15.4.1
@@ -2300,6 +2300,18 @@ packages:
     dependencies:
       '@monorepolint/rules': 0.5.0-alpha.53
       '@monorepolint/utils': 0.5.0-alpha.65
+      camelcase: 6.2.0
+      chalk: 4.1.1
+      minimatch: 3.0.4
+      runtypes: 4.3.0
+      tslib: 2.2.0
+    dev: true
+
+  /@monorepolint/core/0.5.0-alpha.67:
+    resolution: {integrity: sha512-lnh/2W9+j5iORqWxxsYJllLxuJ/x1h179mlkT+l3koG3JTXVEoJjfHqlSMDKDx9Feg4Jn/NXGoAL0k8Wd1gzMg==}
+    dependencies:
+      '@monorepolint/rules': 0.5.0-alpha.53
+      '@monorepolint/utils': 0.5.0-alpha.67
       camelcase: 6.2.0
       chalk: 4.1.1
       minimatch: 3.0.4
@@ -2323,6 +2335,13 @@ packages:
 
   /@monorepolint/utils/0.5.0-alpha.65:
     resolution: {integrity: sha512-V15zkHUMJ6o3cvwCUQnJiYSPwz29YtN/JBmEnAPP/zhpj8OeCrRxr+AGpCrBu70cSAhGFhMTfAU+O1fJbPP83g==}
+    dependencies:
+      glob: 7.1.7
+      tslib: 2.2.0
+    dev: true
+
+  /@monorepolint/utils/0.5.0-alpha.67:
+    resolution: {integrity: sha512-0y+7j9mOFr5iW9mHLeBve+LH1HcqVsz/7KGNoQQ2hJawYko9w8jAzZMRAarAkR/WM9omG1AhN5X2Vt0ErAvtug==}
     dependencies:
       glob: 7.1.7
       tslib: 2.2.0
