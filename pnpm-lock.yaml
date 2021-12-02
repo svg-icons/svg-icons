@@ -67,14 +67,14 @@ importers:
       '@babel/core': ^7.14.3
       '@storybook/html': ^6.2.9
       '@svg-icons/pack-builder': ^1.1.0
-      boxicons: 2.0.9
+      boxicons: 2.1.0
       core-js: ^3.12.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
       '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
-      boxicons: 2.0.9
+      boxicons: 2.1.0
       core-js: 3.14.0
       tiny-glob: 0.2.9
 
@@ -83,14 +83,14 @@ importers:
       '@babel/core': ^7.14.3
       '@storybook/html': ^6.2.9
       '@svg-icons/pack-builder': ^1.1.0
-      boxicons: 2.0.9
+      boxicons: 2.1.0
       core-js: ^3.12.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
       '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
-      boxicons: 2.0.9
+      boxicons: 2.1.0
       core-js: 3.14.0
       tiny-glob: 0.2.9
 
@@ -99,14 +99,14 @@ importers:
       '@babel/core': ^7.14.3
       '@storybook/html': ^6.2.9
       '@svg-icons/pack-builder': ^1.1.0
-      boxicons: 2.0.9
+      boxicons: 2.1.0
       core-js: ^3.12.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.14.3
       '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@svg-icons/pack-builder': link:../../tools/builder
-      boxicons: 2.0.9
+      boxicons: 2.1.0
       core-js: 3.14.0
       tiny-glob: 0.2.9
 
@@ -4597,8 +4597,8 @@ packages:
       widest-line: 3.1.0
     dev: true
 
-  /boxicons/2.0.9:
-    resolution: {integrity: sha512-nsXBqNgtEtEu/TYuOlH4mZ8sdM4ol1/6q4Sb9i0SubhOxbW9SqDemaN1D4yZHC8TfMWGM2tIW0y4YWbDMmuBYg==}
+  /boxicons/2.1.0:
+    resolution: {integrity: sha512-UcM1ae/6R02o2JZ/TBKMGUH+V32/HvSgcN9DjK4X9vhHwk0uMVyJfsLL2Wl+iN8YoHrrii6Xxeq8dx8LPSz1xQ==}
     dependencies:
       '@webcomponents/webcomponentsjs': 2.5.0
       prop-types: 15.7.2
