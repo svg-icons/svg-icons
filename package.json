@@ -23,7 +23,7 @@
     "@monorepolint/core": "0.5.0-alpha.65",
     "@storybook/html": "^6.2.9",
     "@storybook/react": "^6.2.9",
-    "@types/node": "^14.14.37",
+    "@types/node": "^17.0.5",
     "babel-loader": "^8.2.2",
     "chromatic": "^6.0.0",
     "core-js": "^3.12.1",
