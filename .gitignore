@@ -3,6 +3,7 @@
 *.tgz
 /public
 node_modules/
+.out/
 
 # Vendored modules
 !vendor/*.tgz

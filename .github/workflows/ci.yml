@@ -21,10 +21,10 @@ jobs:
           cache: pnpm
       - run: pnpm install --frozen-lockfile
       - run: pnpm build
-      - run: pnpm chromatic --exit-once-uploaded --exit-zero-on-changes
+      - run: pnpm build-storybook
+      - run: pnpm percy storybook ./.out
         env:
-          CHROMATIC_PROJECT_TOKEN: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
-          STORYBOOK_BUILD_TIMEOUT: 1200000 # 20 minutes
+          PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
 
   lint:
     name: Lint
