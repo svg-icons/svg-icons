@@ -14,7 +14,7 @@ importers:
       '@percy/storybook': ^4.1.0
       '@storybook/html': ^6.2.9
       '@storybook/react': ^6.2.9
-      '@types/node': ^14.14.37
+      '@types/node': ^17.0.16
       babel-loader: ^8.2.2
       core-js: ^3.12.1
       dotenv: ^10.0.0
@@ -36,7 +36,7 @@ importers:
       '@percy/storybook': 4.1.0_react-dom@17.0.2+react@17.0.2
       '@storybook/html': 6.2.9_17a146122248a3b2aa9c3716e05e5609
       '@storybook/react': 6.2.9_3ec516949cacd886d2caf841d6e29a91
-      '@types/node': 14.17.2
+      '@types/node': 17.0.16
       babel-loader: 8.2.2_@babel+core@7.14.3
       core-js: 3.14.0
       dotenv: 10.0.0
@@ -45,7 +45,7 @@ importers:
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       tiny-glob: 0.2.9
-      ts-node: 10.0.0_9c6825393a72b4b24406554754016cad
+      ts-node: 10.0.0_97856ac81693cb8ce05439c4f0455d58
       typescript: 4.3.2
 
   packages/bootstrap:
@@ -3926,6 +3926,10 @@ packages:
 
   /@types/node/14.17.2:
     resolution: {integrity: sha512-sld7b/xmFum66AAKuz/rp/CUO8+98fMpyQ3SBfzzBNGMd/1iHBTAg9oyAvcYlAj46bpc74r91jSw2iFdnx29nw==}
+    dev: true
+
+  /@types/node/17.0.16:
+    resolution: {integrity: sha512-ydLaGVfQOQ6hI1xK2A5nVh8bl0OGoIfYMxPWHqqYe9bTkWCfqiVvZoh2I/QF2sNSkZzZyROBoTefIEI+PB6iIA==}
     dev: true
 
   /@types/normalize-package-data/2.4.0:
@@ -11248,7 +11252,7 @@ packages:
     resolution: {integrity: sha512-3IVX4nI6B5cc31/GFFE+i8ey/N2eA0CZDbo6n0yrz0zDX8ZJ8djmU1p+XRz7G3is0F3bB3pu2pAroFdAWQKU3w==}
     dev: true
 
-  /ts-node/10.0.0_9c6825393a72b4b24406554754016cad:
+  /ts-node/10.0.0_97856ac81693cb8ce05439c4f0455d58:
     resolution: {integrity: sha512-ROWeOIUvfFbPZkoDis0L/55Fk+6gFQNZwwKPLinacRl6tsxstTF1DbAcLKkovwnpKMVvOMHP1TIbnwXwtLg1gg==}
     engines: {node: '>=12.0.0'}
     hasBin: true
@@ -11267,7 +11271,7 @@ packages:
       '@tsconfig/node12': 1.0.7
       '@tsconfig/node14': 1.0.0
       '@tsconfig/node16': 1.0.1
-      '@types/node': 14.17.2
+      '@types/node': 17.0.16
       arg: 4.1.3
       create-require: 1.1.1
       diff: 4.0.2
