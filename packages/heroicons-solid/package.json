@@ -1,6 +1,6 @@
 {
   "name": "@svg-icons/heroicons-solid",
-  "version": "1.85.0",
+  "version": "1.86.0",
   "license": "MIT",
   "description": "Heroicons Solid icons available as optimized SVGs",
   "author": "Jacob Gillespie <jacobwgillespie@gmail.com>",
@@ -27,7 +27,7 @@
   "devDependencies": {
     "@babel/core": "^7.17.0",
     "@storybook/html": "^6.4.18",
-    "@svg-icons/pack-builder": "^1.1.0",
+    "@svg-icons/pack-builder": "^1.2.0",
     "core-js": "^3.21.0",
     "heroicons": "1.0.5",
     "tiny-glob": "^0.2.9"
