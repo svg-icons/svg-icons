@@ -1,5 +1,11 @@
 # @svg-icons/feather
 
+## 1.86.0
+
+### Minor Changes
+
+- [#531](https://github.com/svg-icons/svg-icons/pull/531): Upgrade all icon dependencies ([`8a55024`](https://github.com/svg-icons/svg-icons/commit/8a550249c75e25eea01eb1cc5bac7b786bf798f9), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
 ## 1.39.1
 
 ### Patch Changes
