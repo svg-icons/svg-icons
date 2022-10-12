@@ -382,14 +382,14 @@ importers:
       '@storybook/html': ^6.4.18
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.21.0
-      ionicons: 6.0.1
+      ionicons: 6.0.3
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.17.0
       '@storybook/html': 6.4.18_e967ddb80faa13f3670713208bd6d76e
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.21.0
-      ionicons: 6.0.1
+      ionicons: 6.0.3
       tiny-glob: 0.2.9
 
   packages/ionicons-sharp:
@@ -398,14 +398,14 @@ importers:
       '@storybook/html': ^6.4.18
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.21.0
-      ionicons: 6.0.1
+      ionicons: 6.0.3
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.17.0
       '@storybook/html': 6.4.18_e967ddb80faa13f3670713208bd6d76e
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.21.0
-      ionicons: 6.0.1
+      ionicons: 6.0.3
       tiny-glob: 0.2.9
 
   packages/ionicons-solid:
@@ -414,14 +414,14 @@ importers:
       '@storybook/html': ^6.4.18
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.21.0
-      ionicons: 6.0.1
+      ionicons: 6.0.3
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.17.0
       '@storybook/html': 6.4.18_e967ddb80faa13f3670713208bd6d76e
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.21.0
-      ionicons: 6.0.1
+      ionicons: 6.0.3
       tiny-glob: 0.2.9
 
   packages/material-filled:
@@ -2775,8 +2775,8 @@ packages:
       object-assign: 4.1.1
     dev: true
 
-  /@stencil/core/2.12.1:
-    resolution: {integrity: sha512-u24TZ+FEvjnZt5ZgIkLjLpUNsO6Ml3mUZqwmqk81w6RWWz75hgB5p4RFI5rvuErFeh2xvMIGo+pNdG24XUBz1A==}
+  /@stencil/core/2.16.1:
+    resolution: {integrity: sha512-s/UJp9qxExL3DyQPT70kiuWeb3AdjbUZM+5lEIXn30I2DLcLYPOPXfsoWJODieQywq+3vPiLZeIdkoqjf6jcSw==}
     engines: {node: '>=12.10.0', npm: '>=6.0.0'}
     hasBin: true
     dev: true
@@ -8180,10 +8180,10 @@ packages:
       loose-envify: 1.4.0
     dev: true
 
-  /ionicons/6.0.1:
-    resolution: {integrity: sha512-xQekOJsxH82O7oB+3F60zeRggCdND9pJ/k0E6IJDVUGGlCj5mlyFqNgxUimytKgstPGv3S+3EmCxjefvtGgWUg==}
+  /ionicons/6.0.3:
+    resolution: {integrity: sha512-kVOWER991EMqLiVShrCSWKMHkgHZP7XfVdyN6YPMuoO33W7pc5CPNVNfR8OMe/I8rYEbaunyBs6dXNYpR6gGZw==}
     dependencies:
-      '@stencil/core': 2.12.1
+      '@stencil/core': 2.16.1
     dev: true
 
   /ip/1.1.5:
