@@ -3,11 +3,11 @@ const fs = require('fs')
 const path = require('path')
 
 module.exports = async () => {
-  const baseDir = path.dirname(require.resolve('material-design-icons-updated'))
-  const sourceFiles = await glob('icons/round/*/*.svg', {cwd: baseDir, absolute: true})
+  const baseDir = path.dirname(require.resolve('@material-design-icons/svg/package.json'))
+  const sourceFiles = await glob('round/*.svg', {cwd: baseDir, absolute: true})
 
   const allIcons = sourceFiles.map((filename) => {
-    const match = filename.match(/ic_(.*)_(([\d]+)px)\.svg$/)
+    const match = filename.match(/(?:\/.*)\/(.*)\.svg$/)
     return {
       originalName: match[1].replace(/_/g, '-'),
       source: fs.readFileSync(filename).toString(),
