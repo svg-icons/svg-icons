@@ -14,7 +14,7 @@ importers:
       '@percy/storybook': ^4.1.0
       '@storybook/html': ^6.4.18
       '@storybook/react': ^6.4.18
-      '@types/node': ^17.0.16
+      '@types/node': ^18.11.4
       babel-loader: ^8.2.3
       core-js: ^3.21.0
       dotenv: ^16.0.0
@@ -37,7 +37,7 @@ importers:
       '@percy/storybook': 4.1.0_react-dom@17.0.2+react@17.0.2
       '@storybook/html': 6.4.18_e967ddb80faa13f3670713208bd6d76e
       '@storybook/react': 6.4.18_fa4567ba0fdd0ad1e93845ebc4f96823
-      '@types/node': 17.0.16
+      '@types/node': 18.11.4
       babel-loader: 8.2.3_1ae55b9050e96e2b3bec4d845e4d3e55
       core-js: 3.21.0
       dotenv: 16.0.0
@@ -46,7 +46,7 @@ importers:
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       tiny-glob: 0.2.9
-      ts-node: 10.5.0_99ae9436e134a034c8d45fdd98ebbf22
+      ts-node: 10.5.0_09bf4627cf8b268ebdba99d297099a92
       typescript: 4.5.5
       webpack: 5.68.0
 
@@ -4369,6 +4369,10 @@ packages:
 
   /@types/node/17.0.16:
     resolution: {integrity: sha512-ydLaGVfQOQ6hI1xK2A5nVh8bl0OGoIfYMxPWHqqYe9bTkWCfqiVvZoh2I/QF2sNSkZzZyROBoTefIEI+PB6iIA==}
+    dev: true
+
+  /@types/node/18.11.4:
+    resolution: {integrity: sha512-BxcJpBu8D3kv/GZkx/gSMz6VnTJREBj/4lbzYOQueUOELkt8WrO6zAcSPmp9uRPEW/d+lUO8QK0W2xnS1hEU0A==}
     dev: true
 
   /@types/normalize-package-data/2.4.0:
@@ -11928,7 +11932,7 @@ packages:
     resolution: {integrity: sha512-3IVX4nI6B5cc31/GFFE+i8ey/N2eA0CZDbo6n0yrz0zDX8ZJ8djmU1p+XRz7G3is0F3bB3pu2pAroFdAWQKU3w==}
     dev: true
 
-  /ts-node/10.5.0_99ae9436e134a034c8d45fdd98ebbf22:
+  /ts-node/10.5.0_09bf4627cf8b268ebdba99d297099a92:
     resolution: {integrity: sha512-6kEJKwVxAJ35W4akuiysfKwKmjkbYxwQMTBaAxo9KKAx/Yd26mPUyhGz3ji+EsJoAgrLqVsYHNuuYwQe22lbtw==}
     hasBin: true
     peerDependencies:
@@ -11947,7 +11951,7 @@ packages:
       '@tsconfig/node12': 1.0.7
       '@tsconfig/node14': 1.0.0
       '@tsconfig/node16': 1.0.2
-      '@types/node': 17.0.16
+      '@types/node': 18.11.4
       acorn: 8.7.0
       acorn-walk: 8.2.0
       arg: 4.1.3
