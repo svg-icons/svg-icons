@@ -1,5 +1,13 @@
 # @svg-icons/fa-brands
 
+## 1.87.0
+
+### Minor Changes
+
+- [#755](https://github.com/svg-icons/svg-icons/pull/755): Fix issue with missing Font Awesome icons ([`bbb15b1`](https://github.com/svg-icons/svg-icons/commit/bbb15b14c38581435425b7cfdfd16bc1859ca5ed), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
+- [#755](https://github.com/svg-icons/svg-icons/pull/755): Upgrade all icons ([`684ee25`](https://github.com/svg-icons/svg-icons/commit/684ee2517cb82c5164eb2297ac6e844737c16c44), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
 ## 1.86.0
 
 ### Minor Changes

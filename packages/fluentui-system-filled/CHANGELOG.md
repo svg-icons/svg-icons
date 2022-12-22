@@ -1,5 +1,11 @@
 # @svg-icons/fluentui-system-filled
 
+## 1.87.0
+
+### Minor Changes
+
+- [#755](https://github.com/svg-icons/svg-icons/pull/755): Upgrade all icons ([`684ee25`](https://github.com/svg-icons/svg-icons/commit/684ee2517cb82c5164eb2297ac6e844737c16c44), [@jacobwgillespie](https://github.com/jacobwgillespie))
+
 ## 1.86.0
 
 ### Minor Changes
