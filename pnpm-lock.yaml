@@ -63,14 +63,14 @@ importers:
       '@babel/core': ^7.20.5
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
-      bootstrap-icons: 1.8.1
+      bootstrap-icons: 1.10.2
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
-      bootstrap-icons: 1.8.1
+      bootstrap-icons: 1.10.2
       core-js: 3.26.1
       tiny-glob: 0.2.9
 
@@ -79,14 +79,14 @@ importers:
       '@babel/core': ^7.20.5
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
-      boxicons: 2.1.1
+      boxicons: 2.1.4
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
-      boxicons: 2.1.1
+      boxicons: 2.1.4
       core-js: 3.26.1
       tiny-glob: 0.2.9
 
@@ -95,14 +95,14 @@ importers:
       '@babel/core': ^7.20.5
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
-      boxicons: 2.1.1
+      boxicons: 2.1.4
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
-      boxicons: 2.1.1
+      boxicons: 2.1.4
       core-js: 3.26.1
       tiny-glob: 0.2.9
 
@@ -111,14 +111,14 @@ importers:
       '@babel/core': ^7.20.5
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
-      boxicons: 2.1.1
+      boxicons: 2.1.4
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
-      boxicons: 2.1.1
+      boxicons: 2.1.4
       core-js: 3.26.1
       tiny-glob: 0.2.9
 
@@ -128,14 +128,14 @@ importers:
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
-      cryptocurrency-icons: 0.18.0
+      cryptocurrency-icons: 0.18.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
-      cryptocurrency-icons: 0.18.0
+      cryptocurrency-icons: 0.18.1
       tiny-glob: 0.2.9
 
   packages/entypo:
@@ -221,16 +221,16 @@ importers:
   packages/fa-brands:
     specifiers:
       '@babel/core': ^7.20.5
-      '@fortawesome/fontawesome-svg-core': 1.3.0
-      '@fortawesome/free-brands-svg-icons': 6.0.0
+      '@fortawesome/fontawesome-svg-core': 6.2.1
+      '@fortawesome/free-brands-svg-icons': 6.2.1
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
-      '@fortawesome/fontawesome-svg-core': 1.3.0
-      '@fortawesome/free-brands-svg-icons': 6.0.0
+      '@fortawesome/fontawesome-svg-core': 6.2.1
+      '@fortawesome/free-brands-svg-icons': 6.2.1
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
@@ -239,16 +239,16 @@ importers:
   packages/fa-regular:
     specifiers:
       '@babel/core': ^7.20.5
-      '@fortawesome/fontawesome-svg-core': 1.3.0
-      '@fortawesome/free-regular-svg-icons': 6.0.0
+      '@fortawesome/fontawesome-svg-core': 6.2.1
+      '@fortawesome/free-regular-svg-icons': 6.2.1
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
-      '@fortawesome/fontawesome-svg-core': 1.3.0
-      '@fortawesome/free-regular-svg-icons': 6.0.0
+      '@fortawesome/fontawesome-svg-core': 6.2.1
+      '@fortawesome/free-regular-svg-icons': 6.2.1
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
@@ -257,16 +257,16 @@ importers:
   packages/fa-solid:
     specifiers:
       '@babel/core': ^7.20.5
-      '@fortawesome/fontawesome-svg-core': 1.3.0
-      '@fortawesome/free-solid-svg-icons': 6.0.0
+      '@fortawesome/fontawesome-svg-core': 6.2.1
+      '@fortawesome/free-solid-svg-icons': 6.2.1
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
-      '@fortawesome/fontawesome-svg-core': 1.3.0
-      '@fortawesome/free-solid-svg-icons': 6.0.0
+      '@fortawesome/fontawesome-svg-core': 6.2.1
+      '@fortawesome/free-solid-svg-icons': 6.2.1
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
@@ -278,27 +278,27 @@ importers:
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
-      feather-icons: 4.28.0
+      feather-icons: 4.29.0
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
-      feather-icons: 4.28.0
+      feather-icons: 4.29.0
       tiny-glob: 0.2.9
 
   packages/fluentui-system-filled:
     specifiers:
       '@babel/core': ^7.20.5
-      '@fluentui/svg-icons': ^1.1.160
+      '@fluentui/svg-icons': ^1.1.190
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
-      '@fluentui/svg-icons': 1.1.160
+      '@fluentui/svg-icons': 1.1.190
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
@@ -307,14 +307,14 @@ importers:
   packages/fluentui-system-regular:
     specifiers:
       '@babel/core': ^7.20.5
-      '@fluentui/svg-icons': ^1.1.160
+      '@fluentui/svg-icons': ^1.1.190
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
-      '@fluentui/svg-icons': 1.1.160
+      '@fluentui/svg-icons': 1.1.190
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
@@ -342,14 +342,14 @@ importers:
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
-      heroicons: 1.0.5
+      heroicons: 2.0.13
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
-      heroicons: 1.0.5
+      heroicons: 2.0.13
       tiny-glob: 0.2.9
 
   packages/heroicons-solid:
@@ -358,14 +358,14 @@ importers:
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
-      heroicons: 1.0.5
+      heroicons: 2.0.13
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
-      heroicons: 1.0.5
+      heroicons: 2.0.13
       tiny-glob: 0.2.9
 
   packages/icomoon:
@@ -390,14 +390,14 @@ importers:
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
-      ionicons: 6.0.1
+      ionicons: 6.0.4
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
-      ionicons: 6.0.1
+      ionicons: 6.0.4
       tiny-glob: 0.2.9
 
   packages/ionicons-sharp:
@@ -406,14 +406,14 @@ importers:
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
-      ionicons: 6.0.1
+      ionicons: 6.0.4
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
-      ionicons: 6.0.1
+      ionicons: 6.0.4
       tiny-glob: 0.2.9
 
   packages/ionicons-solid:
@@ -422,27 +422,27 @@ importers:
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
-      ionicons: 6.0.1
+      ionicons: 6.0.4
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
-      ionicons: 6.0.1
+      ionicons: 6.0.4
       tiny-glob: 0.2.9
 
   packages/material-filled:
     specifiers:
       '@babel/core': ^7.20.5
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
@@ -451,14 +451,14 @@ importers:
   packages/material-outlined:
     specifiers:
       '@babel/core': ^7.20.5
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
@@ -467,14 +467,14 @@ importers:
   packages/material-rounded:
     specifiers:
       '@babel/core': ^7.20.5
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
@@ -483,14 +483,14 @@ importers:
   packages/material-sharp:
     specifiers:
       '@babel/core': ^7.20.5
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
@@ -499,14 +499,14 @@ importers:
   packages/material-twotone:
     specifiers:
       '@babel/core': ^7.20.5
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
@@ -515,14 +515,14 @@ importers:
   packages/octicons:
     specifiers:
       '@babel/core': ^7.20.5
-      '@primer/octicons': 16.3.1
+      '@primer/octicons': 17.10.0
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
-      '@primer/octicons': 16.3.1
+      '@primer/octicons': 17.10.0
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
@@ -598,14 +598,14 @@ importers:
       '@storybook/html': ^6.5.15
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.26.1
-      simple-icons: 6.9.0
+      simple-icons: 8.1.0
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.20.5
       '@storybook/html': 6.5.15_@babel+core@7.20.5
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.26.1
-      simple-icons: 6.9.0
+      simple-icons: 8.1.0
       tiny-glob: 0.2.9
 
   packages/typicons:
@@ -2318,46 +2318,46 @@ packages:
     engines: {node: '>=10.0.0'}
     dev: true
 
-  /@fluentui/svg-icons/1.1.160:
-    resolution: {integrity: sha512-x11INXPMgdOJnsdosKjrwyKPvlpUKGLaHAPYEpovu3rwY+VgKRBIuPJoaV7nskhUciHzDJ7XftXOuwnoeRUt3A==}
+  /@fluentui/svg-icons/1.1.190:
+    resolution: {integrity: sha512-uPa7EbUAIgbCn387TebIV/EFgBdHsPlDqCgLk4CodYXX4RhswVz3ceTO6F8ww13RKDX2jg5odi+rL6o0cr7LoA==}
     dev: true
 
-  /@fortawesome/fontawesome-common-types/0.3.0:
-    resolution: {integrity: sha512-CA3MAZBTxVsF6SkfkHXDerkhcQs0QPofy43eFdbWJJkZiq3SfiaH1msOkac59rQaqto5EqWnASboY1dBuKen5w==}
+  /@fortawesome/fontawesome-common-types/6.2.1:
+    resolution: {integrity: sha512-Sz07mnQrTekFWLz5BMjOzHl/+NooTdW8F8kDQxjWwbpOJcnoSg4vUDng8d/WR1wOxM0O+CY9Zw0nR054riNYtQ==}
     engines: {node: '>=6'}
     requiresBuild: true
     dev: true
 
-  /@fortawesome/fontawesome-svg-core/1.3.0:
-    resolution: {integrity: sha512-UIL6crBWhjTNQcONt96ExjUnKt1D68foe3xjEensLDclqQ6YagwCRYVQdrp/hW0ALRp/5Fv/VKw+MqTUWYYvPg==}
-    engines: {node: '>=6'}
-    requiresBuild: true
-    dependencies:
-      '@fortawesome/fontawesome-common-types': 0.3.0
-    dev: true
-
-  /@fortawesome/free-brands-svg-icons/6.0.0:
-    resolution: {integrity: sha512-BIhsy2YeGuk8+KQwpqmyayQDWo1lvGMHsMIE+z5ApPRgV7T+zGhmNzYVoBT4IrJMC6ep5WpGrxoHX+IvNxHnkw==}
+  /@fortawesome/fontawesome-svg-core/6.2.1:
+    resolution: {integrity: sha512-HELwwbCz6C1XEcjzyT1Jugmz2NNklMrSPjZOWMlc+ZsHIVk+XOvOXLGGQtFBwSyqfJDNgRq4xBCwWOaZ/d9DEA==}
     engines: {node: '>=6'}
     requiresBuild: true
     dependencies:
-      '@fortawesome/fontawesome-common-types': 0.3.0
+      '@fortawesome/fontawesome-common-types': 6.2.1
     dev: true
 
-  /@fortawesome/free-regular-svg-icons/6.0.0:
-    resolution: {integrity: sha512-lYK6oyQL8HwZUAVWGqF7TGuwQBVfphNBVTdvPSD3h4gmQfGazm/xcwg3kmtcRycu3y6QspOC7hPXSoJbVqSYCw==}
+  /@fortawesome/free-brands-svg-icons/6.2.1:
+    resolution: {integrity: sha512-L8l4MfdHPmZlJ72PvzdfwOwbwcCAL0vx48tJRnI6u1PJXh+j2f3yDoKyQgO3qjEsgD5Fr2tQV/cPP8F/k6aUig==}
     engines: {node: '>=6'}
     requiresBuild: true
     dependencies:
-      '@fortawesome/fontawesome-common-types': 0.3.0
+      '@fortawesome/fontawesome-common-types': 6.2.1
     dev: true
 
-  /@fortawesome/free-solid-svg-icons/6.0.0:
-    resolution: {integrity: sha512-o4FZ1XbndcgeWNb8Wh0y+Hgf73CjmyOQowUSaqQCtgIIdS+XliSBSOwCl330wER+I6CGYE96hT27bHBPmzX2Gg==}
+  /@fortawesome/free-regular-svg-icons/6.2.1:
+    resolution: {integrity: sha512-wiqcNDNom75x+pe88FclpKz7aOSqS2lOivZeicMV5KRwOAeypxEYWAK/0v+7r+LrEY30+qzh8r2XDaEHvoLsMA==}
     engines: {node: '>=6'}
     requiresBuild: true
     dependencies:
-      '@fortawesome/fontawesome-common-types': 0.3.0
+      '@fortawesome/fontawesome-common-types': 6.2.1
+    dev: true
+
+  /@fortawesome/free-solid-svg-icons/6.2.1:
+    resolution: {integrity: sha512-oKuqrP5jbfEPJWTij4sM+/RvgX+RMFwx3QZCZcK9PrBDgxC35zuc7AOFsyMjMd/PIFPeB2JxyqDr5zs/DZFPPw==}
+    engines: {node: '>=6'}
+    requiresBuild: true
+    dependencies:
+      '@fortawesome/fontawesome-common-types': 6.2.1
     dev: true
 
   /@gar/promisify/1.1.3:
@@ -2456,8 +2456,8 @@ packages:
       read-yaml-file: 1.1.0
     dev: true
 
-  /@material-design-icons/svg/0.13.0:
-    resolution: {integrity: sha512-L0ZsxX/E3292lG4495bj6UJ2ypPBSLeI5c6Jl2lUI5Ge7dCrU5n4jZFjRCdK9OvUaFJyZ0mZobmbV0v6SdtTRg==}
+  /@material-design-icons/svg/0.14.2:
+    resolution: {integrity: sha512-QjAzZmqV+7VI8+0eONVYBvSSlytpR+QQ/elT+YADoYq7R5Tc7kU1PaR0xOrEhwMR9MYK2yhUXqXymP8QY01ehg==}
     dev: true
 
   /@mdx-js/mdx/1.6.22:
@@ -2825,14 +2825,14 @@ packages:
       webpack: 5.75.0
     dev: true
 
-  /@primer/octicons/16.3.1:
-    resolution: {integrity: sha512-J3IlK0Ok88RQZVB//af7Lnl1Vw2buyyr5G3oEvK1wRSYTJi/E/HBm5JZUihmDAtm/unr85FC534DwA5e+4LR2w==}
+  /@primer/octicons/17.10.0:
+    resolution: {integrity: sha512-rg+NfA4M/SFutVzsqGwGWoKgXpHpTAbnoGvyGbkswT7iLV0PBFGJRkV61MhC61wEEF4SErMiaH5tOQKlvgvV9A==}
     dependencies:
       object-assign: 4.1.1
     dev: true
 
-  /@stencil/core/2.12.1:
-    resolution: {integrity: sha512-u24TZ+FEvjnZt5ZgIkLjLpUNsO6Ml3mUZqwmqk81w6RWWz75hgB5p4RFI5rvuErFeh2xvMIGo+pNdG24XUBz1A==}
+  /@stencil/core/2.20.0:
+    resolution: {integrity: sha512-ka+eOW+dNteXIfLCRipNbbAlBEQjqJ2fkx3fxzlKgnNHEQMdZiuIjlWt63KzvOJStNeuADdQXo89BB1dC2VRUw==}
     engines: {node: '>=12.10.0', npm: '>=6.0.0'}
     hasBin: true
     dev: true
@@ -5421,8 +5421,8 @@ packages:
       '@xtuc/long': 4.2.2
     dev: true
 
-  /@webcomponents/webcomponentsjs/2.5.0:
-    resolution: {integrity: sha512-C0l51MWQZ9kLzcxOZtniOMohpIFdCLZum7/TEHv3XWFc1Fvt5HCpbSX84x8ltka/JuNKcuiDnxXFkiB2gaePcg==}
+  /@webcomponents/webcomponentsjs/2.7.0:
+    resolution: {integrity: sha512-j161Z9oiy8k74vchdrQGihfSp7QulrTclCUiPo0D7JF6/RjpXAmB0ThlTAFlSElkgqg0vdFgNAXaX9ZHZy25wQ==}
     dev: true
 
   /@xtuc/ieee754/1.2.0:
@@ -6104,9 +6104,8 @@ packages:
     resolution: {integrity: sha512-JZOSA7Mo9sNGB8+UjSgzdLtokWAky1zbztM3WRLCbZ70/3cTANmQmOdR7y2g+J0e2WXywy1yS468tY+IruqEww==}
     dev: true
 
-  /bootstrap-icons/1.8.1:
-    resolution: {integrity: sha512-IXUqislddPJfwq6H+2nTkHyr9epO9h6u1AG0OZCx616w+TgzeoCjfmI3qJMQqt1J586gN2IxzB4M99Ip4sTZ1w==}
-    engines: {node: '>=10'}
+  /bootstrap-icons/1.10.2:
+    resolution: {integrity: sha512-PTPYadRn1AMGr+QTSxe4ZCc+Wzv9DGZxbi3lNse/dajqV31n2/wl/7NX78ZpkvFgRNmH4ogdIQPQmxAfhEV6nA==}
     dev: true
 
   /boxen/5.1.2:
@@ -6123,11 +6122,11 @@ packages:
       wrap-ansi: 7.0.0
     dev: true
 
-  /boxicons/2.1.1:
-    resolution: {integrity: sha512-+bOPcCnCM/7ZLDeKPB7OPqmtFmft58HfDZVEJLJx7ArDZhIDGY+wXSTUhC2eD3IGqv/UsgoDNyOKgIFoEiomGg==}
+  /boxicons/2.1.4:
+    resolution: {integrity: sha512-BvJNfYfnE4g9WQ7GL91fftxMOTwAleWlPFwvQJPYb/Ju7aLjlQ/Eu55AH9JLNk/OR82z+ZSq4TbKzbV/e5Rr0A==}
     dependencies:
-      '@webcomponents/webcomponentsjs': 2.5.0
-      prop-types: 15.7.2
+      '@webcomponents/webcomponentsjs': 2.7.0
+      prop-types: 15.8.1
       react: 16.14.0
       react-dom: 16.14.0_react@16.14.0
       react-interactive: 0.8.3_react@16.14.0
@@ -6580,8 +6579,8 @@ packages:
       static-extend: 0.1.2
     dev: true
 
-  /classnames/2.3.1:
-    resolution: {integrity: sha512-OlQdbZ7gLfGarSqxesMesDa5uz7KFbID8Kpq/SxIoNGDqY8lSYs0D+hhtBXhcdB3rcbXArFr7vlHheLk1voeNA==}
+  /classnames/2.3.2:
+    resolution: {integrity: sha512-CSbhY4cFEJRe6/GQzIk5qXZ4Jeg5pcsP7b5peFSDpffpe1cqjASH/n9UTjBwOp6XpMSTwQ8Za2K5V02ueA7Tmw==}
     dev: true
 
   /clean-css/4.2.4:
@@ -6982,8 +6981,8 @@ packages:
       randomfill: 1.0.4
     dev: true
 
-  /cryptocurrency-icons/0.18.0:
-    resolution: {integrity: sha512-Q8Uq/Vhzcn/B6ouoJk+5Q/Kfp0zz0DjfldPv836OKT5mxgYDZm8vWgMQ5wBuRvT8Z/ZHLeXaBUgJtufPXmG0NQ==}
+  /cryptocurrency-icons/0.18.1:
+    resolution: {integrity: sha512-dvR5O8JOmav3559Yb0Igpkia+3vpt/aeNvMu5ZIVUG2Bzpq9wNcOJRIQas49XJrPjtZ98GAEn3aDQO+w7uhS2w==}
     dev: true
 
   /css-loader/3.6.0_webpack@4.46.0:
@@ -8053,10 +8052,10 @@ packages:
       pend: 1.2.0
     dev: true
 
-  /feather-icons/4.28.0:
-    resolution: {integrity: sha512-gRdqKESXRBUZn6Nl0VBq2wPHKRJgZz7yblrrc2lYsS6odkNFDnA4bqvrlEVRUPjE1tFax+0TdbJKZ31ziJuzjg==}
+  /feather-icons/4.29.0:
+    resolution: {integrity: sha512-Y7VqN9FYb8KdaSF0qD1081HCkm0v4Eq/fpfQYQnubpqi0hXx14k+gF9iqtRys1SIcTEi97xDi/fmsPFZ8xo0GQ==}
     dependencies:
-      classnames: 2.3.1
+      classnames: 2.3.2
       core-js: 3.26.1
     dev: true
 
@@ -8871,8 +8870,8 @@ packages:
     hasBin: true
     dev: true
 
-  /heroicons/1.0.5:
-    resolution: {integrity: sha512-QMidnnCbBSmnuN0ieh6lDvAmIFeUoPyPv0z1/3Q2gM8c69aIcoolMCg9i0MZXwnNE//jWU1sxEFY4T2o1fYgeg==}
+  /heroicons/2.0.13:
+    resolution: {integrity: sha512-INL+CaS5eJ8+kkXc6kz+i/4m6AWYESGpyorDIZDPH281vZWjV/W6coGmXVZdvyYVLIbPx0id4fPbWvCj//MW5A==}
     dev: true
 
   /history/4.10.1:
@@ -8881,7 +8880,7 @@ packages:
       '@babel/runtime': 7.20.6
       loose-envify: 1.4.0
       resolve-pathname: 3.0.0
-      tiny-invariant: 1.1.0
+      tiny-invariant: 1.3.1
       tiny-warning: 1.0.3
       value-equal: 1.0.1
     dev: true
@@ -9160,10 +9159,10 @@ packages:
       loose-envify: 1.4.0
     dev: true
 
-  /ionicons/6.0.1:
-    resolution: {integrity: sha512-xQekOJsxH82O7oB+3F60zeRggCdND9pJ/k0E6IJDVUGGlCj5mlyFqNgxUimytKgstPGv3S+3EmCxjefvtGgWUg==}
+  /ionicons/6.0.4:
+    resolution: {integrity: sha512-uDNOkBo0OVYV+kIhb51g9mb7r3Z0b+78GPZQBsjXuaetNmrB/mNTqN/uFtO+vxL/rQySKjzk8qeKJI5NWL9Ueg==}
     dependencies:
-      '@stencil/core': 2.12.1
+      '@stencil/core': 2.20.0
     dev: true
 
   /ip/2.0.0:
@@ -9516,11 +9515,11 @@ packages:
     dev: true
 
   /isarray/0.0.1:
-    resolution: {integrity: sha1-ihis/Kmo9Bd+Cav8YDiTmwXR7t8=}
+    resolution: {integrity: sha512-D2S+3GLxWH+uhrNEcoh/fnmYeP8E8/zHl644d/jdA0g2uyXvy3sb0qxotE+ne0LtccHknQzWwZEzhak7oJ0COQ==}
     dev: true
 
   /isarray/1.0.0:
-    resolution: {integrity: sha1-u5NdSFgsuhaMBoNJV6VKPgcSTxE=}
+    resolution: {integrity: sha512-VLghIWNM6ELQzo7zwmcg0NmTVyWKYjvIeM83yjp0wRDTmUnrM678fQbcKBo6n2CJEF0szoG//ytg+TKla89ALQ==}
     dev: true
 
   /isarray/2.0.5:
@@ -11298,14 +11297,6 @@ packages:
       sisteransi: 1.0.5
     dev: true
 
-  /prop-types/15.7.2:
-    resolution: {integrity: sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==}
-    dependencies:
-      loose-envify: 1.4.0
-      object-assign: 4.1.1
-      react-is: 16.13.1
-    dev: true
-
   /prop-types/15.8.1:
     resolution: {integrity: sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==}
     dependencies:
@@ -11547,7 +11538,7 @@ packages:
     dependencies:
       detect-it: 3.0.7
       object-assign: 4.1.1
-      prop-types: 15.7.2
+      prop-types: 15.8.1
       react: 16.14.0
     dev: true
 
@@ -11572,7 +11563,7 @@ packages:
       history: 4.10.1
       invariant: 2.2.4
       loose-envify: 1.4.0
-      prop-types: 15.7.2
+      prop-types: 15.8.1
       react: 16.14.0
       react-router: 4.3.1_react@16.14.0
       warning: 4.0.3
@@ -11588,7 +11579,7 @@ packages:
       invariant: 2.2.4
       loose-envify: 1.4.0
       path-to-regexp: 1.8.0
-      prop-types: 15.7.2
+      prop-types: 15.8.1
       react: 16.14.0
       warning: 4.0.3
     dev: true
@@ -12252,8 +12243,8 @@ packages:
     resolution: {integrity: sha512-wnD2ZE+l+SPC/uoS0vXeE9L1+0wuaMqKlfz9AMUo38JsyLSBWSFcHR1Rri62LZc12vLr1gb3jl7iwQhgwpAbGQ==}
     dev: true
 
-  /simple-icons/6.9.0:
-    resolution: {integrity: sha512-zwICLGzmjWKGyh4ekYn2pHnN4ishy/HiY/QdrR0iZkeWbLI7L/LxELuREr9vjiDHsWUZIM+BMCToBHsoacg4RQ==}
+  /simple-icons/8.1.0:
+    resolution: {integrity: sha512-N2JKvoRoiFqsRaHiKLNHf6GzpfLqO+Bgoijq54rzIosfQIhmxgCiAKYW9ejzw0arCAeoQ3RiG18fIZct6xBXFA==}
     engines: {node: '>=0.12.18'}
     dev: true
 
@@ -12884,8 +12875,8 @@ packages:
       globrex: 0.1.2
     dev: true
 
-  /tiny-invariant/1.1.0:
-    resolution: {integrity: sha512-ytxQvrb1cPc9WBEI/HSeYYoGD0kWnGEOR8RY6KomWLBVhqz0RgTwVO9dLrGz7dC+nN9llyI7OKAgRq8Vq4ZBSw==}
+  /tiny-invariant/1.3.1:
+    resolution: {integrity: sha512-AD5ih2NlSssTCwsMznbvwMZpJ1cbhkGd2uueNxzv2jDlEeZdU04JQfRnggJQ8DrcVBGjAsCKwFBbDlVNtEMlzw==}
     dev: true
 
   /tiny-warning/1.0.3:
