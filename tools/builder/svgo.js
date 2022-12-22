@@ -33,7 +33,7 @@ const svgoOptions = {
     'removeNonInheritableGroupAttrs',
     'removeUselessStrokeAndFill',
     'removeUnusedNS',
-    'cleanupIDs',
+    'cleanupIds',
     'cleanupNumericValues',
     'moveElemsAttrsToGroup',
     'moveGroupAttrsToElems',
