@@ -15,10 +15,10 @@
     "access": "public"
   },
   "devDependencies": {
-    "fs-extra": "^10.0.0",
+    "fs-extra": "^11.1.0",
     "svg-parser": "^2.0.4",
-    "svgo": "^2.8.0",
+    "svgo": "^3.0.2",
     "tiny-glob": "^0.2.9",
-    "typescript": "^4.5.5"
+    "typescript": "^4.9.4"
   }
 }

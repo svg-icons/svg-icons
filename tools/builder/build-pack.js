@@ -53,14 +53,15 @@ const generate = async () => {
   await fs.writeFile(
     'icons.stories.js',
     `
-import {storiesOf} from '@storybook/html'
+export default {
+  title: '${path.basename(baseDir)}',
+}
 
-storiesOf('${path.basename(baseDir)}')
-  .add('icons', () => [
+export const icons = () => [
 ${icons
   .map((icon) => `    ['${icon.originalName}', require('!!raw-loader!./${icon.originalName}.svg').default],`)
   .join('\n')}
-  ].map(icon => \`<div>\${icon[0]}</div><div class="icon">\${icon[1]}</div>\`).join('\\n'))
+  ].map(icon => \`<div>\${icon[0]}</div><div class="icon">\${icon[1]}</div>\`).join('\\n')
 
 `.trim(),
   )
