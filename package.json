@@ -30,6 +30,7 @@
     "babel-loader": "^9.1.0",
     "core-js": "^3.26.1",
     "dotenv": "^16.0.3",
+    "fast-case": "^1.7.0",
     "prettier": "^2.8.1",
     "raw-loader": "^4.0.2",
     "react": "^18.2.0",
