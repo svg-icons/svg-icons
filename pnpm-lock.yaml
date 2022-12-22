@@ -427,14 +427,14 @@ importers:
   packages/material-filled:
     specifiers:
       '@babel/core': ^7.17.0
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': ^6.4.18
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.21.0
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.17.0
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': 6.4.18_@babel+core@7.17.0
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.21.0
@@ -443,14 +443,14 @@ importers:
   packages/material-outlined:
     specifiers:
       '@babel/core': ^7.17.0
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': ^6.4.18
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.21.0
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.17.0
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': 6.4.18_@babel+core@7.17.0
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.21.0
@@ -459,14 +459,14 @@ importers:
   packages/material-rounded:
     specifiers:
       '@babel/core': ^7.17.0
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': ^6.4.18
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.21.0
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.17.0
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': 6.4.18_@babel+core@7.17.0
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.21.0
@@ -475,14 +475,14 @@ importers:
   packages/material-sharp:
     specifiers:
       '@babel/core': ^7.17.0
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': ^6.4.18
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.21.0
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.17.0
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': 6.4.18_@babel+core@7.17.0
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.21.0
@@ -491,14 +491,14 @@ importers:
   packages/material-twotone:
     specifiers:
       '@babel/core': ^7.17.0
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': ^6.4.18
       '@svg-icons/pack-builder': ^1.2.0
       core-js: ^3.21.0
       tiny-glob: ^0.2.9
     devDependencies:
       '@babel/core': 7.17.0
-      '@material-design-icons/svg': 0.13.0
+      '@material-design-icons/svg': 0.14.2
       '@storybook/html': 6.4.18_@babel+core@7.17.0
       '@svg-icons/pack-builder': link:../../tools/builder
       core-js: 3.21.0
@@ -2415,8 +2415,8 @@ packages:
       read-yaml-file: 1.1.0
     dev: true
 
-  /@material-design-icons/svg/0.13.0:
-    resolution: {integrity: sha512-L0ZsxX/E3292lG4495bj6UJ2ypPBSLeI5c6Jl2lUI5Ge7dCrU5n4jZFjRCdK9OvUaFJyZ0mZobmbV0v6SdtTRg==}
+  /@material-design-icons/svg/0.14.2:
+    resolution: {integrity: sha512-QjAzZmqV+7VI8+0eONVYBvSSlytpR+QQ/elT+YADoYq7R5Tc7kU1PaR0xOrEhwMR9MYK2yhUXqXymP8QY01ehg==}
     dev: true
 
   /@mdx-js/mdx/1.6.22:
@@ -5820,6 +5820,7 @@ packages:
 
   /bindings/1.5.0:
     resolution: {integrity: sha512-p2q/t/mhvuOj/UeLlV6566GD/guowlr0hHxClI0W9m7MWYkL1F0hLo+0Aexs9HSPCtR1SXQ0TD3MMKrXZajbiQ==}
+    requiresBuild: true
     dependencies:
       file-uri-to-path: 1.0.0
     dev: true
@@ -7796,6 +7797,7 @@ packages:
 
   /file-uri-to-path/1.0.0:
     resolution: {integrity: sha512-0Zt+s3L7Vf1biwWZ29aARiVYLx7iMGnEUl9x33fbB/j3jR81u/O2LbqK+Bm1CDSNDKVtJ/YjwY7TUd5SkeLQLw==}
+    requiresBuild: true
     dev: true
     optional: true
 
@@ -9868,6 +9870,7 @@ packages:
 
   /nan/2.14.2:
     resolution: {integrity: sha512-M2ufzIiINKCuDfBSAUr1vWQ+vuVcA9kqx8JJUsbQi6yf1uGRyb7HfpdfUr5qLXf3B/t8dPvcjhKMmlfnP47EzQ==}
+    requiresBuild: true
     dev: true
     optional: true
 
