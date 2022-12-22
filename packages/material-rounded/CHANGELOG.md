@@ -1,5 +1,11 @@
 # @svg-icons/material-rounded
 
+## 1.87.0
+
+### Patch Changes
+
+- [#704](https://github.com/svg-icons/svg-icons/pull/704): Swap the Material Design Icons backing library ([`55819ca`](https://github.com/svg-icons/svg-icons/commit/55819ca9f9c3baea516cda946c6ff5e99ccf7206), [@stramel](https://github.com/stramel))
+
 ## 1.86.0
 
 ### Minor Changes
