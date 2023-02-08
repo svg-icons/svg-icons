@@ -27,7 +27,7 @@
   "devDependencies": {
     "@babel/core": "^7.20.5",
     "@fortawesome/fontawesome-svg-core": "6.2.1",
-    "@fortawesome/free-solid-svg-icons": "6.2.1",
+    "@fortawesome/free-solid-svg-icons": "6.3.0",
     "@storybook/html": "^6.5.15",
     "@svg-icons/pack-builder": "^1.2.0",
     "core-js": "^3.26.1",
